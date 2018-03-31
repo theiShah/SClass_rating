@@ -18,23 +18,16 @@ def index():
 	return render_template('index.html')
 
 @app.route('/', methods=['POST'])
-def index_post():
-    text = request.form['text']
-    
+def courses_post():
     cur = mysql.connection.cursor()
 
     # Get courses
-    result = cur.execute("SELECT * FROM courses WHERE title LIKE ?", text)
+    cur.execute("SELECT * FROM courses WHERE title LIKE '%s'" % request.form['text'])
 
     courses = cur.fetchall()
 
-    if result > 0:
-        return render_template('courses.html', courses=courses)
-    else:
-        msg = 'No Courses Found'
-        return render_template('courses.html', msg=msg)
+    return render_template('courses.html', courses=courses)
     # Close connection
-    cur.close()
 
 @app.route('/courses')
 def courses():
