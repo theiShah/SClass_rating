@@ -1,8 +1,15 @@
 {% extends 'layout.html' %}
 
 {% block body %}
-<div class="jumbotron text-center">
+<div class="mt-4 jumbotron text-center">
 	<h1>Welcome to RateMyClass</h1>
-	<p class="lead">Click on Courses or search for a class above</p>
+	<p class="lead">Click on Courses or search for a class</p>
+	<ul class="nav navbar-nav">
+      <li><a href="/courses" class="mt-1 mb-4 btn btn-primary btn-lg">Courses</a></li>
+    </ul>
+    <form method="POST">
+    	<input placeholder="Course name" class="mb-2 text-uppercase form-control" name="text">
+    	<input class="btn btn-success" type="submit" value="Search">
+	</form>
 </div>
 {% endblock %}

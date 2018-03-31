@@ -23,7 +23,7 @@ def editrow(directory, filename):
                   row[14] = row[14].replace(",",": ")
               if "," in row[8]:
                   row[8] = row[8].replace(",","+")
-              row.pop(13)
+              row.pop(12)
               row.pop(11)
               row.pop(10)
               row.pop(5)
