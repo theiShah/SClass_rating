@@ -17,6 +17,25 @@ mysql = MySQL(app)
 def index():
 	return render_template('index.html')
 
+@app.route('/', methods=['POST'])
+def index_post():
+    text = request.form['text']
+    
+    cur = mysql.connection.cursor()
+
+    # Get courses
+    result = cur.execute("SELECT * FROM courses WHERE title LIKE ?", text)
+
+    courses = cur.fetchall()
+
+    if result > 0:
+        return render_template('courses.html', courses=courses)
+    else:
+        msg = 'No Courses Found'
+        return render_template('courses.html', msg=msg)
+    # Close connection
+    cur.close()
+
 @app.route('/courses')
 def courses():
     # Create cursor

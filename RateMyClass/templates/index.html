@@ -3,6 +3,13 @@
 {% block body %}
 <div class="jumbotron text-center">
 	<h1>Welcome to RateMyClass</h1>
-	<p class="lead">Click on Courses or search for a class above</p>
+	<p class="lead">Click on Courses or search for a class</p>
+	<ul class="nav navbar-nav">
+      <li><a href="/courses" class="btn btn-success btn-lg">Courses</a></li>
+    </ul>
+    <form method="POST">
+    	<input name="text">
+    	<input type="submit">
+	</form>
 </div>
 {% endblock %}
