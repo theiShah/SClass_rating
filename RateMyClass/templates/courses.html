@@ -1,10 +1,14 @@
 {% extends 'layout.html' %}
 
 {% block body %}
-	<h1>Courses</h1>
+<div class="container">
+<div class="mt-4 jumbotron text-center pt-2">
+	<h1 class="mb-2">Courses</h1>
 	<ul class="list-group">
 	{% for course in courses %}
 		<li class="list-group-item"><a href="course/{{course.id}}">{{course.title}}</a></li>
 	{% endfor %}
 	</ul>
+</div>
+</div>
 {% endblock %}
