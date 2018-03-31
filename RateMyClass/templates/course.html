@@ -1,0 +1,10 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <h1>{{course.title}}</h1>
+  <small>{{course.professor}}</small>
+  <hr>
+  <div>
+    {{course.body | safe}}
+  </div>
+{% endblock %}
