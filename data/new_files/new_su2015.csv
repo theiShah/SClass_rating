@@ -43,9 +43,9 @@
 1,Stephen Small,1.3,African American Studies,W111,D+,Race:  Class & Gen
 5,Stephen Small,0,African American Studies,W111,F,Race:  Class & Gen
 32,Stephen Small,,African American Studies,W111,Pass,Race:  Class & Gen
-1,Stephen Small,,African American Studies,W111,Satisfactory,Race:  Class & Gen
+1,Stephen Small,,African American Studies,W111,Pass,Race:  Class & Gen
 3,Stephen Small,,African American Studies,W111,Not Pass,Race:  Class & Gen
-1,Stephen Small,,African American Studies,W111,Unsatisfactory,Race:  Class & Gen
+1,Stephen Small,,African American Studies,W111,Not Pass,Race:  Class & Gen
 2,Frederick Vincent,4,African American Studies,139,A+,Sel Top:Africam Soc
 7,Frederick Vincent,4,African American Studies,139,A,Sel Top:Africam Soc
 5,Frederick Vincent,3.7,African American Studies,139,A-,Sel Top:Africam Soc
@@ -56,7 +56,7 @@
 3,Kimberly Mcnair; Nailah Suad-Bakari,2.7,African American Studies,139,B-,Sel Top:Africam Soc
 1,Kimberly Mcnair; Nailah Suad-Bakari,2.3,African American Studies,139,C+,Sel Top:Africam Soc
 1,Kimberly Mcnair; Nailah Suad-Bakari,1,African American Studies,139,D,Sel Top:Africam Soc
-1,Kimberly Mcnair; Nailah Suad-Bakari,,African American Studies,139,Satisfactory,Sel Top:Africam Soc
+1,Kimberly Mcnair; Nailah Suad-Bakari,,African American Studies,139,Pass,Sel Top:Africam Soc
 12,Ameer Loggins; Leigh Raiford,4,African American Studies,159,A,Spec Top Afam Lit
 4,Ameer Loggins; Leigh Raiford,3.7,African American Studies,159,A-,Spec Top Afam Lit
 5,Ameer Loggins; Leigh Raiford,3.3,African American Studies,159,B+,Spec Top Afam Lit
@@ -65,10 +65,10 @@
 1,Ameer Loggins; Leigh Raiford,2,African American Studies,159,C,Spec Top Afam Lit
 2,Ameer Loggins; Leigh Raiford,0,African American Studies,159,F,Spec Top Afam Lit
 3,Leigh Raiford,4,African American Studies,299,A,Ind Stdy/Res
-4,Leigh Raiford,,African American Studies,299,Satisfactory,Ind Stdy/Res
-1,Sofia Villas-Boas,,Ag & Resource Econ & Pol,N299,Satisfactory,Individual Research
-2,Peter Berck,,Ag & Resource Econ & Pol,N602,Satisfactory,Ind Study:  Doctorat
-4,Sofia Villas-Boas,,Ag & Resource Econ & Pol,N602,Satisfactory,Ind Study:  Doctorat
+4,Leigh Raiford,,African American Studies,299,Pass,Ind Stdy/Res
+1,Sofia Villas-Boas,,Ag & Resource Econ & Pol,N299,Pass,Individual Research
+2,Peter Berck,,Ag & Resource Econ & Pol,N602,Pass,Ind Study:  Doctorat
+4,Sofia Villas-Boas,,Ag & Resource Econ & Pol,N602,Pass,Ind Study:  Doctorat
 6,Kathleen Moran,4,American Studies,101,A,Us Cultures In Time
 6,Kathleen Moran,3.7,American Studies,101,A-,Us Cultures In Time
 5,Kathleen Moran,3.3,American Studies,101,B+,Us Cultures In Time
@@ -92,7 +92,7 @@
 1,Beth Piatote; Leigh Raiford; Michael Cohen,1.7,American Studies,170AC,C-,Race And Ethnicity
 1,Beth Piatote; Leigh Raiford; Michael Cohen,0,American Studies,170AC,F,Race And Ethnicity
 9,Beth Piatote; Leigh Raiford; Michael Cohen,,American Studies,170AC,Pass,Race And Ethnicity
-1,Beth Piatote; Leigh Raiford; Michael Cohen,,American Studies,170AC,Satisfactory,Race And Ethnicity
+1,Beth Piatote; Leigh Raiford; Michael Cohen,,American Studies,170AC,Pass,Race And Ethnicity
 1,Beth Piatote; Leigh Raiford; Michael Cohen,,American Studies,170AC,Not Pass,Race And Ethnicity
 3,Beth Piatote,4,American Studies,180D,A,Race And Humor
 3,Beth Piatote,3.3,American Studies,180D,B+,Race And Humor
@@ -125,7 +125,7 @@
 1,Michael Cohen,0,American Studies,184I,F,Race And Amer Film
 6,Michael Cohen,,American Studies,184I,Pass,Race And Amer Film
 1,Michael Cohen,,American Studies,184I,Not Pass,Race And Amer Film
-1,J. Pena,,Anc Hist & Medit Archae,299,Satisfactory,Special Study
+1,J. Pena,,Anc Hist & Medit Archae,299,Pass,Special Study
 1,Annelise Morris,4,Anthropology,2AC,A+,Intro Archaeology
 8,Annelise Morris,4,Anthropology,2AC,A,Intro Archaeology
 4,Annelise Morris,3.7,Anthropology,2AC,A-,Intro Archaeology
@@ -192,7 +192,7 @@
 3,Kimberly Christensen,4,Anthropology,129E,A,Household Arch
 1,Kimberly Christensen,3.7,Anthropology,129E,A-,Household Arch
 1,Kimberly Christensen,3,Anthropology,129E,B,Household Arch
-1,Kimberly Christensen,,Anthropology,129E,Unsatisfactory,Household Arch
+1,Kimberly Christensen,,Anthropology,129E,Not Pass,Household Arch
 3,Katharine Young,4,Anthropology,162,A,Topics In Folklore
 4,Katharine Young,3.7,Anthropology,162,A-,Topics In Folklore
 5,Katharine Young,3.3,Anthropology,162,B+,Topics In Folklore
@@ -201,7 +201,7 @@
 1,Katharine Young,2,Anthropology,162,C,Topics In Folklore
 1,Katharine Young,0,Anthropology,162,F,Topics In Folklore
 1,Katharine Young,,Anthropology,162,Pass,Topics In Folklore
-1,Katharine Young,,Anthropology,162,Satisfactory,Topics In Folklore
+1,Katharine Young,,Anthropology,162,Pass,Topics In Folklore
 16,Clara Mantini-Briggs,4,Anthropology,189,A+,Spec Top:Soc/Cult
 7,Ruth Goldstein,4,Anthropology,189,A,Spec Top:Soc/Cult
 1,Daniel Fisher,3,Anthropology,H195B,B,Senior Honors
@@ -209,17 +209,17 @@
 1,Rosemary Joyce,,Anthropology,199,Pass,Superv Indep Study
 1,Rosemary Joyce,4,Anthropology,N298,A,Directed Reading
 2,Lawrence Cohen,4,Anthropology,N299,A,Directed Research
-1,Lawrence Cohen,,Anthropology,N299,Satisfactory,Directed Research
+1,Lawrence Cohen,,Anthropology,N299,Pass,Directed Research
 1,Junko Habu,4,Anthropology,N299,A,Directed Research
-1,Rosemary Joyce,,Anthropology,N299,Satisfactory,Directed Research
+1,Rosemary Joyce,,Anthropology,N299,Pass,Directed Research
 1,Daniel Fisher,4,Anthropology,N299,A+,Directed Research
-1,Mohammad Mofrad,,Applied Science & Tech,299,Satisfactory,Individual Research
-1,Armand Alivisatos,,Applied Science & Tech,299,Satisfactory,Individual Research
+1,Mohammad Mofrad,,Applied Science & Tech,299,Pass,Individual Research
+1,Armand Alivisatos,,Applied Science & Tech,299,Pass,Individual Research
 7,Soufiane Chami; Soufiane Soleimane Chami,4,Arabic,10,A,Intens Elem Arabic
 2,Soufiane Chami; Soufiane Soleimane Chami,3.3,Arabic,10,B+,Intens Elem Arabic
 1,Soufiane Chami; Soufiane Soleimane Chami,3,Arabic,10,B,Intens Elem Arabic
 2,Soufiane Chami; Soufiane Soleimane Chami,,Arabic,10,Not Pass,Intens Elem Arabic
-1,Soufiane Chami; Soufiane Soleimane Chami,,Arabic,10,Unsatisfactory,Intens Elem Arabic
+1,Soufiane Chami; Soufiane Soleimane Chami,,Arabic,10,Not Pass,Intens Elem Arabic
 2,Carol Redmount; Emily Drumsta,4,Arabic,10,A,Intens Elem Arabic
 1,Carol Redmount; Emily Drumsta,3.7,Arabic,10,A-,Intens Elem Arabic
 2,Carol Redmount; Emily Drumsta,3,Arabic,10,B,Intens Elem Arabic
@@ -246,7 +246,7 @@
 1,Isabelle Angieri,3.7,Architecture,124A,A-,3-D Computer Tech
 1,Isabelle Angieri,0,Architecture,124A,F,3-D Computer Tech
 4,Isabelle Angieri,,Architecture,124A,Pass,3-D Computer Tech
-1,Isabelle Angieri,,Architecture,124A,Satisfactory,3-D Computer Tech
+1,Isabelle Angieri,,Architecture,124A,Pass,3-D Computer Tech
 1,Isabelle Angieri,,Architecture,124A,Not Pass,3-D Computer Tech
 3,Brendon Levitt,4,Architecture,149,A+,Spec Top Erg Envir
 7,Brendon Levitt,4,Architecture,149,A,Spec Top Erg Envir
@@ -257,9 +257,9 @@
 1,Brendon Levitt,,Architecture,149,Pass,Spec Top Erg Envir
 12,Alejandro Salazar-Jasbon; Tom Buresh,,Architecture,198,Pass,Directed Group Stdy
 14,Mark Schatz,,Architecture,198,Pass,Directed Group Stdy
-8,Tom Buresh,,Architecture,N299,Satisfactory,Individual Study
-7,Nezar Alsayyad,,Architecture,N299,Satisfactory,Individual Study
-1,Andrew Shanken,,Architecture,N299,Satisfactory,Individual Study
+8,Tom Buresh,,Architecture,N299,Pass,Individual Study
+7,Nezar Alsayyad,,Architecture,N299,Pass,Individual Study
+1,Andrew Shanken,,Architecture,N299,Pass,Individual Study
 2,Tanja Geis,4,Art Practice,8,A+,Intro Vis Thinking
 11,Tanja Geis,4,Art Practice,8,A,Intro Vis Thinking
 2,Tanja Geis,3.7,Art Practice,8,A-,Intro Vis Thinking
@@ -380,7 +380,7 @@
 1,Ryan Trainor,1,Astronomy,10,D,General Astronomy
 1,Ryan Trainor,0,Astronomy,10,F,General Astronomy
 3,Ryan Trainor,,Astronomy,10,Pass,General Astronomy
-1,Ryan Trainor,,Astronomy,10,Satisfactory,General Astronomy
+1,Ryan Trainor,,Astronomy,10,Pass,General Astronomy
 1,Ryan Trainor,,Astronomy,10,Not Pass,General Astronomy
 2,Gaspard Duchene,4,Astronomy,C12,A,The Planets
 2,Gaspard Duchene,3.7,Astronomy,C12,A-,The Planets
@@ -400,8 +400,8 @@
 9,Gibor Basri,,Astronomy,199,Pass,Superv Indep Study
 1,James Graham,,Astronomy,199,Pass,Superv Indep Study
 1,Eugene Chiang,4,Astronomy,N299,A,Adv Study:  Research
-1,Aaron Parsons,,Astronomy,N299,Satisfactory,Adv Study:  Research
-1,Eliot Quataert,,Astronomy,N299,Satisfactory,Adv Study:  Research
+1,Aaron Parsons,,Astronomy,N299,Pass,Adv Study:  Research
+1,Eliot Quataert,,Astronomy,N299,Pass,Adv Study:  Research
 1,Mark Rittenberg,4,Berk-Columbia Exec MBA,200C,A+,Communications
 9,Mark Rittenberg,4,Berk-Columbia Exec MBA,200C,A,Communications
 39,Mark Rittenberg,3.7,Berk-Columbia Exec MBA,200C,A-,Communications
@@ -475,15 +475,15 @@
 3,Dorian Liepmann,4,Bioengineering,196,A,Hon Underg Des Res
 5,Jay Keasling,,Bioengineering,199,Pass,Superv Indep Study
 3,Dorian Liepmann,,Bioengineering,199,Pass,Superv Indep Study
-1,Daniel Fletcher,,Bioengineering,N299,Satisfactory,Indiv Stud Research
-1,Amy Herr,,Bioengineering,N299,Satisfactory,Indiv Stud Research
-1,Luke Lee,,Bioengineering,N299,Satisfactory,Indiv Stud Research
-2,Seung-Wuk Lee,,Bioengineering,N299,Satisfactory,Indiv Stud Research
-1,Song Li,,Bioengineering,N299,Satisfactory,Indiv Stud Research
-1,Dorian Liepmann,,Bioengineering,N299,Satisfactory,Indiv Stud Research
-1,Gerard Marriott,,Bioengineering,N299,Satisfactory,Indiv Stud Research
-1,Mohammad Mofrad,,Bioengineering,N299,Satisfactory,Indiv Stud Research
-2,John Dueber,,Bioengineering,N299,Satisfactory,Indiv Stud Research
+1,Daniel Fletcher,,Bioengineering,N299,Pass,Indiv Stud Research
+1,Amy Herr,,Bioengineering,N299,Pass,Indiv Stud Research
+1,Luke Lee,,Bioengineering,N299,Pass,Indiv Stud Research
+2,Seung-Wuk Lee,,Bioengineering,N299,Pass,Indiv Stud Research
+1,Song Li,,Bioengineering,N299,Pass,Indiv Stud Research
+1,Dorian Liepmann,,Bioengineering,N299,Pass,Indiv Stud Research
+1,Gerard Marriott,,Bioengineering,N299,Pass,Indiv Stud Research
+1,Mohammad Mofrad,,Bioengineering,N299,Pass,Indiv Stud Research
+2,John Dueber,,Bioengineering,N299,Pass,Indiv Stud Research
 1,James Baxter; Mark Barnby; Michael Meighan,4,Biology,1A,A+,General Biology Lec
 11,James Baxter; Mark Barnby; Michael Meighan,4,Biology,1A,A,General Biology Lec
 13,James Baxter; Mark Barnby; Michael Meighan,3.7,Biology,1A,A-,General Biology Lec
@@ -526,11 +526,11 @@
 2,Alexander Von Rospatt; Trent Walker,4,Buddhist Studies,128,A,Buddhism Contemp
 1,Alexander Von Rospatt; Trent Walker,3,Buddhist Studies,128,B,Buddhism Contemp
 1,Jacob Dalton,4,Buddhist Studies,298,A,Dir Stu For Grad St
-2,Alexander Von Rospatt,,Buddhist Studies,298,Satisfactory,Dir Stu For Grad St
-70,Stephanie Fujii,,Business Admin-MBA,293C,Satisfactory,Curriclr Pract Trng
-1,Stephanie Fujii,,Business Admin-MBA,293C,Unsatisfactory,Curriclr Pract Trng
-9,Martin Lettau,,Business Admin-PhD,299A,Satisfactory,Individual Research
-3,Martin Lettau,,Business Admin-PhD,602C,Satisfactory,Curriclr Pract Trng
+2,Alexander Von Rospatt,,Buddhist Studies,298,Pass,Dir Stu For Grad St
+70,Stephanie Fujii,,Business Admin-MBA,293C,Pass,Curriclr Pract Trng
+1,Stephanie Fujii,,Business Admin-MBA,293C,Not Pass,Curriclr Pract Trng
+9,Martin Lettau,,Business Admin-PhD,299A,Pass,Individual Research
+3,Martin Lettau,,Business Admin-PhD,602C,Pass,Curriclr Pract Trng
 1,Thomas Mccullough,4,Business Admin-Undergrad,101A,A+,Microeconomic Analy
 3,Thomas Mccullough,4,Business Admin-Undergrad,101A,A,Microeconomic Analy
 7,Thomas Mccullough,3.7,Business Admin-Undergrad,101A,A-,Microeconomic Analy
@@ -550,7 +550,7 @@
 1,John Veitch,2,Business Admin-Undergrad,101B,C,Macroeconomics
 2,John Veitch,1,Business Admin-Undergrad,101B,D,Macroeconomics
 1,John Veitch,0,Business Admin-Undergrad,101B,F,Macroeconomics
-1,John Veitch,,Business Admin-Undergrad,101B,Unsatisfactory,Macroeconomics
+1,John Veitch,,Business Admin-Undergrad,101B,Not Pass,Macroeconomics
 4,Steven Wood,4,Business Admin-Undergrad,101B,A,Macroeconomics
 4,Steven Wood,3.7,Business Admin-Undergrad,101B,A-,Macroeconomics
 9,Steven Wood,3.3,Business Admin-Undergrad,101B,B+,Macroeconomics
@@ -562,9 +562,9 @@
 4,Steven Wood,1,Business Admin-Undergrad,101B,D,Macroeconomics
 13,Steven Wood,0,Business Admin-Undergrad,101B,F,Macroeconomics
 4,Steven Wood,,Business Admin-Undergrad,101B,Pass,Macroeconomics
-1,Steven Wood,,Business Admin-Undergrad,101B,Satisfactory,Macroeconomics
+1,Steven Wood,,Business Admin-Undergrad,101B,Pass,Macroeconomics
 4,Steven Wood,,Business Admin-Undergrad,101B,Not Pass,Macroeconomics
-1,Steven Wood,,Business Admin-Undergrad,101B,Unsatisfactory,Macroeconomics
+1,Steven Wood,,Business Admin-Undergrad,101B,Not Pass,Macroeconomics
 3,Baris Korcan Ak,4,Business Admin-Undergrad,102A,A+,Intro Fin Account
 10,Baris Korcan Ak,4,Business Admin-Undergrad,102A,A,Intro Fin Account
 12,Baris Korcan Ak,3.7,Business Admin-Undergrad,102A,A-,Intro Fin Account
@@ -715,7 +715,7 @@
 3,David Robinson,0.7,Business Admin-Undergrad,106,D-,Marketing
 3,David Robinson,0,Business Admin-Undergrad,106,F,Marketing
 3,David Robinson,,Business Admin-Undergrad,106,Pass,Marketing
-1,David Robinson,,Business Admin-Undergrad,106,Satisfactory,Marketing
+1,David Robinson,,Business Admin-Undergrad,106,Pass,Marketing
 4,Wasim Azhar,4,Business Admin-Undergrad,106,A+,Marketing
 7,Wasim Azhar,4,Business Admin-Undergrad,106,A,Marketing
 23,Wasim Azhar,3.7,Business Admin-Undergrad,106,A-,Marketing
@@ -804,7 +804,7 @@
 1,Avinash Verma,1.7,Business Admin-Undergrad,131,C-,Corp Fin Analysis
 3,Avinash Verma,0,Business Admin-Undergrad,131,F,Corp Fin Analysis
 1,Avinash Verma,,Business Admin-Undergrad,131,Pass,Corp Fin Analysis
-1,Avinash Verma,,Business Admin-Undergrad,131,Satisfactory,Corp Fin Analysis
+1,Avinash Verma,,Business Admin-Undergrad,131,Pass,Corp Fin Analysis
 1,Samuel Olesky,4,Business Admin-Undergrad,132,A+,Fin Instit & Mrkts
 13,Samuel Olesky,4,Business Admin-Undergrad,132,A,Fin Instit & Mrkts
 13,Samuel Olesky,3.7,Business Admin-Undergrad,132,A-,Fin Instit & Mrkts
@@ -814,7 +814,7 @@
 1,Samuel Olesky,1,Business Admin-Undergrad,132,D,Fin Instit & Mrkts
 1,Samuel Olesky,0,Business Admin-Undergrad,132,F,Fin Instit & Mrkts
 5,Samuel Olesky,,Business Admin-Undergrad,132,Pass,Fin Instit & Mrkts
-1,Samuel Olesky,,Business Admin-Undergrad,132,Satisfactory,Fin Instit & Mrkts
+1,Samuel Olesky,,Business Admin-Undergrad,132,Pass,Fin Instit & Mrkts
 12,Samuel Olesky,4,Business Admin-Undergrad,133,A,Investments
 14,Samuel Olesky,3.7,Business Admin-Undergrad,133,A-,Investments
 14,Samuel Olesky,3.3,Business Admin-Undergrad,133,B+,Investments
@@ -823,7 +823,7 @@
 1,Samuel Olesky,2.3,Business Admin-Undergrad,133,C+,Investments
 2,Samuel Olesky,2,Business Admin-Undergrad,133,C,Investments
 3,Samuel Olesky,,Business Admin-Undergrad,133,Pass,Investments
-1,Samuel Olesky,,Business Admin-Undergrad,133,Satisfactory,Investments
+1,Samuel Olesky,,Business Admin-Undergrad,133,Pass,Investments
 1,Samuel Olesky,,Business Admin-Undergrad,133,Not Pass,Investments
 1,Arash Namvar,4,Business Admin-Undergrad,133,A+,Investments
 20,Arash Namvar,4,Business Admin-Undergrad,133,A,Investments
@@ -834,7 +834,7 @@
 1,Arash Namvar,1,Business Admin-Undergrad,133,D,Investments
 5,Arash Namvar,0,Business Admin-Undergrad,133,F,Investments
 4,Arash Namvar,,Business Admin-Undergrad,133,Pass,Investments
-1,Arash Namvar,,Business Admin-Undergrad,133,Satisfactory,Investments
+1,Arash Namvar,,Business Admin-Undergrad,133,Pass,Investments
 12,Konstantin Magin,4,Business Admin-Undergrad,136F,A,Behavioral Finance
 10,Konstantin Magin,3,Business Admin-Undergrad,136F,B,Behavioral Finance
 6,Konstantin Magin,2,Business Admin-Undergrad,136F,C,Behavioral Finance
@@ -874,7 +874,7 @@
 2,William Fanning,1,Business Admin-Undergrad,160,D,Consumer Behavior
 3,William Fanning,0,Business Admin-Undergrad,160,F,Consumer Behavior
 1,William Fanning,,Business Admin-Undergrad,160,Pass,Consumer Behavior
-1,William Fanning,,Business Admin-Undergrad,160,Satisfactory,Consumer Behavior
+1,William Fanning,,Business Admin-Undergrad,160,Pass,Consumer Behavior
 3,William Fanning,4,Business Admin-Undergrad,165,A,Advertise Strategy
 9,William Fanning,3.7,Business Admin-Undergrad,165,A-,Advertise Strategy
 7,William Fanning,3.3,Business Admin-Undergrad,165,B+,Advertise Strategy
@@ -886,7 +886,7 @@
 1,William Fanning,1,Business Admin-Undergrad,165,D,Advertise Strategy
 3,William Fanning,0,Business Admin-Undergrad,165,F,Advertise Strategy
 12,William Fanning,,Business Admin-Undergrad,165,Pass,Advertise Strategy
-1,William Fanning,,Business Admin-Undergrad,165,Satisfactory,Advertise Strategy
+1,William Fanning,,Business Admin-Undergrad,165,Pass,Advertise Strategy
 1,Alan Ross,4,Business Admin-Undergrad,175,A+,Legal Aspects
 9,Alan Ross,4,Business Admin-Undergrad,175,A,Legal Aspects
 7,Alan Ross,3.7,Business Admin-Undergrad,175,A-,Legal Aspects
@@ -906,7 +906,7 @@
 12,Daniel Himelstein,2.7,Business Admin-Undergrad,178,B-,Intro Internatl Bus
 2,Daniel Himelstein,0,Business Admin-Undergrad,178,F,Intro Internatl Bus
 9,Daniel Himelstein,,Business Admin-Undergrad,178,Pass,Intro Internatl Bus
-2,Daniel Himelstein,,Business Admin-Undergrad,178,Satisfactory,Intro Internatl Bus
+2,Daniel Himelstein,,Business Admin-Undergrad,178,Pass,Intro Internatl Bus
 5,Daniel Himelstein,4,Business Admin-Undergrad,178,A,Intro Internatl Bus
 14,Daniel Himelstein,3.7,Business Admin-Undergrad,178,A-,Intro Internatl Bus
 21,Daniel Himelstein,3.3,Business Admin-Undergrad,178,B+,Intro Internatl Bus
@@ -927,7 +927,7 @@
 3,Ericka Lutz,3,Business Admin-Undergrad,191C,B,Comm For Leaders
 1,Ericka Lutz,0,Business Admin-Undergrad,191C,F,Comm For Leaders
 4,Ericka Lutz,,Business Admin-Undergrad,191C,Pass,Comm For Leaders
-1,Ericka Lutz,,Business Admin-Undergrad,191C,Satisfactory,Comm For Leaders
+1,Ericka Lutz,,Business Admin-Undergrad,191C,Pass,Comm For Leaders
 1,Ericka Lutz,,Business Admin-Undergrad,191C,Not Pass,Comm For Leaders
 6,Omar Romero-Hernandez,4,Business Admin-Undergrad,192T,A,Topics In Csr
 4,Omar Romero-Hernandez,3.7,Business Admin-Undergrad,192T,A-,Topics In Csr
@@ -1002,7 +1002,7 @@
 14,Steven Pedersen,1,Chemistry,3A,D,Chem Struct React
 12,Steven Pedersen,0,Chemistry,3A,F,Chem Struct React
 3,Steven Pedersen,,Chemistry,3A,Pass,Chem Struct React
-1,Steven Pedersen,,Chemistry,3A,Satisfactory,Chem Struct React
+1,Steven Pedersen,,Chemistry,3A,Pass,Chem Struct React
 8,Steven Pedersen,,Chemistry,3A,Not Pass,Chem Struct React
 4,Steven Pedersen,4,Chemistry,N3AL,A+,Organic Chem Lab
 80,Steven Pedersen,4,Chemistry,N3AL,A,Organic Chem Lab
@@ -1028,7 +1028,7 @@
 9,Peter Marsden,0,Chemistry,3B,F,Chem Struct React
 3,Peter Marsden,,Chemistry,3B,Pass,Chem Struct React
 4,Peter Marsden,,Chemistry,3B,Not Pass,Chem Struct React
-1,Peter Marsden,,Chemistry,3B,Unsatisfactory,Chem Struct React
+1,Peter Marsden,,Chemistry,3B,Not Pass,Chem Struct React
 7,Peter Marsden,4,Chemistry,3BL,A+,Organic Chem Lab
 136,Peter Marsden,4,Chemistry,3BL,A,Organic Chem Lab
 24,Peter Marsden,3.7,Chemistry,3BL,A-,Organic Chem Lab
@@ -1039,7 +1039,7 @@
 2,Peter Marsden,1.7,Chemistry,3BL,C-,Organic Chem Lab
 1,Peter Marsden,0,Chemistry,3BL,F,Organic Chem Lab
 1,Peter Marsden,,Chemistry,3BL,Pass,Organic Chem Lab
-1,Peter Marsden,,Chemistry,3BL,Satisfactory,Organic Chem Lab
+1,Peter Marsden,,Chemistry,3BL,Pass,Organic Chem Lab
 1,Peter Marsden,,Chemistry,3BL,Not Pass,Organic Chem Lab
 1,Christopher Chang,4,Chemistry,H194,A,Honors Research
 1,Michelle Chang,4,Chemistry,H194,A,Honors Research
@@ -1057,25 +1057,25 @@
 1,Michelle Douskey,4,Chemistry,196,A,Special Lab Study
 4,Marcin Majda,,Chemistry,197,Pass,Field Study In Chem
 2,Armand Alivisatos,4,Chemistry,N299,A,Research
-1,Anne Baranger,,Chemistry,N299,Satisfactory,Research
+1,Anne Baranger,,Chemistry,N299,Pass,Research
 1,Michelle Chang,4,Chemistry,N299,A,Research
 2,Ronald Cohen,4,Chemistry,N299,A,Research
 1,Matthew Francis,4,Chemistry,N299,A,Research
-1,Phillip Geissler,,Chemistry,N299,Satisfactory,Research
+1,Phillip Geissler,,Chemistry,N299,Pass,Research
 1,John Hartwig,4,Chemistry,N299,A,Research
 1,Stephen Leone,4,Chemistry,N299,A,Research
 2,Thomas Maimone,4,Chemistry,N299,A,Research
 1,Thomas Maimone,3.3,Chemistry,N299,B+,Research
 1,Daniel Neumark,4,Chemistry,N299,A,Research
 2,Richmond Sarpong,4,Chemistry,N299,A,Research
-1,Richmond Sarpong,,Chemistry,N299,Satisfactory,Research
+1,Richmond Sarpong,,Chemistry,N299,Pass,Research
 1,Angelica Stacy,4,Chemistry,N299,A,Research
 1,Dean Toste,4,Chemistry,N299,A,Research
 1,Dean Toste,3,Chemistry,N299,B,Research
-1,Dean Toste,,Chemistry,N299,Satisfactory,Research
+1,Dean Toste,,Chemistry,N299,Pass,Research
 2,Ke Xu,4,Chemistry,N299,A,Research
 1,Ting Xu,4,Chemistry,N299,A,Research
-2,David Wemmer,,Chemistry,602,Satisfactory,Individual Study
+2,David Wemmer,,Chemistry,602,Pass,Individual Study
 3,Alex Saragoza; Robert Reyes,4,Chicano Studies,R1AN,A,Reading & Comp
 5,Alex Saragoza; Robert Reyes,3.7,Chicano Studies,R1AN,A-,Reading & Comp
 7,Alex Saragoza; Robert Reyes,3.3,Chicano Studies,R1AN,B+,Reading & Comp
@@ -1101,13 +1101,13 @@
 1,Alex Saragoza,3,Chicano Studies,159,B,Mexican Immigration
 1,Alex Saragoza,2.7,Chicano Studies,159,B-,Mexican Immigration
 1,Alex Saragoza,,Chicano Studies,159,Pass,Mexican Immigration
-1,Alex Saragoza,,Chicano Studies,159,Satisfactory,Mexican Immigration
+1,Alex Saragoza,,Chicano Studies,159,Pass,Mexican Immigration
 6,Damien Donnelly; Xiaojing Sun,4,Chinese,1,A,Elem Chinese Intens
 2,Damien Donnelly; Xiaojing Sun,3.7,Chinese,1,A-,Elem Chinese Intens
 2,Damien Donnelly; Xiaojing Sun,3,Chinese,1,B,Elem Chinese Intens
 1,Damien Donnelly; Xiaojing Sun,2,Chinese,1,C,Elem Chinese Intens
 1,Damien Donnelly; Xiaojing Sun,,Chinese,1,Pass,Elem Chinese Intens
-1,Damien Donnelly; Xiaojing Sun,,Chinese,1,Satisfactory,Elem Chinese Intens
+1,Damien Donnelly; Xiaojing Sun,,Chinese,1,Pass,Elem Chinese Intens
 1,Damien Donnelly; Xiaojing Sun,,Chinese,1,Not Pass,Elem Chinese Intens
 3,Mark Csikszentmihalyi; Tae Hyun Kim,4,Chinese,7A,A,Premod Chinese Lit
 2,Julia Keblinska; Paula Varsano,4,Chinese,7B,A,Modern Chinese Lit
@@ -1123,7 +1123,7 @@
 7,I-Hao Li,3.7,Chinese,105,A-,Business Chinese
 1,I-Hao Li,3.3,Chinese,105,B+,Business Chinese
 1,I-Hao Li,3.7,Chinese,105,A-,Business Chinese
-1,Andrew Jones,,Chinese,298,Satisfactory,Dir Stu For Grad St
+1,Andrew Jones,,Chinese,298,Pass,Dir Stu For Grad St
 1,Ricardo Huerta,4,City & Regional Planning,110,A+,Intro To City Plng
 3,Ricardo Huerta,4,City & Regional Planning,110,A,Intro To City Plng
 9,Ricardo Huerta,3.7,City & Regional Planning,110,A-,Intro To City Plng
@@ -1155,7 +1155,7 @@
 5,Jennifer Tucker; Paul Waddell,,City & Regional Planning,118AC,Pass,The Urban Comm
 1,Michael Dear,,City & Regional Planning,199,Pass,Superv Indep Study
 2,Paul Waddell,3.7,City & Regional Planning,N299,A-,Ind Stdy Or Res
-12,Paul Waddell,,City & Regional Planning,N299,Satisfactory,Ind Stdy Or Res
+12,Paul Waddell,,City & Regional Planning,N299,Pass,Ind Stdy Or Res
 2,Sanjay Govindjee,4,Civil & Environmental Eng,W30,A,Intro Solid Mechncs
 1,Sanjay Govindjee,3.7,Civil & Environmental Eng,W30,A-,Intro Solid Mechncs
 1,Sanjay Govindjee,3.3,Civil & Environmental Eng,W30,B+,Intro Solid Mechncs
@@ -1189,27 +1189,27 @@
 1,Charles Ibbs,,Civil & Environmental Eng,199,Pass,Superv Indep Study
 1,Jack Moehle,,Civil & Environmental Eng,199,Pass,Superv Indep Study
 1,Paulo Monteiro,,Civil & Environmental Eng,199,Pass,Superv Indep Study
-1,Abolhassan Astaneh-Asl,,Civil & Environmental Eng,297,Satisfactory,Fld Studies In Cee
-1,Stephen Mahin,,Civil & Environmental Eng,297,Satisfactory,Fld Studies In Cee
-1,Robert Harley,,Civil & Environmental Eng,297,Satisfactory,Fld Studies In Cee
-1,Michael Cassidy,,Civil & Environmental Eng,297,Satisfactory,Fld Studies In Cee
-1,David Sedlak,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-1,Robert Harley,,Civil & Environmental Eng,299,Unsatisfactory,Individual Research
-1,Iris Tommelein,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-1,Slawomir Hermanowicz,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-1,Alexandre Bayen,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-3,Samer Madanat,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-1,Fotini Chow,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-2,Nicholas Sitar,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-2,Paulo Monteiro,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-1,Lisa Alvarez-Cohen,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-1,Evan Variano,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-1,Ashok Gadgil,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-1,Kara Nelson,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-1,Sanjay Govindjee,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-1,Raymond Seed,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-1,Yoram Rubin,,Civil & Environmental Eng,299,Satisfactory,Individual Research
-1,Scott Moura,,Civil & Environmental Eng,299,Satisfactory,Individual Research
+1,Abolhassan Astaneh-Asl,,Civil & Environmental Eng,297,Pass,Fld Studies In Cee
+1,Stephen Mahin,,Civil & Environmental Eng,297,Pass,Fld Studies In Cee
+1,Robert Harley,,Civil & Environmental Eng,297,Pass,Fld Studies In Cee
+1,Michael Cassidy,,Civil & Environmental Eng,297,Pass,Fld Studies In Cee
+1,David Sedlak,,Civil & Environmental Eng,299,Pass,Individual Research
+1,Robert Harley,,Civil & Environmental Eng,299,Not Pass,Individual Research
+1,Iris Tommelein,,Civil & Environmental Eng,299,Pass,Individual Research
+1,Slawomir Hermanowicz,,Civil & Environmental Eng,299,Pass,Individual Research
+1,Alexandre Bayen,,Civil & Environmental Eng,299,Pass,Individual Research
+3,Samer Madanat,,Civil & Environmental Eng,299,Pass,Individual Research
+1,Fotini Chow,,Civil & Environmental Eng,299,Pass,Individual Research
+2,Nicholas Sitar,,Civil & Environmental Eng,299,Pass,Individual Research
+2,Paulo Monteiro,,Civil & Environmental Eng,299,Pass,Individual Research
+1,Lisa Alvarez-Cohen,,Civil & Environmental Eng,299,Pass,Individual Research
+1,Evan Variano,,Civil & Environmental Eng,299,Pass,Individual Research
+1,Ashok Gadgil,,Civil & Environmental Eng,299,Pass,Individual Research
+1,Kara Nelson,,Civil & Environmental Eng,299,Pass,Individual Research
+1,Sanjay Govindjee,,Civil & Environmental Eng,299,Pass,Individual Research
+1,Raymond Seed,,Civil & Environmental Eng,299,Pass,Individual Research
+1,Yoram Rubin,,Civil & Environmental Eng,299,Pass,Individual Research
+1,Scott Moura,,Civil & Environmental Eng,299,Pass,Individual Research
 4,Ian Anderson,4,Classics,10A,A+,Intro Greek Civ
 3,Ian Anderson,4,Classics,10A,A,Intro Greek Civ
 4,Ian Anderson,3.7,Classics,10A,A-,Intro Greek Civ
@@ -1237,9 +1237,9 @@
 1,Kim Shelton,3.7,Classics,N172A,A-,Arch Fld Schl Nemea
 1,Kim Shelton,,Classics,N172A,Pass,Arch Fld Schl Nemea
 2,Kim Shelton,,Classics,199,Pass,Superv Indep Study
-5,Dylan Sailor,,Classics,299,Satisfactory,Special Study
-2,Kim Shelton,,Classics,299,Satisfactory,Special Study
-1,J. Pena,,Classics,299,Satisfactory,Special Study
+5,Dylan Sailor,,Classics,299,Pass,Special Study
+2,Kim Shelton,,Classics,299,Pass,Special Study
+1,J. Pena,,Classics,299,Pass,Special Study
 3,Paul Li,4,Cognitive Science,N1,A+,Intro To Cog Sci
 9,Paul Li,4,Cognitive Science,N1,A,Intro To Cog Sci
 10,Paul Li,3.7,Cognitive Science,N1,A-,Intro To Cog Sci
@@ -1316,7 +1316,7 @@
 1,Janet Christensen; Margi Wald,1.7,College Writing Programs,6A,C-,Esl Acad Speaking
 1,Janet Christensen; Margi Wald,0,College Writing Programs,6A,F,Esl Acad Speaking
 1,Janet Christensen; Margi Wald,,College Writing Programs,6A,Pass,Esl Acad Speaking
-1,Janet Christensen; Margi Wald,,College Writing Programs,6A,Satisfactory,Esl Acad Speaking
+1,Janet Christensen; Margi Wald,,College Writing Programs,6A,Pass,Esl Acad Speaking
 3,Margi Wald; Ruth Acker,4,College Writing Programs,6A,A+,Esl Acad Speaking
 1,Margi Wald; Ruth Acker,4,College Writing Programs,6A,A,Esl Acad Speaking
 11,Margi Wald; Ruth Acker,3.7,College Writing Programs,6A,A-,Esl Acad Speaking
@@ -1363,7 +1363,7 @@
 3,Janet Christensen; Margi Wald,3.3,College Writing Programs,6F,B+,Esl Listen Speak
 1,Janet Christensen; Margi Wald,2.3,College Writing Programs,6F,C+,Esl Listen Speak
 2,Janet Christensen; Margi Wald,,College Writing Programs,6F,Pass,Esl Listen Speak
-1,Janet Christensen; Margi Wald,,College Writing Programs,6F,Satisfactory,Esl Listen Speak
+1,Janet Christensen; Margi Wald,,College Writing Programs,6F,Pass,Esl Listen Speak
 2,Margi Wald; Therese Naber,3.7,College Writing Programs,6F,A-,Esl Listen Speak
 4,Margi Wald; Therese Naber,3.3,College Writing Programs,6F,B+,Esl Listen Speak
 5,Margi Wald; Therese Naber,3,College Writing Programs,6F,B,Esl Listen Speak
@@ -1380,7 +1380,7 @@
 1,Margi Wald; Michelle Baptiste,3.3,College Writing Programs,6F,B+,Esl Listen Speak
 2,Margi Wald; Michelle Baptiste,3,College Writing Programs,6F,B,Esl Listen Speak
 1,Margi Wald; Michelle Baptiste,2,College Writing Programs,6F,C,Esl Listen Speak
-1,Margi Wald; Michelle Baptiste,,College Writing Programs,6F,Satisfactory,Esl Listen Speak
+1,Margi Wald; Michelle Baptiste,,College Writing Programs,6F,Pass,Esl Listen Speak
 2,Margi Wald; Peter Vahle,4,College Writing Programs,6F,A,Esl Listen Speak
 5,Margi Wald; Peter Vahle,3.7,College Writing Programs,6F,A-,Esl Listen Speak
 1,Margi Wald; Peter Vahle,3.3,College Writing Programs,6F,B+,Esl Listen Speak
@@ -1412,17 +1412,17 @@
 1,Amanda Fox; Margi Wald,3.3,College Writing Programs,6J,B+,Esl Test Prep
 1,Amanda Fox; Margi Wald,,College Writing Programs,6J,Pass,Esl Test Prep
 24,Margi Wald; Therese Naber,,College Writing Programs,7A,Pass,Amer Culture Media
-3,Margi Wald; Therese Naber,,College Writing Programs,7A,Satisfactory,Amer Culture Media
+3,Margi Wald; Therese Naber,,College Writing Programs,7A,Pass,Amer Culture Media
 1,Margi Wald; Therese Naber,,College Writing Programs,7A,Not Pass,Amer Culture Media
 28,Margi Wald; Therese Naber,,College Writing Programs,7A,Pass,Amer Culture Media
-1,Margi Wald; Therese Naber,,College Writing Programs,7A,Satisfactory,Amer Culture Media
+1,Margi Wald; Therese Naber,,College Writing Programs,7A,Pass,Amer Culture Media
 22,Margi Wald; Michael Clark,,College Writing Programs,7A,Pass,Amer Culture Media
-1,Margi Wald; Michael Clark,,College Writing Programs,7A,Satisfactory,Amer Culture Media
+1,Margi Wald; Michael Clark,,College Writing Programs,7A,Pass,Amer Culture Media
 16,Jennifer Burton; Margi Wald,,College Writing Programs,7A,Pass,Amer Culture Media
 2,Jennifer Burton; Margi Wald,,College Writing Programs,7A,Not Pass,Amer Culture Media
 17,Margi Wald; Thomas Mcnichol,,College Writing Programs,7B,Pass,Beat Generation
 14,Margi Wald; Michael Clark,,College Writing Programs,7B,Pass,Beat Generation
-1,Margi Wald; Michael Clark,,College Writing Programs,7B,Satisfactory,Beat Generation
+1,Margi Wald; Michael Clark,,College Writing Programs,7B,Pass,Beat Generation
 29,Margi Wald; Peter Vahle,,College Writing Programs,7D,Pass,Food Culture
 1,Margi Wald; Peter Vahle,,College Writing Programs,7D,Not Pass,Food Culture
 22,Margi Wald; Peter Vahle,,College Writing Programs,7D,Pass,Food Culture
@@ -1430,15 +1430,15 @@
 19,Margi Wald; Michele Rajotte,,College Writing Programs,7E,Pass,Lang  Environmen
 1,Margi Wald; Michele Rajotte,,College Writing Programs,7E,Not Pass,Lang  Environmen
 20,Margi Wald; Michele Rajotte,,College Writing Programs,7E,Pass,Lang  Environmen
-2,Margi Wald; Michele Rajotte,,College Writing Programs,7E,Satisfactory,Lang  Environmen
+2,Margi Wald; Michele Rajotte,,College Writing Programs,7E,Pass,Lang  Environmen
 1,Margi Wald; Michele Rajotte,,College Writing Programs,7E,Not Pass,Lang  Environmen
 15,Kyle Ridley; Margi Wald,,College Writing Programs,7G,Pass,Amer Cult Community
-1,Kyle Ridley; Margi Wald,,College Writing Programs,7G,Satisfactory,Amer Cult Community
+1,Kyle Ridley; Margi Wald,,College Writing Programs,7G,Pass,Amer Cult Community
 11,Kyle Ridley; Margi Wald,,College Writing Programs,7G,Pass,Amer Cult Community
-1,Kyle Ridley; Margi Wald,,College Writing Programs,7G,Satisfactory,Amer Cult Community
+1,Kyle Ridley; Margi Wald,,College Writing Programs,7G,Pass,Amer Cult Community
 6,Kyle Ridley; Margi Wald,,College Writing Programs,7G,Not Pass,Amer Cult Community
 20,Margi Wald; Michele Rajotte,,College Writing Programs,7J,Pass,Amer Cult Ca Cultur
-3,Margi Wald; Michele Rajotte,,College Writing Programs,7J,Satisfactory,Amer Cult Ca Cultur
+3,Margi Wald; Michele Rajotte,,College Writing Programs,7J,Pass,Amer Cult Ca Cultur
 1,Margi Wald; Michele Rajotte,,College Writing Programs,7J,Not Pass,Amer Cult Ca Cultur
 28,Barrie Roberts; Margi Wald,,College Writing Programs,7K,Pass,Amer Cult Humor
 1,Barrie Roberts; Margi Wald,,College Writing Programs,7K,Not Pass,Amer Cult Humor
@@ -1449,7 +1449,7 @@
 1,Margi Wald; Thomas Mcnichol,3.3,College Writing Programs,8,B+,Engl As Second Lang
 3,Margi Wald; Thomas Mcnichol,3,College Writing Programs,8,B,Engl As Second Lang
 2,Margi Wald; Thomas Mcnichol,,College Writing Programs,8,Pass,Engl As Second Lang
-1,Margi Wald; Thomas Mcnichol,,College Writing Programs,8,Satisfactory,Engl As Second Lang
+1,Margi Wald; Thomas Mcnichol,,College Writing Programs,8,Pass,Engl As Second Lang
 4,Joyce Podevyn; Margi Wald,3.7,College Writing Programs,8,A-,Engl As Second Lang
 1,Joyce Podevyn; Margi Wald,3.3,College Writing Programs,8,B+,Engl As Second Lang
 3,Joyce Podevyn; Margi Wald,3,College Writing Programs,8,B,Engl As Second Lang
@@ -1464,18 +1464,18 @@
 1,David Skolnick; Margi Wald,2.7,College Writing Programs,8,B-,Engl As Second Lang
 2,David Skolnick; Margi Wald,0,College Writing Programs,8,F,Engl As Second Lang
 2,David Skolnick; Margi Wald,,College Writing Programs,8,Pass,Engl As Second Lang
-1,David Skolnick; Margi Wald,,College Writing Programs,8,Satisfactory,Engl As Second Lang
+1,David Skolnick; Margi Wald,,College Writing Programs,8,Pass,Engl As Second Lang
 9,Jeffrey Mcclelland; Margi Wald,4,College Writing Programs,8,A,Engl As Second Lang
 2,Jeffrey Mcclelland; Margi Wald,3.7,College Writing Programs,8,A-,Engl As Second Lang
 3,Jeffrey Mcclelland; Margi Wald,,College Writing Programs,8,Pass,Engl As Second Lang
-2,Jeffrey Mcclelland; Margi Wald,,College Writing Programs,8,Satisfactory,Engl As Second Lang
+2,Jeffrey Mcclelland; Margi Wald,,College Writing Programs,8,Pass,Engl As Second Lang
 1,Brandon Spars; Margi Wald,4,College Writing Programs,8,A+,Engl As Second Lang
 6,Brandon Spars; Margi Wald,4,College Writing Programs,8,A,Engl As Second Lang
 3,Brandon Spars; Margi Wald,3.7,College Writing Programs,8,A-,Engl As Second Lang
 2,Brandon Spars; Margi Wald,3,College Writing Programs,8,B,Engl As Second Lang
 1,Brandon Spars; Margi Wald,2,College Writing Programs,8,C,Engl As Second Lang
 3,Brandon Spars; Margi Wald,,College Writing Programs,8,Pass,Engl As Second Lang
-2,Brandon Spars; Margi Wald,,College Writing Programs,8,Satisfactory,Engl As Second Lang
+2,Brandon Spars; Margi Wald,,College Writing Programs,8,Pass,Engl As Second Lang
 2,Jennifer Johnson; Margi Wald,4,College Writing Programs,8,A+,Engl As Second Lang
 3,Jennifer Johnson; Margi Wald,4,College Writing Programs,8,A,Engl As Second Lang
 4,Jennifer Johnson; Margi Wald,3.7,College Writing Programs,8,A-,Engl As Second Lang
@@ -1494,7 +1494,7 @@
 18,Linda O'Roke; Margi Wald,,College Writing Programs,W9,Pass,Eng As A Sec Lang
 2,Linda O'Roke; Margi Wald,,College Writing Programs,W9,Not Pass,Eng As A Sec Lang
 18,Katie Ha; Margi Wald,,College Writing Programs,W9,Pass,Eng As A Sec Lang
-1,Katie Ha; Margi Wald,,College Writing Programs,W9,Satisfactory,Eng As A Sec Lang
+1,Katie Ha; Margi Wald,,College Writing Programs,W9,Pass,Eng As A Sec Lang
 1,Katie Ha; Margi Wald,,College Writing Programs,W9,Not Pass,Eng As A Sec Lang
 7,Margi Wald; Susana Leong,4,College Writing Programs,9A,A,Esp Acad Research
 2,Margi Wald; Susana Leong,3.7,College Writing Programs,9A,A-,Esp Acad Research
@@ -1512,7 +1512,7 @@
 1,James Seger; Margi Wald,3.7,College Writing Programs,9B,A-,Esp Acad Vocab
 1,James Seger; Margi Wald,0,College Writing Programs,9B,F,Esp Acad Vocab
 1,James Seger; Margi Wald,,College Writing Programs,9B,Pass,Esp Acad Vocab
-1,James Seger; Margi Wald,,College Writing Programs,9B,Satisfactory,Esp Acad Vocab
+1,James Seger; Margi Wald,,College Writing Programs,9B,Pass,Esp Acad Vocab
 1,Candace Khanna; Margi Wald,4,College Writing Programs,9C,A,Acad Writ-Multiling
 3,Candace Khanna; Margi Wald,3.7,College Writing Programs,9C,A-,Acad Writ-Multiling
 1,Candace Khanna; Margi Wald,3.3,College Writing Programs,9C,B+,Acad Writ-Multiling
@@ -1525,7 +1525,7 @@
 4,Margi Wald; Nancy Hunt,4,College Writing Programs,9C,A,Acad Writ-Multiling
 9,Margi Wald; Nancy Hunt,3.7,College Writing Programs,9C,A-,Acad Writ-Multiling
 3,Margi Wald; Nancy Hunt,3.3,College Writing Programs,9C,B+,Acad Writ-Multiling
-1,Margi Wald; Nancy Hunt,,College Writing Programs,9C,Satisfactory,Acad Writ-Multiling
+1,Margi Wald; Nancy Hunt,,College Writing Programs,9C,Pass,Acad Writ-Multiling
 7,Jordan Ruyle; Margi Wald,4,College Writing Programs,9C,A,Acad Writ-Multiling
 5,Jordan Ruyle; Margi Wald,3.7,College Writing Programs,9C,A-,Acad Writ-Multiling
 1,Jordan Ruyle; Margi Wald,3.3,College Writing Programs,9C,B+,Acad Writ-Multiling
@@ -1545,7 +1545,7 @@
 13,Margi Wald; Netta Avineri,4,College Writing Programs,9E,A,Esp Business Engl
 1,Margi Wald; Netta Avineri,3.7,College Writing Programs,9E,A-,Esp Business Engl
 1,Margi Wald; Netta Avineri,,College Writing Programs,9E,Pass,Esp Business Engl
-1,Margi Wald; Netta Avineri,,College Writing Programs,9E,Satisfactory,Esp Business Engl
+1,Margi Wald; Netta Avineri,,College Writing Programs,9E,Pass,Esp Business Engl
 17,James Seger; Margi Wald,4,College Writing Programs,9E,A,Esp Business Engl
 1,James Seger; Margi Wald,,College Writing Programs,9E,Pass,Esp Business Engl
 17,Margi Wald; Nancy Hunt,4,College Writing Programs,9E,A,Esp Business Engl
@@ -1598,9 +1598,9 @@
 2,Harry Seng; Margi Wald,2,College Writing Programs,9J,C,Esp Grammar Style
 1,Harry Seng; Margi Wald,1.7,College Writing Programs,9J,C-,Esp Grammar Style
 1,Harry Seng; Margi Wald,,College Writing Programs,9J,Pass,Esp Grammar Style
-1,Harry Seng; Margi Wald,,College Writing Programs,9J,Satisfactory,Esp Grammar Style
+1,Harry Seng; Margi Wald,,College Writing Programs,9J,Pass,Esp Grammar Style
 1,Harry Seng; Margi Wald,,College Writing Programs,9J,Not Pass,Esp Grammar Style
-1,Harry Seng; Margi Wald,,College Writing Programs,9J,Unsatisfactory,Esp Grammar Style
+1,Harry Seng; Margi Wald,,College Writing Programs,9J,Not Pass,Esp Grammar Style
 1,Carolyn Carr; Margi Wald,4,College Writing Programs,9K,A,Esp Human Rights
 2,Carolyn Carr; Margi Wald,3.7,College Writing Programs,9K,A-,Esp Human Rights
 2,Carolyn Carr; Margi Wald,3.3,College Writing Programs,9K,B+,Esp Human Rights
@@ -1628,7 +1628,7 @@
 5,Ivy Mills; Margi Wald,3.3,College Writing Programs,9L,B+,Esp Engl Thru Film
 4,Ivy Mills; Margi Wald,3,College Writing Programs,9L,B,Esp Engl Thru Film
 1,Ivy Mills; Margi Wald,2.7,College Writing Programs,9L,B-,Esp Engl Thru Film
-1,Ivy Mills; Margi Wald,,College Writing Programs,9L,Satisfactory,Esp Engl Thru Film
+1,Ivy Mills; Margi Wald,,College Writing Programs,9L,Pass,Esp Engl Thru Film
 7,Jeffrey Mcclelland; Margi Wald,4,College Writing Programs,9L,A,Esp Engl Thru Film
 3,Jeffrey Mcclelland; Margi Wald,3.7,College Writing Programs,9L,A-,Esp Engl Thru Film
 3,Jeffrey Mcclelland; Margi Wald,3.3,College Writing Programs,9L,B+,Esp Engl Thru Film
@@ -1641,7 +1641,7 @@
 1,Gabrielle Goodwin; Margi Wald,4,College Writing Programs,9N,A+,Esp Legal English
 6,Gabrielle Goodwin; Margi Wald,4,College Writing Programs,9N,A,Esp Legal English
 5,Gabrielle Goodwin; Margi Wald,3.7,College Writing Programs,9N,A-,Esp Legal English
-3,Gabrielle Goodwin; Margi Wald,,College Writing Programs,9N,Satisfactory,Esp Legal English
+3,Gabrielle Goodwin; Margi Wald,,College Writing Programs,9N,Pass,Esp Legal English
 8,Margi Wald; Robert Downey,4,College Writing Programs,9N,A,Esp Legal English
 3,Margi Wald; Robert Downey,3.7,College Writing Programs,9N,A-,Esp Legal English
 1,Margi Wald; Robert Downey,3.3,College Writing Programs,9N,B+,Esp Legal English
@@ -1652,19 +1652,19 @@
 1,Heather-Lark Curtin; Margi Wald,3,College Writing Programs,9N,B,Esp Legal English
 2,Heather-Lark Curtin; Margi Wald,2,College Writing Programs,9N,C,Esp Legal English
 2,Heather-Lark Curtin; Margi Wald,,College Writing Programs,9N,Pass,Esp Legal English
-1,Heather-Lark Curtin; Margi Wald,,College Writing Programs,9N,Satisfactory,Esp Legal English
-1,Heather-Lark Curtin; Margi Wald,,College Writing Programs,9N,Unsatisfactory,Esp Legal English
+1,Heather-Lark Curtin; Margi Wald,,College Writing Programs,9N,Pass,Esp Legal English
+1,Heather-Lark Curtin; Margi Wald,,College Writing Programs,9N,Not Pass,Esp Legal English
 3,Margi Wald; Robert Downey,4,College Writing Programs,9O,A,Esp Legal Writing
 2,Margi Wald; Robert Downey,3.7,College Writing Programs,9O,A-,Esp Legal Writing
 2,Margi Wald; Robert Downey,3.3,College Writing Programs,9O,B+,Esp Legal Writing
-3,Margi Wald; Robert Downey,,College Writing Programs,9O,Satisfactory,Esp Legal Writing
+3,Margi Wald; Robert Downey,,College Writing Programs,9O,Pass,Esp Legal Writing
 1,Gabrielle Goodwin; Margi Wald,4,College Writing Programs,9O,A+,Esp Legal Writing
 1,Gabrielle Goodwin; Margi Wald,4,College Writing Programs,9O,A,Esp Legal Writing
 2,Gabrielle Goodwin; Margi Wald,3.7,College Writing Programs,9O,A-,Esp Legal Writing
 5,Gabrielle Goodwin; Margi Wald,3.3,College Writing Programs,9O,B+,Esp Legal Writing
 1,Gabrielle Goodwin; Margi Wald,3,College Writing Programs,9O,B,Esp Legal Writing
 1,Gabrielle Goodwin; Margi Wald,2.7,College Writing Programs,9O,B-,Esp Legal Writing
-1,Gabrielle Goodwin; Margi Wald,,College Writing Programs,9O,Unsatisfactory,Esp Legal Writing
+1,Gabrielle Goodwin; Margi Wald,,College Writing Programs,9O,Not Pass,Esp Legal Writing
 3,Barrie Roberts; Margi Wald,4,College Writing Programs,9P,A+,Esp Cr Buslawir
 5,Barrie Roberts; Margi Wald,4,College Writing Programs,9P,A,Esp Cr Buslawir
 7,Barrie Roberts; Margi Wald,3.7,College Writing Programs,9P,A-,Esp Cr Buslawir
@@ -1693,7 +1693,7 @@
 2,Margi Wald; Melody Noll,3,College Writing Programs,9S,B,Esp Pronunciation
 1,Margi Wald; Melody Noll,2.7,College Writing Programs,9S,B-,Esp Pronunciation
 2,Margi Wald; Melody Noll,2.3,College Writing Programs,9S,C+,Esp Pronunciation
-1,Margi Wald; Melody Noll,,College Writing Programs,9S,Satisfactory,Esp Pronunciation
+1,Margi Wald; Melody Noll,,College Writing Programs,9S,Pass,Esp Pronunciation
 1,Margi Wald; Melody Noll,,College Writing Programs,9S,Not Pass,Esp Pronunciation
 3,Ivy Mills; Margi Wald,4,College Writing Programs,9U,A,Esp Tv Culture Comm
 3,Ivy Mills; Margi Wald,3.7,College Writing Programs,9U,A-,Esp Tv Culture Comm
@@ -1723,7 +1723,7 @@
 1,Brandon Spars; Margi Wald,3.3,College Writing Programs,9W,B+,Esp Speech Debate
 2,Brandon Spars; Margi Wald,0,College Writing Programs,9W,F,Esp Speech Debate
 1,Brandon Spars; Margi Wald,,College Writing Programs,9W,Pass,Esp Speech Debate
-1,Brandon Spars; Margi Wald,,College Writing Programs,9W,Satisfactory,Esp Speech Debate
+1,Brandon Spars; Margi Wald,,College Writing Programs,9W,Pass,Esp Speech Debate
 1,Margi Wald; Matthew Barclay,4,College Writing Programs,9X,A+,Esp Engl Thru Music
 4,Margi Wald; Matthew Barclay,4,College Writing Programs,9X,A,Esp Engl Thru Music
 4,Margi Wald; Matthew Barclay,3.7,College Writing Programs,9X,A-,Esp Engl Thru Music
@@ -1771,7 +1771,7 @@
 2,Kathryn Crim; Miryam Sas,3.3,Comparative Literature,N60AC,B+,Lit Amer Cultures
 2,Kathryn Crim; Miryam Sas,3,Comparative Literature,N60AC,B,Lit Amer Cultures
 2,Kathryn Crim; Miryam Sas,,Comparative Literature,N60AC,Pass,Lit Amer Cultures
-1,Kathryn Crim; Miryam Sas,,Comparative Literature,N60AC,Satisfactory,Lit Amer Cultures
+1,Kathryn Crim; Miryam Sas,,Comparative Literature,N60AC,Pass,Lit Amer Cultures
 6,Marianne Kaletzky; Miryam Sas,4,Comparative Literature,N60AC,A,Lit Amer Cultures
 2,Marianne Kaletzky; Miryam Sas,3.7,Comparative Literature,N60AC,A-,Lit Amer Cultures
 1,Marianne Kaletzky; Miryam Sas,3.3,Comparative Literature,N60AC,B+,Lit Amer Cultures
@@ -1780,9 +1780,9 @@
 1,Marianne Kaletzky; Miryam Sas,0,Comparative Literature,N60AC,F,Lit Amer Cultures
 1,Marianne Kaletzky; Miryam Sas,,Comparative Literature,N60AC,Pass,Lit Amer Cultures
 15,Robert Kaufman,4,Comparative Literature,N298,A,Special Study
-1,Robert Kaufman,,Comparative Literature,N298,Satisfactory,Special Study
-1,Miryam Sas,,Comparative Literature,299,Satisfactory,Directed Research
-1,Robert Kaufman,,Comparative Literature,N601,Satisfactory,Individual Study
+1,Robert Kaufman,,Comparative Literature,N298,Pass,Special Study
+1,Miryam Sas,,Comparative Literature,299,Pass,Directed Research
+1,Robert Kaufman,,Comparative Literature,N601,Pass,Individual Study
 8,Jonathan Mckinsey; Michael Ball,4,Computer Science,10,A+,Beauty Joy Computng
 13,Jonathan Mckinsey; Michael Ball,4,Computer Science,10,A,Beauty Joy Computng
 3,Jonathan Mckinsey; Michael Ball,3.7,Computer Science,10,A-,Beauty Joy Computng
@@ -1807,9 +1807,9 @@
 4,Albert Wu; Robert Huang,0.7,Computer Science,61A,D-,Str Interp Cmp Prgs
 13,Albert Wu; Robert Huang,0,Computer Science,61A,F,Str Interp Cmp Prgs
 32,Albert Wu; Robert Huang,,Computer Science,61A,Pass,Str Interp Cmp Prgs
-2,Albert Wu; Robert Huang,,Computer Science,61A,Satisfactory,Str Interp Cmp Prgs
+2,Albert Wu; Robert Huang,,Computer Science,61A,Pass,Str Interp Cmp Prgs
 34,Albert Wu; Robert Huang,,Computer Science,61A,Not Pass,Str Interp Cmp Prgs
-1,Albert Wu; Robert Huang,,Computer Science,61A,Unsatisfactory,Str Interp Cmp Prgs
+1,Albert Wu; Robert Huang,,Computer Science,61A,Not Pass,Str Interp Cmp Prgs
 2,Judy Wang; Shidi Huang,4,Computer Science,61AS,A+,Str Interp Comp Prg
 1,Judy Wang; Shidi Huang,4,Computer Science,61AS,A,Str Interp Comp Prg
 2,Judy Wang; Shidi Huang,3.3,Computer Science,61AS,B+,Str Interp Comp Prg
@@ -1835,7 +1835,7 @@
 6,Joseph Moghadam,0,Computer Science,61BL,F,Data Strs Prog Meth
 20,Joseph Moghadam,,Computer Science,61BL,Pass,Data Strs Prog Meth
 8,Joseph Moghadam,,Computer Science,61BL,Not Pass,Data Strs Prog Meth
-2,Joseph Moghadam,,Computer Science,61BL,Unsatisfactory,Data Strs Prog Meth
+2,Joseph Moghadam,,Computer Science,61BL,Not Pass,Data Strs Prog Meth
 3,Sagar Karandikar,4,Computer Science,61C,A+,Machine Structures
 13,Sagar Karandikar,4,Computer Science,61C,A,Machine Structures
 11,Sagar Karandikar,3.7,Computer Science,61C,A-,Machine Structures
@@ -1848,9 +1848,9 @@
 9,Sagar Karandikar,1,Computer Science,61C,D,Machine Structures
 8,Sagar Karandikar,0,Computer Science,61C,F,Machine Structures
 2,Sagar Karandikar,,Computer Science,61C,Pass,Machine Structures
-1,Sagar Karandikar,,Computer Science,61C,Satisfactory,Machine Structures
+1,Sagar Karandikar,,Computer Science,61C,Pass,Machine Structures
 1,Sagar Karandikar,,Computer Science,61C,Not Pass,Machine Structures
-1,Sagar Karandikar,,Computer Science,61C,Unsatisfactory,Machine Structures
+1,Sagar Karandikar,,Computer Science,61C,Not Pass,Machine Structures
 14,Chung-Wei Lin; Daniel Garcia,4,Computer Science,70,A+,Discrete Math&Prob
 26,Chung-Wei Lin; Daniel Garcia,4,Computer Science,70,A,Discrete Math&Prob
 15,Chung-Wei Lin; Daniel Garcia,3.7,Computer Science,70,A-,Discrete Math&Prob
@@ -1888,7 +1888,7 @@
 4,Charles Reiss; Daniel Garcia,2,Computer Science,162,C,Op Sys And Sys Prog
 2,Charles Reiss; Daniel Garcia,1.7,Computer Science,162,C-,Op Sys And Sys Prog
 3,Charles Reiss; Daniel Garcia,0,Computer Science,162,F,Op Sys And Sys Prog
-1,Charles Reiss; Daniel Garcia,,Computer Science,162,Satisfactory,Op Sys And Sys Prog
+1,Charles Reiss; Daniel Garcia,,Computer Science,162,Pass,Op Sys And Sys Prog
 5,Daniel Garcia; Patrick Virtue,4,Computer Science,188,A+,Artif Intelligence
 15,Daniel Garcia; Patrick Virtue,4,Computer Science,188,A,Artif Intelligence
 9,Daniel Garcia; Patrick Virtue,3.7,Computer Science,188,A-,Artif Intelligence
@@ -1908,35 +1908,35 @@
 15,David Culler,,Computer Science,199,Pass,Superv Indep Study
 1,David Wagner,,Computer Science,199,Pass,Superv Indep Study
 1,Brian Harvey,,Computer Science,199,Pass,Superv Indep Study
-1,Bjorn Hartmann,,Computer Science,297,Satisfactory,Field Studies In Cs
-4,Jitendra Malik,,Computer Science,297,Satisfactory,Field Studies In Cs
-1,Maneesh Agrawala,,Computer Science,299,Satisfactory,Indiv Research
-1,Eric Brewer,,Computer Science,299,Satisfactory,Indiv Research
-4,John Canny,,Computer Science,299,Satisfactory,Indiv Research
-1,Trevor Darrell,,Computer Science,299,Satisfactory,Indiv Research
-1,Pieter Abbeel,,Computer Science,299,Satisfactory,Indiv Research
-2,Michael Jordan,,Computer Science,299,Satisfactory,Indiv Research
-2,Randy Katz,,Computer Science,299,Satisfactory,Indiv Research
-1,Daniel Klein,,Computer Science,299,Satisfactory,Indiv Research
-2,Jitendra Malik,,Computer Science,299,Satisfactory,Indiv Research
-2,Lior Pachter,,Computer Science,299,Satisfactory,Indiv Research
-1,James O'Brien,,Computer Science,299,Satisfactory,Indiv Research
-3,Christos Papadimitriou,,Computer Science,299,Satisfactory,Indiv Research
-1,Sylvia Ratnasamy,,Computer Science,299,Satisfactory,Indiv Research
-3,Stuart Russell,,Computer Science,299,Satisfactory,Indiv Research
-1,Alistair Sinclair,,Computer Science,299,Satisfactory,Indiv Research
-1,Alexei Efros,,Computer Science,299,Satisfactory,Indiv Research
-5,Ion Stoica,,Computer Science,299,Satisfactory,Indiv Research
-1,John Wawrzynek,,Computer Science,299,Satisfactory,Indiv Research
-2,Katherine Yelick,,Computer Science,299,Satisfactory,Indiv Research
-1,Rastislav Bodik,,Computer Science,299,Satisfactory,Indiv Research
-1,Scott Shenker,,Computer Science,299,Satisfactory,Indiv Research
-1,Koushik Sen,,Computer Science,299,Satisfactory,Indiv Research
-1,Xiaodong Song,,Computer Science,299,Satisfactory,Indiv Research
-3,Ravi Ramamoorthi,,Computer Science,299,Satisfactory,Indiv Research
-1,David Wagner,,Computer Science,299,Satisfactory,Indiv Research
+1,Bjorn Hartmann,,Computer Science,297,Pass,Field Studies In Cs
+4,Jitendra Malik,,Computer Science,297,Pass,Field Studies In Cs
+1,Maneesh Agrawala,,Computer Science,299,Pass,Indiv Research
+1,Eric Brewer,,Computer Science,299,Pass,Indiv Research
+4,John Canny,,Computer Science,299,Pass,Indiv Research
+1,Trevor Darrell,,Computer Science,299,Pass,Indiv Research
+1,Pieter Abbeel,,Computer Science,299,Pass,Indiv Research
+2,Michael Jordan,,Computer Science,299,Pass,Indiv Research
+2,Randy Katz,,Computer Science,299,Pass,Indiv Research
+1,Daniel Klein,,Computer Science,299,Pass,Indiv Research
+2,Jitendra Malik,,Computer Science,299,Pass,Indiv Research
+2,Lior Pachter,,Computer Science,299,Pass,Indiv Research
+1,James O'Brien,,Computer Science,299,Pass,Indiv Research
+3,Christos Papadimitriou,,Computer Science,299,Pass,Indiv Research
+1,Sylvia Ratnasamy,,Computer Science,299,Pass,Indiv Research
+3,Stuart Russell,,Computer Science,299,Pass,Indiv Research
+1,Alistair Sinclair,,Computer Science,299,Pass,Indiv Research
+1,Alexei Efros,,Computer Science,299,Pass,Indiv Research
+5,Ion Stoica,,Computer Science,299,Pass,Indiv Research
+1,John Wawrzynek,,Computer Science,299,Pass,Indiv Research
+2,Katherine Yelick,,Computer Science,299,Pass,Indiv Research
+1,Rastislav Bodik,,Computer Science,299,Pass,Indiv Research
+1,Scott Shenker,,Computer Science,299,Pass,Indiv Research
+1,Koushik Sen,,Computer Science,299,Pass,Indiv Research
+1,Xiaodong Song,,Computer Science,299,Pass,Indiv Research
+3,Ravi Ramamoorthi,,Computer Science,299,Pass,Indiv Research
+1,David Wagner,,Computer Science,299,Pass,Indiv Research
 2,Victor Huang,,Computer Science,375,Pass,Teaching Techniques
-3,Victor Huang,,Computer Science,375,Satisfactory,Teaching Techniques
+3,Victor Huang,,Computer Science,375,Pass,Teaching Techniques
 8,Claire Marie Stancek,4,Creative Writing,120,A,Read & Write Poetry
 2,Claire Marie Stancek,3.7,Creative Writing,120,A-,Read & Write Poetry
 1,Claire Marie Stancek,0,Creative Writing,120,F,Read & Write Poetry
@@ -1946,9 +1946,9 @@
 1,Sara Lopus,3.3,Demography,C175,B+,Econ Demography
 1,Sara Lopus,2.7,Demography,C175,B-,Econ Demography
 2,Sara Lopus,2,Demography,C175,C,Econ Demography
-2,Joshua Goldstein,,Demography,N298,Satisfactory,Directed Reading
-2,Jennifer Johnson-Hanks,,Demography,N298,Satisfactory,Directed Reading
-1,Joshua Goldstein,,Demography,299,Satisfactory,Directed Research
+2,Joshua Goldstein,,Demography,N298,Pass,Directed Reading
+2,Jennifer Johnson-Hanks,,Demography,N298,Pass,Directed Reading
+1,Joshua Goldstein,,Demography,299,Pass,Directed Research
 2,Jeroen Dewulf,4,Dutch,177,A+,Dutch Art Hist/Lit
 12,Jeroen Dewulf,4,Dutch,177,A,Dutch Art Hist/Lit
 9,Jeroen Dewulf,3.7,Dutch,177,A-,Dutch Art Hist/Lit
@@ -2031,7 +2031,7 @@
 2,Archana Dube,1,Economics,1,D,Intro To Economics
 1,Archana Dube,0,Economics,1,F,Intro To Economics
 5,Archana Dube,,Economics,1,Pass,Intro To Economics
-1,Archana Dube,,Economics,1,Satisfactory,Intro To Economics
+1,Archana Dube,,Economics,1,Pass,Intro To Economics
 2,Archana Dube,,Economics,1,Not Pass,Intro To Economics
 52,Scott Carson,4,Economics,100A,A,Micro Analysis
 12,Scott Carson,3.7,Economics,100A,A-,Micro Analysis
@@ -2047,7 +2047,7 @@
 5,Scott Carson,0,Economics,100A,F,Micro Analysis
 5,Scott Carson,,Economics,100A,Pass,Micro Analysis
 7,Scott Carson,,Economics,100A,Not Pass,Micro Analysis
-1,Scott Carson,,Economics,100A,Unsatisfactory,Micro Analysis
+1,Scott Carson,,Economics,100A,Not Pass,Micro Analysis
 2,Raymond Hawkins,4,Economics,100B,A+,Macro Analysis
 22,Raymond Hawkins,4,Economics,100B,A,Macro Analysis
 18,Raymond Hawkins,3.7,Economics,100B,A-,Macro Analysis
@@ -2057,7 +2057,7 @@
 3,Raymond Hawkins,2.3,Economics,100B,C+,Macro Analysis
 1,Raymond Hawkins,2,Economics,100B,C,Macro Analysis
 1,Raymond Hawkins,,Economics,100B,Pass,Macro Analysis
-1,Raymond Hawkins,,Economics,100B,Satisfactory,Macro Analysis
+1,Raymond Hawkins,,Economics,100B,Pass,Macro Analysis
 3,Raymond Hawkins,,Economics,100B,Not Pass,Macro Analysis
 2,Sandhyarani Patlolla,4,Economics,N110,A+,Game Theory Soc Sci
 7,Sandhyarani Patlolla,4,Economics,N110,A,Game Theory Soc Sci
@@ -2179,19 +2179,19 @@
 1,Haluk Ergin,3.3,Economics,204,B+,Math Tools For Econ
 7,Haluk Ergin,3,Economics,204,B,Math Tools For Econ
 2,Haluk Ergin,2.7,Economics,204,B-,Math Tools For Econ
-1,Robert Anderson,,Economics,299,Satisfactory,Independent Study
-2,Frederico Finan,,Economics,299,Satisfactory,Independent Study
-1,Pierre-Olivier Gourinchas,,Economics,N299,Satisfactory,Independent Study
-1,Alan Auerbach,,Economics,N299,Satisfactory,Independent Study
-1,Shachar Kariv,,Economics,N299,Satisfactory,Independent Study
-2,Benjamin Handel,,Economics,N299,Satisfactory,Independent Study
-1,Alan Auerbach,,Economics,N299,Satisfactory,Independent Study
-2,David Card,,Economics,N299,Satisfactory,Independent Study
-2,Edward Miguel,,Economics,N299,Satisfactory,Independent Study
-1,Emmanuel Saez,,Economics,N299,Satisfactory,Independent Study
-2,Christina Shannon,,Economics,N299,Satisfactory,Independent Study
-5,David Romer,,Economics,N602,Satisfactory,Individual Study
-1,Frederico Finan,,Economics,N602,Satisfactory,Individual Study
+1,Robert Anderson,,Economics,299,Pass,Independent Study
+2,Frederico Finan,,Economics,299,Pass,Independent Study
+1,Pierre-Olivier Gourinchas,,Economics,N299,Pass,Independent Study
+1,Alan Auerbach,,Economics,N299,Pass,Independent Study
+1,Shachar Kariv,,Economics,N299,Pass,Independent Study
+2,Benjamin Handel,,Economics,N299,Pass,Independent Study
+1,Alan Auerbach,,Economics,N299,Pass,Independent Study
+2,David Card,,Economics,N299,Pass,Independent Study
+2,Edward Miguel,,Economics,N299,Pass,Independent Study
+1,Emmanuel Saez,,Economics,N299,Pass,Independent Study
+2,Christina Shannon,,Economics,N299,Pass,Independent Study
+5,David Romer,,Economics,N602,Pass,Individual Study
+1,Frederico Finan,,Economics,N602,Pass,Individual Study
 3,Alex De Guia,4,Education,39A,A,Fresh/Soph Seminar
 2,Alex De Guia,3.7,Education,39A,A-,Fresh/Soph Seminar
 3,Alex De Guia,3.3,Education,39A,B+,Fresh/Soph Seminar
@@ -2278,27 +2278,27 @@
 18,Elisa Salasin,4,Education,290C,A,Sp Topic Sem:Dcemst
 1,Elisa Salasin,3.7,Education,290C,A-,Sp Topic Sem:Dcemst
 6,Elizabeth Baham,4,Education,294E,A,Thesis Seminar
-1,Elizabeth Baham,,Education,294E,Satisfactory,Thesis Seminar
+1,Elizabeth Baham,,Education,294E,Pass,Thesis Seminar
 10,P Pearson,4,Education,298C,A+,Group Study-Dcemst
 9,P Pearson,4,Education,298C,A,Group Study-Dcemst
-7,Sahara Baquedano-Lopez,,Education,N299,Satisfactory,Special Study
-5,Zeus Leonardo,,Education,N299,Satisfactory,Special Study
-3,Anne Cunningham Carson,,Education,N299,Satisfactory,Special Study
-2,Laura Sterponi,,Education,N299,Satisfactory,Special Study
-1,Geoffrey Saxe,,Education,N299,Satisfactory,Special Study
-4,Daniel Perlstein,,Education,N299,Satisfactory,Special Study
-1,Jabari Mahiri,,Education,N299,Satisfactory,Special Study
-2,Mark Wilson,,Education,N299,Satisfactory,Special Study
-2,Bruce Fuller,,Education,N299,Satisfactory,Special Study
-1,Dor Abrahamson,,Education,N299,Satisfactory,Special Study
-4,Alan Schoenfeld,,Education,N299,Satisfactory,Special Study
-1,Frank Worrell,,Education,N299,Satisfactory,Special Study
-1,Glynda Hull,,Education,N299,Satisfactory,Special Study
-1,Sophia Rabe-Hesketh,,Education,N299,Satisfactory,Special Study
-1,Tina Trujillo,,Education,N299,Satisfactory,Special Study
-1,Susan Holloway,,Education,N299,Satisfactory,Special Study
-1,Michael Ranney,,Education,N299,Satisfactory,Special Study
-1,Lisa Garcia Bedolla,,Education,N299,Satisfactory,Special Study
+7,Sahara Baquedano-Lopez,,Education,N299,Pass,Special Study
+5,Zeus Leonardo,,Education,N299,Pass,Special Study
+3,Anne Cunningham Carson,,Education,N299,Pass,Special Study
+2,Laura Sterponi,,Education,N299,Pass,Special Study
+1,Geoffrey Saxe,,Education,N299,Pass,Special Study
+4,Daniel Perlstein,,Education,N299,Pass,Special Study
+1,Jabari Mahiri,,Education,N299,Pass,Special Study
+2,Mark Wilson,,Education,N299,Pass,Special Study
+2,Bruce Fuller,,Education,N299,Pass,Special Study
+1,Dor Abrahamson,,Education,N299,Pass,Special Study
+4,Alan Schoenfeld,,Education,N299,Pass,Special Study
+1,Frank Worrell,,Education,N299,Pass,Special Study
+1,Glynda Hull,,Education,N299,Pass,Special Study
+1,Sophia Rabe-Hesketh,,Education,N299,Pass,Special Study
+1,Tina Trujillo,,Education,N299,Pass,Special Study
+1,Susan Holloway,,Education,N299,Pass,Special Study
+1,Michael Ranney,,Education,N299,Pass,Special Study
+1,Lisa Garcia Bedolla,,Education,N299,Pass,Special Study
 18,Sonal Patel,4,Education,390C,A,Superv Teaching Dte
 5,Nives Wetzel De Cediel,4,Education,392C,A+,Art In Elem Class
 9,Nives Wetzel De Cediel,4,Education,392C,A,Art In Elem Class
@@ -2329,39 +2329,39 @@
 1,Vivek Subramanian,,Electrical Engineering,199,Pass,Superv Indep Study
 7,Eli Yablonovitch,,Electrical Engineering,199,Pass,Superv Indep Study
 13,Jeffrey Bokor,,Electrical Engineering,199,Pass,Superv Indep Study
-1,Jeffrey Bokor,,Electrical Engineering,199,Satisfactory,Superv Indep Study
+1,Jeffrey Bokor,,Electrical Engineering,199,Pass,Superv Indep Study
 1,Jan Rabaey,4,Electrical Engineering,W241S,A,Intro Dig Inte Cir
-2,Jan Rabaey,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Alberto Sangiovanni-Vincentelli,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Venkatacha Anantharam,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Bernhard Boser,,Electrical Engineering,299,Satisfactory,Indiv Research
-3,Robert Brayton,,Electrical Engineering,299,Satisfactory,Indiv Research
-3,Constance Chang-Hasnain,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Laurent El Ghaoui,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Ronald Fearing,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Chenming Hu,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Kurt Keutzer,,Electrical Engineering,299,Satisfactory,Indiv Research
-2,Tsu-Jae Liu,,Electrical Engineering,299,Satisfactory,Indiv Research
-2,Edward Lee,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Michel Maharbiz,,Electrical Engineering,299,Satisfactory,Indiv Research
-3,Nelson Morgan,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Andrew Neureuther,,Electrical Engineering,299,Satisfactory,Indiv Research
-2,Clark Nguyen,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Borivoje Nikolic,,Electrical Engineering,299,Satisfactory,Indiv Research
-2,Kristofer Pister,,Electrical Engineering,299,Satisfactory,Indiv Research
-2,Seth Sanders,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Sosale Sastry,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Vivek Subramanian,,Electrical Engineering,299,Satisfactory,Indiv Research
-5,Claire Tomlin,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Eli Yablonovitch,,Electrical Engineering,299,Satisfactory,Indiv Research
-5,Elad Alon,,Electrical Engineering,299,Satisfactory,Indiv Research
-2,Sanjit Seshia,,Electrical Engineering,299,Satisfactory,Indiv Research
-2,Sayeef Salahuddin,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Ana Arias,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Alexandre Bayen,,Electrical Engineering,299,Satisfactory,Indiv Research
-2,Bin Yu,,Electrical Engineering,299,Satisfactory,Indiv Research
-3,Vladimir Stojanovic,,Electrical Engineering,299,Satisfactory,Indiv Research
-1,Jonathan Bachrach,,Electrical Engineering,299,Satisfactory,Indiv Research
+2,Jan Rabaey,,Electrical Engineering,299,Pass,Indiv Research
+1,Alberto Sangiovanni-Vincentelli,,Electrical Engineering,299,Pass,Indiv Research
+1,Venkatacha Anantharam,,Electrical Engineering,299,Pass,Indiv Research
+1,Bernhard Boser,,Electrical Engineering,299,Pass,Indiv Research
+3,Robert Brayton,,Electrical Engineering,299,Pass,Indiv Research
+3,Constance Chang-Hasnain,,Electrical Engineering,299,Pass,Indiv Research
+1,Laurent El Ghaoui,,Electrical Engineering,299,Pass,Indiv Research
+1,Ronald Fearing,,Electrical Engineering,299,Pass,Indiv Research
+1,Chenming Hu,,Electrical Engineering,299,Pass,Indiv Research
+1,Kurt Keutzer,,Electrical Engineering,299,Pass,Indiv Research
+2,Tsu-Jae Liu,,Electrical Engineering,299,Pass,Indiv Research
+2,Edward Lee,,Electrical Engineering,299,Pass,Indiv Research
+1,Michel Maharbiz,,Electrical Engineering,299,Pass,Indiv Research
+3,Nelson Morgan,,Electrical Engineering,299,Pass,Indiv Research
+1,Andrew Neureuther,,Electrical Engineering,299,Pass,Indiv Research
+2,Clark Nguyen,,Electrical Engineering,299,Pass,Indiv Research
+1,Borivoje Nikolic,,Electrical Engineering,299,Pass,Indiv Research
+2,Kristofer Pister,,Electrical Engineering,299,Pass,Indiv Research
+2,Seth Sanders,,Electrical Engineering,299,Pass,Indiv Research
+1,Sosale Sastry,,Electrical Engineering,299,Pass,Indiv Research
+1,Vivek Subramanian,,Electrical Engineering,299,Pass,Indiv Research
+5,Claire Tomlin,,Electrical Engineering,299,Pass,Indiv Research
+1,Eli Yablonovitch,,Electrical Engineering,299,Pass,Indiv Research
+5,Elad Alon,,Electrical Engineering,299,Pass,Indiv Research
+2,Sanjit Seshia,,Electrical Engineering,299,Pass,Indiv Research
+2,Sayeef Salahuddin,,Electrical Engineering,299,Pass,Indiv Research
+1,Ana Arias,,Electrical Engineering,299,Pass,Indiv Research
+1,Alexandre Bayen,,Electrical Engineering,299,Pass,Indiv Research
+2,Bin Yu,,Electrical Engineering,299,Pass,Indiv Research
+3,Vladimir Stojanovic,,Electrical Engineering,299,Pass,Indiv Research
+1,Jonathan Bachrach,,Electrical Engineering,299,Pass,Indiv Research
 1,George Anwar,4,Engineering,7,A+,Intr Computer Prog
 9,George Anwar,4,Engineering,7,A,Intr Computer Prog
 5,George Anwar,3.7,Engineering,7,A-,Intr Computer Prog
@@ -2378,7 +2378,7 @@
 2,Mitchell Breitwieser; Ryan Perry,2.3,English,N1A,C+,Reading And Comp
 2,Mitchell Breitwieser; Ryan Perry,0,English,N1A,F,Reading And Comp
 1,Mitchell Breitwieser; Ryan Perry,,English,N1A,Pass,Reading And Comp
-1,Mitchell Breitwieser; Ryan Perry,,English,N1A,Satisfactory,Reading And Comp
+1,Mitchell Breitwieser; Ryan Perry,,English,N1A,Pass,Reading And Comp
 1,Elizabeth Keithley,4,English,R1AN,A,1st-Yr Read & Comp
 1,Elizabeth Keithley,3.7,English,R1AN,A-,1st-Yr Read & Comp
 8,Elizabeth Keithley,3.3,English,R1AN,B+,1st-Yr Read & Comp
@@ -2420,7 +2420,7 @@
 10,Donna Jones,3.3,English,N180Z,B+,Science Fiction
 8,Donna Jones,3,English,N180Z,B,Science Fiction
 7,Donna Jones,,English,N180Z,Pass,Science Fiction
-29,Elisa Tamarkin,,English,N299,Satisfactory,Special Study
+29,Elisa Tamarkin,,English,N299,Pass,Special Study
 20,Kenneth Worthy,4,Env Sci+ Policy+ & Mgmt,50AC,A,Intro Cult/Res Mgt
 6,Kenneth Worthy,3.7,Env Sci+ Policy+ & Mgmt,50AC,A-,Intro Cult/Res Mgt
 7,Kenneth Worthy,3.3,Env Sci+ Policy+ & Mgmt,50AC,B+,Intro Cult/Res Mgt
@@ -2473,12 +2473,12 @@
 2,Gordon Frankie,,Env Sci+ Policy+ & Mgmt,199,Pass,Superv Indep Study
 1,Stephanie Carlson,,Env Sci+ Policy+ & Mgmt,199,Pass,Superv Indep Study
 1,Van Butsic,,Env Sci+ Policy+ & Mgmt,199,Pass,Superv Indep Study
-1,John Battles,,Env Sci+ Policy+ & Mgmt,N299,Satisfactory,Individual Research
-1,George Roderick; Nina Kelly,,Env Sci+ Policy+ & Mgmt,N299,Satisfactory,Individual Research
-1,Kevin O'Hara,,Env Sci+ Policy+ & Mgmt,N299,Satisfactory,Individual Research
-1,George Roderick,,Env Sci+ Policy+ & Mgmt,N299,Satisfactory,Individual Research
-1,Stephanie Carlson,,Env Sci+ Policy+ & Mgmt,N299,Satisfactory,Individual Research
-1,Todd Dawson,,Env Sci+ Policy+ & Mgmt,N299,Satisfactory,Individual Research
+1,John Battles,,Env Sci+ Policy+ & Mgmt,N299,Pass,Individual Research
+1,George Roderick; Nina Kelly,,Env Sci+ Policy+ & Mgmt,N299,Pass,Individual Research
+1,Kevin O'Hara,,Env Sci+ Policy+ & Mgmt,N299,Pass,Individual Research
+1,George Roderick,,Env Sci+ Policy+ & Mgmt,N299,Pass,Individual Research
+1,Stephanie Carlson,,Env Sci+ Policy+ & Mgmt,N299,Pass,Individual Research
+1,Todd Dawson,,Env Sci+ Policy+ & Mgmt,N299,Pass,Individual Research
 1,Peter Berck,,Environ Econ & Policy,197,Pass,Field Study
 1,David Sunding,,Environ Econ & Policy,197,Pass,Field Study
 1,Brian Wright,,Environ Econ & Policy,197,Pass,Field Study
@@ -2490,7 +2490,7 @@
 2,W Martin,3,Environmental Design,1,B,Intro To Env Des
 1,W Martin,0,Environmental Design,1,F,Intro To Env Des
 10,Keith Plymale,,Environmental Design,2,Pass,Intro To Env Des Su
-6,Keith Plymale,,Environmental Design,2,Satisfactory,Intro To Env Des Su
+6,Keith Plymale,,Environmental Design,2,Pass,Intro To Env Des Su
 1,Darell Fields,4,Environmental Design,11A,A,Intro Vis Rep Draw
 2,Darell Fields,3.7,Environmental Design,11A,A-,Intro Vis Rep Draw
 3,Darell Fields,3,Environmental Design,11A,B,Intro Vis Rep Draw
@@ -2512,7 +2512,7 @@
 2,Pietro Calogero,2.7,Environmental Design,100,B-,The City
 2,Pietro Calogero,,Environmental Design,100,Pass,The City
 7,Renee Chow,,Environmental Design,193,Pass,Cpt Intl Stdnts
-6,Stefan Pellegrini,,Environmental Design,253,Satisfactory,Urb Place Thes Std
+6,Stefan Pellegrini,,Environmental Design,253,Pass,Urb Place Thes Std
 5,Justin Gomer,4,Ethnic Studies,10AC,A,Hist Of Race West
 3,Justin Gomer,3.7,Ethnic Studies,10AC,A-,Hist Of Race West
 4,Justin Gomer,3.3,Ethnic Studies,10AC,B+,Hist Of Race West
@@ -2598,11 +2598,11 @@
 3,Alex Saragoza,,Ethnic Studies,197,Pass,Field Study
 1,Thomas Biolsi,,Ethnic Studies,199,Pass,Superv Indep Study
 1,Lok Siu,4,Ethnic Studies Grad Group,299,A,Directed Reading
-1,Lok Siu,,Ethnic Studies Grad Group,299,Satisfactory,Directed Reading
-1,Patricia Hilden,,Ethnic Studies Grad Group,299,Satisfactory,Directed Reading
-1,Beth Piatote,,Ethnic Studies Grad Group,299,Satisfactory,Directed Reading
-1,Thomas Biolsi,,Ethnic Studies Grad Group,299,Satisfactory,Directed Reading
-2,Michael Omi,,Ethnic Studies Grad Group,299,Satisfactory,Directed Reading
+1,Lok Siu,,Ethnic Studies Grad Group,299,Pass,Directed Reading
+1,Patricia Hilden,,Ethnic Studies Grad Group,299,Pass,Directed Reading
+1,Beth Piatote,,Ethnic Studies Grad Group,299,Pass,Directed Reading
+1,Thomas Biolsi,,Ethnic Studies Grad Group,299,Pass,Directed Reading
+2,Michael Omi,,Ethnic Studies Grad Group,299,Pass,Directed Reading
 1,Clark Kellogg,4,Evening & Weekend MBA,200P,A,Pfps
 3,Clark Kellogg,3.7,Evening & Weekend MBA,200P,A-,Pfps
 1,Clark Kellogg,3.3,Evening & Weekend MBA,200P,B+,Pfps
@@ -2672,7 +2672,7 @@
 1,Eliot Bessette; Jeffrey Skoller,3,Film,108,B,Film Genre
 2,Eliot Bessette; Jeffrey Skoller,0,Film,108,F,Film Genre
 2,Eliot Bessette; Jeffrey Skoller,,Film,108,Pass,Film Genre
-1,Eliot Bessette; Jeffrey Skoller,,Film,108,Satisfactory,Film Genre
+1,Eliot Bessette; Jeffrey Skoller,,Film,108,Pass,Film Genre
 1,Jeffrey Skoller; Justin Vaccaro,4,Film,108,A+,Film Genre
 5,Jeffrey Skoller; Justin Vaccaro,4,Film,108,A,Film Genre
 2,Jeffrey Skoller; Justin Vaccaro,3.7,Film,108,A-,Film Genre
@@ -2698,7 +2698,7 @@
 3,Eileen Jones,0,Film,129,F,Avant-Garde Film
 1,Eileen Jones,,Film,129,Pass,Avant-Garde Film
 2,Jeffrey Skoller,,Film,197B,Pass,Field Study
-3,Jeffrey Skoller,,Film,298,Satisfactory,Special Study
+3,Jeffrey Skoller,,Film,298,Pass,Special Study
 5,Eric Reiner,4,Financial Engineering,230D,A+,Deriv: Quant Meth
 7,Eric Reiner,4,Financial Engineering,230D,A,Deriv: Quant Meth
 26,Eric Reiner,3.7,Financial Engineering,230D,A-,Deriv: Quant Meth
@@ -2712,7 +2712,7 @@
 9,Richard Stanton,3,Financial Engineering,230I,B,Fixed Income Markts
 4,Richard Stanton,2.7,Financial Engineering,230I,B-,Fixed Income Markts
 1,Richard Stanton,2.3,Financial Engineering,230I,C+,Fixed Income Markts
-56,Linda Kreitzman,,Financial Engineering,230T,Satisfactory,Topics In Fin Eng
+56,Linda Kreitzman,,Financial Engineering,230T,Pass,Topics In Fin Eng
 16,Deepak Agrawal,4,Financial Engineering,230V,A,Credit Rsk Modeling
 17,Deepak Agrawal,3.7,Financial Engineering,230V,A-,Credit Rsk Modeling
 20,Deepak Agrawal,3.3,Financial Engineering,230V,B+,Credit Rsk Modeling
@@ -2723,12 +2723,12 @@
 1,Brock Imel; Seda Chavdarian,3,French,1,B,Elementary French
 1,Brock Imel; Seda Chavdarian,0,French,1,F,Elementary French
 2,Brock Imel; Seda Chavdarian,,French,1,Pass,Elementary French
-2,Brock Imel; Seda Chavdarian,,French,1,Satisfactory,Elementary French
+2,Brock Imel; Seda Chavdarian,,French,1,Pass,Elementary French
 6,Olga Sylvia; Seda Chavdarian,4,French,1,A,Elementary French
 3,Olga Sylvia; Seda Chavdarian,3.7,French,1,A-,Elementary French
 2,Olga Sylvia; Seda Chavdarian,0.7,French,1,D-,Elementary French
 4,Olga Sylvia; Seda Chavdarian,,French,1,Pass,Elementary French
-1,Olga Sylvia; Seda Chavdarian,,French,1,Satisfactory,Elementary French
+1,Olga Sylvia; Seda Chavdarian,,French,1,Pass,Elementary French
 1,Olga Sylvia; Seda Chavdarian,,French,1,Not Pass,Elementary French
 4,Nelly Timmons,4,French,1,A+,Elementary French
 5,Nelly Timmons,4,French,1,A,Elementary French
@@ -2750,19 +2750,19 @@
 1,Seda Chavdarian; Trevor Sanders,1.7,French,2,C-,Elementary French
 1,Seda Chavdarian; Trevor Sanders,1,French,2,D,Elementary French
 2,Seda Chavdarian; Trevor Sanders,,French,2,Pass,Elementary French
-1,Seda Chavdarian; Trevor Sanders,,French,2,Satisfactory,Elementary French
+1,Seda Chavdarian; Trevor Sanders,,French,2,Pass,Elementary French
 1,Seda Chavdarian; Trevor Sanders,,French,2,Not Pass,Elementary French
-1,Seda Chavdarian; Trevor Sanders,,French,2,Unsatisfactory,Elementary French
+1,Seda Chavdarian; Trevor Sanders,,French,2,Not Pass,Elementary French
 2,Vanessa Brutsche; Vesna Rodic,4,French,3,A,Intermediate French
 2,Vanessa Brutsche; Vesna Rodic,3.7,French,3,A-,Intermediate French
 1,Vanessa Brutsche; Vesna Rodic,3,French,3,B,Intermediate French
 1,Vanessa Brutsche; Vesna Rodic,,French,3,Pass,Intermediate French
-2,Vanessa Brutsche; Vesna Rodic,,French,3,Satisfactory,Intermediate French
+2,Vanessa Brutsche; Vesna Rodic,,French,3,Pass,Intermediate French
 3,Sokrat Postoli; Vesna Rodic,3.7,French,4,A-,Adv Int French
 2,Sokrat Postoli; Vesna Rodic,3.3,French,4,B+,Adv Int French
 1,Sokrat Postoli; Vesna Rodic,3,French,4,B,Adv Int French
 1,Sokrat Postoli; Vesna Rodic,,French,4,Pass,Adv Int French
-1,Sokrat Postoli; Vesna Rodic,,French,4,Satisfactory,Adv Int French
+1,Sokrat Postoli; Vesna Rodic,,French,4,Pass,Adv Int French
 4,Danielle Boucher; Zane Burris,4,French,12,A,Intens French
 2,Danielle Boucher; Zane Burris,3.7,French,12,A-,Intens French
 1,Danielle Boucher; Zane Burris,,French,12,Not Pass,Intens French
@@ -2778,7 +2778,7 @@
 21,Nelly Timmons,4,French,43A,A,Aspects Fr Culture
 2,Nelly Timmons,3.7,French,43A,A-,Aspects Fr Culture
 6,Nelly Timmons,,French,43A,Pass,Aspects Fr Culture
-2,Nelly Timmons,,French,43A,Satisfactory,Aspects Fr Culture
+2,Nelly Timmons,,French,43A,Pass,Aspects Fr Culture
 6,Vesna Rodic,4,French,116A,A,16th Century Lit
 5,Vesna Rodic,3.7,French,116A,A-,16th Century Lit
 2,Vesna Rodic,3.3,French,116A,B+,16th Century Lit
@@ -2789,7 +2789,7 @@
 1,Catherine Talley; Karl Britto,,French,142AC,Not Pass,Cult Of Fr America
 9,Leslie Martin,,French,197,Pass,Field Study
 13,Nelly Timmons,,French,197,Pass,Field Study
-10,Karl Britto,,French,298,Satisfactory,Special Study
+10,Karl Britto,,French,298,Pass,Special Study
 9,Leslie Salzinger; Sima Belmar,3.7,Gender & Womens Studies,R1B,A-,Reading & Comp
 2,Leslie Salzinger; Sima Belmar,3.3,Gender & Womens Studies,R1B,B+,Reading & Comp
 6,Leslie Salzinger; Sima Belmar,3,Gender & Womens Studies,R1B,B,Reading & Comp
@@ -2803,7 +2803,7 @@
 10,Barbara Barnes,3.7,Gender & Womens Studies,50AC,A-,Gender In Amer Cult
 1,Barbara Barnes,1.7,Gender & Womens Studies,50AC,C-,Gender In Amer Cult
 4,Barbara Barnes,,Gender & Womens Studies,50AC,Pass,Gender In Amer Cult
-1,Barbara Barnes,,Gender & Womens Studies,50AC,Satisfactory,Gender In Amer Cult
+1,Barbara Barnes,,Gender & Womens Studies,50AC,Pass,Gender In Amer Cult
 1,Barbara Barnes,,Gender & Womens Studies,50AC,Not Pass,Gender In Amer Cult
 1,Charis Thompson,,Gender & Womens Studies,97,Pass,Field Study
 1,Barbara Barnes,,Gender & Womens Studies,99,Pass,Superv Indep Study
@@ -2816,7 +2816,7 @@
 2,Charis Thompson; Giancarlo Cornejo Salinas,3.7,Gender & Womens Studies,111,A-,Special Topics
 1,Charis Thompson; Giancarlo Cornejo Salinas,3,Gender & Womens Studies,111,B,Special Topics
 2,Charis Thompson; Giancarlo Cornejo Salinas,,Gender & Womens Studies,111,Pass,Special Topics
-1,Charis Thompson; Giancarlo Cornejo Salinas,,Gender & Womens Studies,111,Satisfactory,Special Topics
+1,Charis Thompson; Giancarlo Cornejo Salinas,,Gender & Womens Studies,111,Pass,Special Topics
 2,Charis Thompson; Giancarlo Cornejo Salinas,,Gender & Womens Studies,111,Not Pass,Special Topics
 9,Catherine Guimond,4,Geography,N4,A,Wrld Cultures Envts
 6,Catherine Guimond,3.7,Geography,N4,A-,Wrld Cultures Envts
@@ -2866,22 +2866,22 @@
 4,Aaron Degrassi; Nathan Sayre,3,Geography,138,B,Global Environ Poli
 1,Aaron Degrassi; Nathan Sayre,2.7,Geography,138,B-,Global Environ Poli
 1,Aaron Degrassi; Nathan Sayre,0,Geography,138,F,Global Environ Poli
-1,Aaron Degrassi; Nathan Sayre,,Geography,138,Satisfactory,Global Environ Poli
+1,Aaron Degrassi; Nathan Sayre,,Geography,138,Pass,Global Environ Poli
 1,Alexander Tarr,4,Geography,182,A+,Field Study Cities
 23,Alexander Tarr,4,Geography,182,A,Field Study Cities
 1,Alexander Tarr,3.7,Geography,182,A-,Field Study Cities
 1,Alexander Tarr,3,Geography,182,B,Field Study Cities
 2,Alexander Tarr,,Geography,182,Pass,Field Study Cities
 1,Laurel Larsen,,Geography,199,Pass,Superv Indep Study
-1,Paul Groth,,Geography,N296,Satisfactory,Diss Research
-1,Gillian Hart,,Geography,N296,Satisfactory,Diss Research
-1,Michael Johns,,Geography,N296,Satisfactory,Diss Research
+1,Paul Groth,,Geography,N296,Pass,Diss Research
+1,Gillian Hart,,Geography,N296,Pass,Diss Research
+1,Michael Johns,,Geography,N296,Pass,Diss Research
 1,Jon Kosek,4,Geography,N296,A,Diss Research
-1,Jon Kosek,,Geography,N296,Satisfactory,Diss Research
-1,Nathan Sayre,,Geography,N296,Satisfactory,Diss Research
-1,Michael Watts,,Geography,N296,Satisfactory,Diss Research
+1,Jon Kosek,,Geography,N296,Pass,Diss Research
+1,Nathan Sayre,,Geography,N296,Pass,Diss Research
+1,Michael Watts,,Geography,N296,Pass,Diss Research
 1,Jon Kosek,4,Geography,N299,A+,Individ Research
-1,Nathan Sayre,,Geography,N299,Satisfactory,Individ Research
+1,Nathan Sayre,,Geography,N299,Pass,Individ Research
 2,Michael Watts,4,Geography,N299,A,Individ Research
 2,Laurel Larsen,4,Geography,N299,A,Individ Research
 1,Jennifer Ingalls; Nikolaus Euba,4,German,1,A+,Elementary German 1
@@ -2898,12 +2898,12 @@
 4,Carolyn Hawkshaw; Nikolaus Euba,3.7,German,2,A-,Elementary German 2
 1,Carolyn Hawkshaw; Nikolaus Euba,3.3,German,2,B+,Elementary German 2
 3,Carolyn Hawkshaw; Nikolaus Euba,,German,2,Pass,Elementary German 2
-1,Carolyn Hawkshaw; Nikolaus Euba,,German,2,Satisfactory,Elementary German 2
+1,Carolyn Hawkshaw; Nikolaus Euba,,German,2,Pass,Elementary German 2
 1,Nikolaus Euba; Stephanie Peltner,4,German,3,A+,Intermed German I
 2,Nikolaus Euba; Stephanie Peltner,3.7,German,3,A-,Intermed German I
 1,Nikolaus Euba; Stephanie Peltner,3.3,German,3,B+,Intermed German I
 1,Nikolaus Euba; Stephanie Peltner,3,German,3,B,Intermed German I
-1,Nikolaus Euba; Stephanie Peltner,,German,3,Satisfactory,Intermed German I
+1,Nikolaus Euba; Stephanie Peltner,,German,3,Pass,Intermed German I
 1,Dagmar Theison; Nikolaus Euba,4,German,4,A+,Intermed German Ii
 1,Dagmar Theison; Nikolaus Euba,4,German,4,A,Intermed German Ii
 1,Dagmar Theison; Nikolaus Euba,3.7,German,4,A-,Intermed German Ii
@@ -2923,26 +2923,26 @@
 5,Karen Feldman; Kenneth Fockele,3.7,German,R5B,A-,Reading And Comp
 1,Karen Feldman; Kenneth Fockele,,German,R5B,Pass,Reading And Comp
 1,Justin Farwell; Nikolaus Euba,,German,107,Pass,German For Reading
-8,Justin Farwell; Nikolaus Euba,,German,107,Satisfactory,German For Reading
-3,Niklaus Largier,,German,298,Satisfactory,Group Study
-1,Deniz Gokturk,,German,298,Satisfactory,Group Study
-1,Irmengard Rauch,,German,N299,Satisfactory,Ind Study
+8,Justin Farwell; Nikolaus Euba,,German,107,Pass,German For Reading
+3,Niklaus Largier,,German,298,Pass,Group Study
+1,Deniz Gokturk,,German,298,Pass,Group Study
+1,Irmengard Rauch,,German,N299,Pass,Ind Study
 3,Derin Mcleod; Dylan Sailor,4,Greek,15,A+,The Greek Workshop
 10,Derin Mcleod; Dylan Sailor,4,Greek,15,A,The Greek Workshop
 2,Derin Mcleod; Dylan Sailor,3.7,Greek,15,A-,The Greek Workshop
 1,Derin Mcleod; Dylan Sailor,3.3,Greek,15,B+,The Greek Workshop
 2,Derin Mcleod; Dylan Sailor,,Greek,15,Pass,The Greek Workshop
-1,Derin Mcleod; Dylan Sailor,,Greek,15,Satisfactory,The Greek Workshop
+1,Derin Mcleod; Dylan Sailor,,Greek,15,Pass,The Greek Workshop
 2,Kamla Ahluwalia,4,Health & Medical Sciences,201,A+,Hum Anat & Develop
 9,Kamla Ahluwalia,4,Health & Medical Sciences,201,A,Hum Anat & Develop
 3,Kamla Ahluwalia,3.7,Health & Medical Sciences,201,A-,Hum Anat & Develop
 2,Kamla Ahluwalia,3.3,Health & Medical Sciences,201,B+,Hum Anat & Develop
 14,Colette Auerswald; Douglas Jutte,4,Health & Medical Sciences,261,A,Research Seminar
-2,Colette Auerswald; Douglas Jutte,,Health & Medical Sciences,261,Satisfactory,Research Seminar
+2,Colette Auerswald; Douglas Jutte,,Health & Medical Sciences,261,Pass,Research Seminar
 2,Sonia Taneja,4,Hindi-Urdu,15,A,Intens Elem Hin-Urd
 2,Sonia Taneja,3.7,Hindi-Urdu,15,A-,Intens Elem Hin-Urd
 1,Sonia Taneja,3.3,Hindi-Urdu,15,B+,Intens Elem Hin-Urd
-1,Sonia Taneja,,Hindi-Urdu,15,Satisfactory,Intens Elem Hin-Urd
+1,Sonia Taneja,,Hindi-Urdu,15,Pass,Intens Elem Hin-Urd
 4,Yevgeny Zubovich,4,History,7B,A,The Us Civ War Pres
 6,Yevgeny Zubovich,3.7,History,7B,A-,The Us Civ War Pres
 9,Yevgeny Zubovich,3.3,History,7B,B+,The Us Civ War Pres
@@ -2975,7 +2975,7 @@
 1,Robert Chester,1.3,History,N100,D+,Short Course Topics
 8,Robert Chester,,History,N100,Pass,Short Course Topics
 5,Robert Chester,,History,N100,Not Pass,Short Course Topics
-2,Robert Chester,,History,N100,Unsatisfactory,Short Course Topics
+2,Robert Chester,,History,N100,Not Pass,Short Course Topics
 5,Carlos Norena,4,History,N106B,A,The Roman Empire
 7,Carlos Norena,3.7,History,N106B,A-,The Roman Empire
 3,Carlos Norena,3.3,History,N106B,B+,The Roman Empire
@@ -3042,9 +3042,9 @@
 2,David Wetzel,,History,N158C,Pass,Europe 1914-Pres
 2,David Wetzel,,History,N158C,Not Pass,Europe 1914-Pres
 2,Mark Peterson,,History,199,Pass,Superv Indep Study
-21,Margaret Chowning,,History,296,Satisfactory,Dissertation Res
+21,Margaret Chowning,,History,296,Pass,Dissertation Res
 1,Andrew Barshay,4,History,299,A,Directed Reading
-22,Margaret Chowning,,History,602,Satisfactory,Individual Study
+22,Margaret Chowning,,History,602,Pass,Individual Study
 1,Andrew Stewart; Kailani Polzak,4,History of Art,R1B,A+,Visual Experience
 3,Andrew Stewart; Kailani Polzak,4,History of Art,R1B,A,Visual Experience
 3,Andrew Stewart; Kailani Polzak,3.7,History of Art,R1B,A-,Visual Experience
@@ -3085,16 +3085,16 @@
 1,Alexandra Courtois De Vicose; Andrew Stewart,0.7,History of Art,N182,D-,Hist Of Photography
 4,Alexandra Courtois De Vicose; Andrew Stewart,0,History of Art,N182,F,Hist Of Photography
 2,Alexandra Courtois De Vicose; Andrew Stewart,,History of Art,N182,Not Pass,Hist Of Photography
-1,Margaretta Lovell,,History of Art,299,Satisfactory,Special Study-Grad
+1,Margaretta Lovell,,History of Art,299,Pass,Special Study-Grad
 1,Robert Leachman,,Industrial Eng & Ops Rsch,199,Pass,Superv Indep Study
 3,Ikhlaq Sidhu,,Industrial Eng & Ops Rsch,199,Pass,Superv Indep Study
 3,Candace Yano,,Industrial Eng & Ops Rsch,199,Pass,Superv Indep Study
 1,Rhonda Righter,,Industrial Eng & Ops Rsch,199,Pass,Superv Indep Study
-1,Ilan Adler,,Industrial Eng & Ops Rsch,299,Satisfactory,Ind Study Or Resch
-1,Alper Atamturk,,Industrial Eng & Ops Rsch,299,Satisfactory,Ind Study Or Resch
-4,Dorit Hochbaum,,Industrial Eng & Ops Rsch,299,Satisfactory,Ind Study Or Resch
-2,Philip Kaminsky,,Industrial Eng & Ops Rsch,299,Satisfactory,Ind Study Or Resch
-2,Candace Yano,,Industrial Eng & Ops Rsch,299,Satisfactory,Ind Study Or Resch
+1,Ilan Adler,,Industrial Eng & Ops Rsch,299,Pass,Ind Study Or Resch
+1,Alper Atamturk,,Industrial Eng & Ops Rsch,299,Pass,Ind Study Or Resch
+4,Dorit Hochbaum,,Industrial Eng & Ops Rsch,299,Pass,Ind Study Or Resch
+2,Philip Kaminsky,,Industrial Eng & Ops Rsch,299,Pass,Ind Study Or Resch
+2,Candace Yano,,Industrial Eng & Ops Rsch,299,Pass,Ind Study Or Resch
 2,Peter Norlander,4,Info & Data Science,W201,A+,Res Dsgn Data Analy
 6,Peter Norlander,4,Info & Data Science,W201,A,Res Dsgn Data Analy
 1,Peter Norlander,3.7,Info & Data Science,W201,A-,Res Dsgn Data Analy
@@ -3207,11 +3207,11 @@
 14,Bruce Rinehart,4,Info Mgmt & Systems,155,A,Intro Hi-Level Pgm
 1,Bruce Rinehart,1.7,Info Mgmt & Systems,155,C-,Intro Hi-Level Pgm
 1,Bruce Rinehart,,Info Mgmt & Systems,155,Pass,Intro Hi-Level Pgm
-1,Bruce Rinehart,,Info Mgmt & Systems,155,Satisfactory,Intro Hi-Level Pgm
-13,Annalee Saxenian,,Info Mgmt & Systems,293,Satisfactory,Cpt For Intl Stdnt
+1,Bruce Rinehart,,Info Mgmt & Systems,155,Pass,Intro Hi-Level Pgm
+13,Annalee Saxenian,,Info Mgmt & Systems,293,Pass,Cpt For Intl Stdnt
 1,Coye Cheshire,4,Info Mgmt & Systems,299,A,Individual Study
 1,Tapan Parikh,4,Info Mgmt & Systems,299,A,Individual Study
-1,Tapan Parikh,,Info Mgmt & Systems,299,Satisfactory,Individual Study
+1,Tapan Parikh,,Info Mgmt & Systems,299,Pass,Individual Study
 11,John Sullivan; Judith Sakanari,4,Integrative Biology,116L,A,Medical Parasit
 4,John Sullivan; Judith Sakanari,3.7,Integrative Biology,116L,A-,Medical Parasit
 6,John Sullivan; Judith Sakanari,3.3,Integrative Biology,116L,B+,Medical Parasit
@@ -3230,7 +3230,7 @@
 2,Thomas Carlson,2,Integrative Biology,117,C,Medical Ethnobotany
 1,Thomas Carlson,1.7,Integrative Biology,117,C-,Medical Ethnobotany
 6,Thomas Carlson,,Integrative Biology,117,Pass,Medical Ethnobotany
-1,Thomas Carlson,,Integrative Biology,117,Satisfactory,Medical Ethnobotany
+1,Thomas Carlson,,Integrative Biology,117,Pass,Medical Ethnobotany
 1,Thomas Carlson,,Integrative Biology,117,Not Pass,Medical Ethnobotany
 4,Seth Kauppinen; Thomas Carlson,4,Integrative Biology,117LF,A+,Med Ethnobotany Lab
 3,Seth Kauppinen; Thomas Carlson,4,Integrative Biology,117LF,A,Med Ethnobotany Lab
@@ -3351,21 +3351,21 @@
 1,Wayne Sousa,4,Integrative Biology,N298,A+,Special Study
 1,Chelsea Specht,4,Integrative Biology,N298,A,Special Study
 1,Todd Dawson,4,Integrative Biology,N298,A,Special Study
-1,George Bentley,,Integrative Biology,N298,Satisfactory,Special Study
+1,George Bentley,,Integrative Biology,N298,Pass,Special Study
 1,Gary Firestone,4,Integrative Biology,N298,A,Special Study
-2,Eileen Lacey,,Integrative Biology,N299,Satisfactory,Graduate Research
-1,Robert Dudley,,Integrative Biology,N299,Satisfactory,Graduate Research
-2,Jimmy Mcguire,,Integrative Biology,N299,Satisfactory,Graduate Research
-1,Nipam Patel,,Integrative Biology,N299,Satisfactory,Graduate Research
-1,Kevin Padian,,Integrative Biology,N299,Satisfactory,Graduate Research
-1,Paul Fine,,Integrative Biology,N299,Satisfactory,Graduate Research
-2,Bruce Baldwin,,Integrative Biology,N299,Satisfactory,Graduate Research
-1,Rauri Bowie,,Integrative Biology,N299,Satisfactory,Graduate Research
-3,Robert Full,,Integrative Biology,N299,Satisfactory,Graduate Research
-1,Daniela Kaufer,,Integrative Biology,N299,Satisfactory,Graduate Research
-1,Tyrone Hayes,,Integrative Biology,N299,Satisfactory,Graduate Research
-1,Cynthia Looy,,Integrative Biology,N299,Satisfactory,Graduate Research
-1,Cynthia Looy,,Integrative Biology,N299,Satisfactory,Graduate Research
+2,Eileen Lacey,,Integrative Biology,N299,Pass,Graduate Research
+1,Robert Dudley,,Integrative Biology,N299,Pass,Graduate Research
+2,Jimmy Mcguire,,Integrative Biology,N299,Pass,Graduate Research
+1,Nipam Patel,,Integrative Biology,N299,Pass,Graduate Research
+1,Kevin Padian,,Integrative Biology,N299,Pass,Graduate Research
+1,Paul Fine,,Integrative Biology,N299,Pass,Graduate Research
+2,Bruce Baldwin,,Integrative Biology,N299,Pass,Graduate Research
+1,Rauri Bowie,,Integrative Biology,N299,Pass,Graduate Research
+3,Robert Full,,Integrative Biology,N299,Pass,Graduate Research
+1,Daniela Kaufer,,Integrative Biology,N299,Pass,Graduate Research
+1,Tyrone Hayes,,Integrative Biology,N299,Pass,Graduate Research
+1,Cynthia Looy,,Integrative Biology,N299,Pass,Graduate Research
+1,Cynthia Looy,,Integrative Biology,N299,Pass,Graduate Research
 11,Rakesh Bhandari,4,Interdisciplinary Studies,100A,A,Soc Thry Cult Anlys
 3,Rakesh Bhandari,3.7,Interdisciplinary Studies,100A,A-,Soc Thry Cult Anlys
 2,Rakesh Bhandari,3.3,Interdisciplinary Studies,100A,B+,Soc Thry Cult Anlys
@@ -3458,7 +3458,7 @@
 2,Scott Bailey,1.7,International & Area Stds,120,C-,Selected Topics
 1,Scott Bailey,0,International & Area Stds,120,F,Selected Topics
 9,Scott Bailey,,International & Area Stds,120,Pass,Selected Topics
-1,Scott Bailey,,International & Area Stds,120,Satisfactory,Selected Topics
+1,Scott Bailey,,International & Area Stds,120,Pass,Selected Topics
 1,Alan Karras,4,International & Area Stds,196,A+,Special Research
 6,Alan Karras,4,International & Area Stds,196,A,Special Research
 3,Alan Karras,3.7,International & Area Stds,196,A-,Special Research
@@ -3475,7 +3475,7 @@
 1,Alan Karras,2,International & Area Stds,196,C,Special Research
 1,Alan Karras,1.7,International & Area Stds,196,C-,Special Research
 25,Alan Karras,,International & Area Stds,196,Pass,Special Research
-1,Alan Karras,,International & Area Stds,196,Satisfactory,Special Research
+1,Alan Karras,,International & Area Stds,196,Pass,Special Research
 1,Alan Karras,,International & Area Stds,196,Not Pass,Special Research
 4,Alan Karras,4,International & Area Stds,196,A+,Special Research
 11,Alan Karras,4,International & Area Stds,196,A,Special Research
@@ -3489,7 +3489,7 @@
 12,Alan Karras,,International & Area Stds,196,Pass,Special Research
 3,Alan Karras,,International & Area Stds,196,Not Pass,Special Research
 1,Alan Karras,3.7,International & Area Stds,196,A-,Special Research
-1,Jeroen Dewulf,,International & Area Stds,199,Satisfactory,Superv Indep Study
+1,Jeroen Dewulf,,International & Area Stds,199,Pass,Superv Indep Study
 3,Albert Ascoli; Lauren-Claire Kelley,4,Italian Studies,1,A,Elementary Italian
 1,Albert Ascoli; Lauren-Claire Kelley,3.7,Italian Studies,1,A-,Elementary Italian
 1,Albert Ascoli; Lauren-Claire Kelley,3.3,Italian Studies,1,B+,Elementary Italian
@@ -3507,8 +3507,8 @@
 3,Albert Ascoli; Marina Romani,3.7,Italian Studies,70,A-,Italian Cinema
 1,Albert Ascoli; Marina Romani,3.3,Italian Studies,70,B+,Italian Cinema
 1,Albert Ascoli; Marina Romani,,Italian Studies,70,Pass,Italian Cinema
-1,Barbara Spackman,,Italian Studies,298,Satisfactory,Special Study
-1,Barbara Spackman,,Italian Studies,N299,Satisfactory,Directed Research
+1,Barbara Spackman,,Italian Studies,298,Pass,Special Study
+1,Barbara Spackman,,Italian Studies,N299,Pass,Directed Research
 6,Keiko Yukawa; Maki Takata; Yasuko Baker; Yumi Konishi,4,Japanese,1,A,Elem Japan Intens
 1,Keiko Yukawa; Maki Takata; Yasuko Baker; Yumi Konishi,3.7,Japanese,1,A-,Elem Japan Intens
 1,Keiko Yukawa; Maki Takata; Yasuko Baker; Yumi Konishi,2.7,Japanese,1,B-,Elem Japan Intens
@@ -3523,7 +3523,7 @@
 2,Keiko Yukawa; Maki Takata; Yasuko Baker; Yumi Konishi,3.3,Japanese,1,B+,Elem Japan Intens
 1,Keiko Yukawa; Maki Takata; Yasuko Baker; Yumi Konishi,2.7,Japanese,1,B-,Elem Japan Intens
 3,Keiko Yukawa; Maki Takata; Yasuko Baker; Yumi Konishi,,Japanese,1,Pass,Elem Japan Intens
-2,Keiko Yukawa; Maki Takata; Yasuko Baker; Yumi Konishi,,Japanese,1,Satisfactory,Elem Japan Intens
+2,Keiko Yukawa; Maki Takata; Yasuko Baker; Yumi Konishi,,Japanese,1,Pass,Elem Japan Intens
 1,Keiko Yukawa; Maki Takata; Yasuko Baker; Yumi Konishi,,Japanese,1,Not Pass,Elem Japan Intens
 1,Brian Hurley,4,Japanese,7A,A+,Premod Japan Lit
 1,Brian Hurley,4,Japanese,7A,A,Premod Japan Lit
@@ -3541,21 +3541,21 @@
 1,Keiko Yukawa; Yuriko Caltabiano,2.3,Japanese,10,C+,Inter Japan Intens
 1,Keiko Yukawa; Yuriko Caltabiano,1.7,Japanese,10,C-,Inter Japan Intens
 2,Keiko Yukawa; Yuriko Caltabiano,,Japanese,10,Pass,Inter Japan Intens
-2,Keiko Yukawa; Yuriko Caltabiano,,Japanese,10,Satisfactory,Inter Japan Intens
+2,Keiko Yukawa; Yuriko Caltabiano,,Japanese,10,Pass,Inter Japan Intens
 1,Noriko Knickerbocker; Yumi Konishi,4,Japanese,100,A+,Adv Japanese Intens
 2,Noriko Knickerbocker; Yumi Konishi,4,Japanese,100,A,Adv Japanese Intens
 1,Noriko Knickerbocker; Yumi Konishi,3.7,Japanese,100,A-,Adv Japanese Intens
 2,Noriko Knickerbocker; Yumi Konishi,3.3,Japanese,100,B+,Adv Japanese Intens
 1,Noriko Knickerbocker; Yumi Konishi,2.7,Japanese,100,B-,Adv Japanese Intens
-1,Noriko Knickerbocker; Yumi Konishi,,Japanese,100,Satisfactory,Adv Japanese Intens
+1,Noriko Knickerbocker; Yumi Konishi,,Japanese,100,Pass,Adv Japanese Intens
 1,Daniel O'Neill,4,Japanese,298,A,Direct Study Grad
 1,Daniel O'Neill,4,Japanese,298,A,Direct Study Grad
-1,Daniel O'Neill,,Japanese,298,Satisfactory,Direct Study Grad
-3,Alan Tansman,,Japanese,298,Satisfactory,Direct Study Grad
-1,Chana Kronfeld,,Jewish Studies,299,Satisfactory,Ind Stdy/Research
+1,Daniel O'Neill,,Japanese,298,Pass,Direct Study Grad
+3,Alan Tansman,,Japanese,298,Pass,Direct Study Grad
+1,Chana Kronfeld,,Jewish Studies,299,Pass,Ind Stdy/Research
 1,William Drummond,4,Journalism,294,A,Mp Seminar
 9,Robert Gunnison,,Journalism,297,Pass,Field Study
-1,Robert Gunnison,,Journalism,297,Satisfactory,Field Study
+1,Robert Gunnison,,Journalism,297,Pass,Field Study
 4,Robert Gunnison,4,Journalism,298,A,Group Study
 3,Robert Gunnison,3.3,Journalism,298,B+,Group Study
 3,Robert Gunnison,,Journalism,298,Pass,Group Study
@@ -3565,9 +3565,9 @@
 2,Jiyoung Kim; Kijoo Ko,3.7,Korean,1,A-,Elem Korean Intens
 1,Jiyoung Kim; Kijoo Ko,2.7,Korean,1,B-,Elem Korean Intens
 1,Jiyoung Kim; Kijoo Ko,,Korean,1,Pass,Elem Korean Intens
-1,Jiyoung Kim; Kijoo Ko,,Korean,1,Satisfactory,Elem Korean Intens
+1,Jiyoung Kim; Kijoo Ko,,Korean,1,Pass,Elem Korean Intens
 7,Kijoo Ko; Kyung-Ah Kim; Soojin Lee,4,Korean,10,A,Inter Korean Intens
-1,Kijoo Ko; Kyung-Ah Kim; Soojin Lee,,Korean,10,Satisfactory,Inter Korean Intens
+1,Kijoo Ko; Kyung-Ah Kim; Soojin Lee,,Korean,10,Pass,Inter Korean Intens
 1,George Kondolf,4,Landscape Arch & Env Plan,12,A+,Env Sci Sustainable
 4,George Kondolf,4,Landscape Arch & Env Plan,12,A,Env Sci Sustainable
 4,George Kondolf,3.7,Landscape Arch & Env Plan,12,A-,Env Sci Sustainable
@@ -3580,13 +3580,13 @@
 6,Kimberlee Stryker,3.7,Landscape Arch & Env Plan,130,A-,Sustain Landscapes
 5,Kimberlee Stryker,3.3,Landscape Arch & Env Plan,130,B+,Sustain Landscapes
 1,Kimberlee Stryker,2.3,Landscape Arch & Env Plan,130,C+,Sustain Landscapes
-1,Kristina Hill,,Landscape Arch & Env Plan,297,Satisfactory,Supervised Fld Stud
-1,Kristina Hill,,Landscape Arch & Env Plan,299,Satisfactory,Individual Research
+1,Kristina Hill,,Landscape Arch & Env Plan,297,Pass,Supervised Fld Stud
+1,Kristina Hill,,Landscape Arch & Env Plan,299,Pass,Individual Research
 1,George Kondolf,4,Landscape Arch & Env Plan,299,A,Individual Research
-2,George Kondolf,,Landscape Arch & Env Plan,299,Satisfactory,Individual Research
-1,Kristina Hill,,Landscape Arch & Env Plan,602,Satisfactory,Individual Study
+2,George Kondolf,,Landscape Arch & Env Plan,299,Pass,Individual Research
+1,Kristina Hill,,Landscape Arch & Env Plan,602,Pass,Individual Study
 3,Dylan Sailor; Michael Taylor,4,Latin,1,A,Elementary Latin
-1,Dylan Sailor; Michael Taylor,,Latin,1,Satisfactory,Elementary Latin
+1,Dylan Sailor; Michael Taylor,,Latin,1,Pass,Elementary Latin
 1,Tom Recht,4,Latin,15,A+,The Latin Workshop
 8,Tom Recht,4,Latin,15,A,The Latin Workshop
 3,Tom Recht,3.7,Latin,15,A-,The Latin Workshop
@@ -3600,7 +3600,7 @@
 1,Tiffany Page,3.3,Latin American Studies,160,B+,Politics Devl Chile
 4,Tiffany Page,3,Latin American Studies,160,B,Politics Devl Chile
 6,Tiffany Page,,Latin American Studies,160,Pass,Politics Devl Chile
-1,Estelle Tarica,,Latin American Studies,299,Satisfactory,Individual Study
+1,Estelle Tarica,,Latin American Studies,299,Pass,Individual Study
 6,Anne O'Connell,,Law,200S,High Honors,Civil Procedure
 10,Anne O'Connell,,Law,200S,Honors,Civil Procedure
 14,Anne O'Connell,,Law,200S,Pass,Civil Procedure
@@ -3736,7 +3736,7 @@
 5,Christopher Kutz,3,Legal Studies,100,B,Foundations Legalst
 3,Christopher Kutz,2.7,Legal Studies,100,B-,Foundations Legalst
 1,Christopher Kutz,,Legal Studies,100,Pass,Foundations Legalst
-1,Christopher Kutz,,Legal Studies,100,Satisfactory,Foundations Legalst
+1,Christopher Kutz,,Legal Studies,100,Pass,Foundations Legalst
 3,Elizabeth Brown,4,Legal Studies,102,A,Policing & Society
 3,Elizabeth Brown,3.7,Legal Studies,102,A-,Policing & Society
 6,Elizabeth Brown,3.3,Legal Studies,102,B+,Policing & Society
@@ -3772,7 +3772,7 @@
 1,Corwin Vencill,2,Legal Studies,147,C,Law & Economics
 1,Corwin Vencill,0,Legal Studies,147,F,Law & Economics
 1,Corwin Vencill,,Legal Studies,147,Pass,Law & Economics
-1,Corwin Vencill,,Legal Studies,147,Satisfactory,Law & Economics
+1,Corwin Vencill,,Legal Studies,147,Pass,Law & Economics
 2,Robert Brown,4,Legal Studies,176,A+,20th C Am Leg Hist
 2,Robert Brown,4,Legal Studies,176,A,20th C Am Leg Hist
 2,Robert Brown,3.7,Legal Studies,176,A-,20th C Am Leg Hist
@@ -3848,8 +3848,8 @@
 1,Emily Cibelli; Susanne Gahl,1,Linguistics,C147,D,Language Disorders
 1,Emily Cibelli; Susanne Gahl,0.7,Linguistics,C147,D-,Language Disorders
 1,Emily Cibelli; Susanne Gahl,,Linguistics,C147,Pass,Language Disorders
-4,Andrew Garrett,,Linguistics,N299,Satisfactory,Special Ind Study
-3,Andrew Garrett,,Linguistics,N299,Satisfactory,Special Ind Study
+4,Andrew Garrett,,Linguistics,N299,Pass,Special Ind Study
+3,Andrew Garrett,,Linguistics,N299,Pass,Special Ind Study
 2,Mark Haiman; Saad Qadeer,4,Mathematics,1A,A+,Calculus
 3,Mark Haiman; Saad Qadeer,4,Mathematics,1A,A,Calculus
 5,Mark Haiman; Saad Qadeer,3.7,Mathematics,1A,A-,Calculus
@@ -3941,7 +3941,7 @@
 4,Mark Haiman; Massoud Malek,0,Mathematics,16A,F,Anal Geo & Calculus
 1,Mark Haiman; Massoud Malek,,Mathematics,16A,Pass,Anal Geo & Calculus
 5,Mark Haiman; Massoud Malek,,Mathematics,16A,Not Pass,Anal Geo & Calculus
-1,Mark Haiman; Massoud Malek,,Mathematics,16A,Unsatisfactory,Anal Geo & Calculus
+1,Mark Haiman; Massoud Malek,,Mathematics,16A,Not Pass,Anal Geo & Calculus
 6,Mark Haiman; Massoud Malek,4,Mathematics,16A,A+,Anal Geo & Calculus
 2,Mark Haiman; Massoud Malek,4,Mathematics,16A,A,Anal Geo & Calculus
 4,Mark Haiman; Massoud Malek,3.7,Mathematics,16A,A-,Anal Geo & Calculus
@@ -4229,7 +4229,7 @@
 3,Khalilah Beal,2.7,Mathematics,104,B-,Intro To Analysis
 2,Khalilah Beal,0,Mathematics,104,F,Intro To Analysis
 1,Khalilah Beal,,Mathematics,104,Pass,Intro To Analysis
-1,Khalilah Beal,,Mathematics,104,Satisfactory,Intro To Analysis
+1,Khalilah Beal,,Mathematics,104,Pass,Intro To Analysis
 1,Khalilah Beal,,Mathematics,104,Not Pass,Intro To Analysis
 4,Jason Ferguson; Mark Haiman,4,Mathematics,110,A,Linear Algebra
 2,Jason Ferguson; Mark Haiman,3.7,Mathematics,110,A-,Linear Algebra
@@ -4341,27 +4341,27 @@
 2,David Nadler,,Mathematics,199,Pass,Superv Indep Study
 2,Thomas Scanlon,,Mathematics,199,Pass,Superv Indep Study
 1,Hongbin Sun,,Mathematics,199,Pass,Superv Indep Study
-1,Martin Olsson,,Mathematics,295,Satisfactory,Individual Research
+1,Martin Olsson,,Mathematics,295,Pass,Individual Research
 1,Lawrence Evans,4,Mathematics,295,A,Individual Research
-1,Lawrence Evans,,Mathematics,295,Satisfactory,Individual Research
-3,Daniel Tataru,,Mathematics,295,Satisfactory,Individual Research
-1,Jon Wilkening,,Mathematics,295,Satisfactory,Individual Research
+1,Lawrence Evans,,Mathematics,295,Pass,Individual Research
+3,Daniel Tataru,,Mathematics,295,Pass,Individual Research
+1,Jon Wilkening,,Mathematics,295,Pass,Individual Research
 1,Francis Christ,4,Mathematics,295,A,Individual Research
 1,Francis Christ,3.7,Mathematics,295,A-,Individual Research
-1,Kenneth Ribet,,Mathematics,295,Satisfactory,Individual Research
-1,Thomas Scanlon,,Mathematics,295,Satisfactory,Individual Research
-1,David Eisenbud,,Mathematics,295,Satisfactory,Individual Research
-1,David Nadler,,Mathematics,295,Satisfactory,Individual Research
+1,Kenneth Ribet,,Mathematics,295,Pass,Individual Research
+1,Thomas Scanlon,,Mathematics,295,Pass,Individual Research
+1,David Eisenbud,,Mathematics,295,Pass,Individual Research
+1,David Nadler,,Mathematics,295,Pass,Individual Research
 1,Nicolai Reshetikhin,4,Mathematics,295,A,Individual Research
-1,Katrin Wehrheim,,Mathematics,295,Satisfactory,Individual Research
+1,Katrin Wehrheim,,Mathematics,295,Pass,Individual Research
 1,Richard Borcherds,4,Mathematics,295,A,Individual Research
-1,Kenneth Ribet,,Mathematics,299,Satisfactory,Reading Grad Studs
-1,Theodore Slaman,,Mathematics,299,Satisfactory,Reading Grad Studs
-1,Marc Rieffel,,Mathematics,299,Satisfactory,Reading Grad Studs
+1,Kenneth Ribet,,Mathematics,299,Pass,Reading Grad Studs
+1,Theodore Slaman,,Mathematics,299,Pass,Reading Grad Studs
+1,Marc Rieffel,,Mathematics,299,Pass,Reading Grad Studs
 1,Martin Olsson,4,Mathematics,299,A,Reading Grad Studs
 1,Mark Haiman,4,Mathematics,299,A,Reading Grad Studs
-1,Mark Haiman,,Mathematics,299,Satisfactory,Reading Grad Studs
-1,Jon Wilkening,,Mathematics,299,Satisfactory,Reading Grad Studs
+1,Mark Haiman,,Mathematics,299,Pass,Reading Grad Studs
+1,Jon Wilkening,,Mathematics,299,Pass,Reading Grad Studs
 2,David Rich,4,Mechanical Engineering,40,A+,Thermodynamics
 3,David Rich,4,Mechanical Engineering,40,A,Thermodynamics
 3,David Rich,3.7,Mechanical Engineering,40,A-,Thermodynamics
@@ -4452,33 +4452,33 @@
 1,Carlos Fernandez-Pello,,Mechanical Engineering,197,Pass,Ugrad Eng Field Stu
 1,John Hedrick,,Mechanical Engineering,199,Pass,Superv Indep Study
 1,Paul Wright,,Mechanical Engineering,199,Pass,Superv Indep Study
-2,Alice Agogino,,Mechanical Engineering,297,Satisfactory,Eng Field Studies
-1,Costas Grigoropoulos,,Mechanical Engineering,297,Satisfactory,Eng Field Studies
-1,Philip Marcus,,Mechanical Engineering,297,Satisfactory,Eng Field Studies
-3,Masayoshi Tomizuka,,Mechanical Engineering,297,Satisfactory,Eng Field Studies
-1,Ronald Yeung,,Mechanical Engineering,297,Satisfactory,Eng Field Studies
-1,David Bogy,,Mechanical Engineering,297,Satisfactory,Eng Field Studies
-4,Alice Agogino,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Mohammad-Reza Alam,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Francesco Borrelli,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Van Carey,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Jyh-Yuan Chen,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Oliver O'Reilly,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Grace O'Connell,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Tony Keaveny,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-4,Liwei Lin,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Oliver O'Reilly,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Panayiotis Papadopoulos,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-2,Kameshwar Poolla,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Lisa Pruitt,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-2,Shawn Shadden,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-2,Masayoshi Tomizuka,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Paul Wright,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Tarek Zohdi,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-2,David Bogy,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Samuel Mao,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-3,Christopher Dames,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
-1,Mohammad Mofrad,,Mechanical Engineering,299,Satisfactory,Indiv Stud Research
+2,Alice Agogino,,Mechanical Engineering,297,Pass,Eng Field Studies
+1,Costas Grigoropoulos,,Mechanical Engineering,297,Pass,Eng Field Studies
+1,Philip Marcus,,Mechanical Engineering,297,Pass,Eng Field Studies
+3,Masayoshi Tomizuka,,Mechanical Engineering,297,Pass,Eng Field Studies
+1,Ronald Yeung,,Mechanical Engineering,297,Pass,Eng Field Studies
+1,David Bogy,,Mechanical Engineering,297,Pass,Eng Field Studies
+4,Alice Agogino,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Mohammad-Reza Alam,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Francesco Borrelli,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Van Carey,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Jyh-Yuan Chen,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Oliver O'Reilly,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Grace O'Connell,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Tony Keaveny,,Mechanical Engineering,299,Pass,Indiv Stud Research
+4,Liwei Lin,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Oliver O'Reilly,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Panayiotis Papadopoulos,,Mechanical Engineering,299,Pass,Indiv Stud Research
+2,Kameshwar Poolla,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Lisa Pruitt,,Mechanical Engineering,299,Pass,Indiv Stud Research
+2,Shawn Shadden,,Mechanical Engineering,299,Pass,Indiv Stud Research
+2,Masayoshi Tomizuka,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Paul Wright,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Tarek Zohdi,,Mechanical Engineering,299,Pass,Indiv Stud Research
+2,David Bogy,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Samuel Mao,,Mechanical Engineering,299,Pass,Indiv Stud Research
+3,Christopher Dames,,Mechanical Engineering,299,Pass,Indiv Stud Research
+1,Mohammad Mofrad,,Mechanical Engineering,299,Pass,Indiv Stud Research
 9,Josh Jackson,4,Media Studies,N10,A,Intro To Mediast
 9,Josh Jackson,3.7,Media Studies,N10,A-,Intro To Mediast
 7,Josh Jackson,3.3,Media Studies,N10,B+,Intro To Mediast
@@ -4610,7 +4610,7 @@
 2,Cindy Cox; Jiselle Warner,2.3,Music,20A,C+,Basic Musicianship
 1,Cindy Cox; Jiselle Warner,0,Music,20A,F,Basic Musicianship
 2,Cindy Cox; Jiselle Warner,,Music,20A,Pass,Basic Musicianship
-1,Cindy Cox; Jiselle Warner,,Music,20A,Satisfactory,Basic Musicianship
+1,Cindy Cox; Jiselle Warner,,Music,20A,Pass,Basic Musicianship
 2,Cindy Cox; Jiselle Warner,,Music,20A,Not Pass,Basic Musicianship
 4,Arathi Govind; Cindy Cox,4,Music,20A,A+,Basic Musicianship
 17,Arathi Govind; Cindy Cox,4,Music,20A,A,Basic Musicianship
@@ -4645,7 +4645,7 @@
 1,Robert Yamasato,2.7,Music,25A,B-,Music Theory
 1,Robert Yamasato,1.7,Music,25A,C-,Music Theory
 2,Robert Yamasato,,Music,25A,Pass,Music Theory
-1,Robert Yamasato,,Music,25A,Satisfactory,Music Theory
+1,Robert Yamasato,,Music,25A,Pass,Music Theory
 20,Tamara Roberts,4,Music,N26AC,A+,Music In Amer Cul
 8,Tamara Roberts,4,Music,N26AC,A,Music In Amer Cul
 2,Tamara Roberts,3.7,Music,N26AC,A-,Music In Amer Cul
@@ -4756,14 +4756,14 @@
 1,Marika Kuzma,3,Music,163,B,Choral Conducting
 1,Ken Ueno,,Music,199,Pass,Superv Indep Study
 1,Bonnie Wade,4,Music,N299,A,Special Study
-4,Bonnie Wade,,Music,N299,Satisfactory,Special Study
+4,Bonnie Wade,,Music,N299,Pass,Special Study
 4,Mary Ann Smart,4,Music,N299,A,Special Study
-1,Ken Ueno,,Music,N299,Satisfactory,Special Study
+1,Ken Ueno,,Music,N299,Pass,Special Study
 1,Cindy Cox,4,Music,N299,A,Special Study
-1,Cindy Cox,,Music,N299,Satisfactory,Special Study
+1,Cindy Cox,,Music,N299,Pass,Special Study
 2,Edmund Campion,4,Music,N299,A,Special Study
-1,Bonnie Wade,,Music,N299,Satisfactory,Special Study
-1,Mary Ann Smart,,Music,N602,Satisfactory,Ind Doct Prep
+1,Bonnie Wade,,Music,N299,Pass,Special Study
+1,Mary Ann Smart,,Music,N602,Pass,Ind Doct Prep
 11,Beth Piatote; Marcelo Garzo,4,Native American Studies,R1A,A,Reading: Composition
 2,Beth Piatote; Marcelo Garzo,3.7,Native American Studies,R1A,A-,Reading: Composition
 1,Beth Piatote; Kim Tran,4,Native American Studies,R1A,A+,Reading: Composition
@@ -4795,18 +4795,18 @@
 17,Carol Redmount; Pei-Chen Tsung,4,Near Eastern Studies,R1A,A,Read Comp Ne Stud
 2,Carol Redmount; Pei-Chen Tsung,3.7,Near Eastern Studies,R1A,A-,Read Comp Ne Stud
 3,Terri-Lynn Tanaka,4,Near Eastern Studies,C104,A,Babylonian Religion
-1,Terri-Lynn Tanaka,,Near Eastern Studies,C104,Satisfactory,Babylonian Religion
+1,Terri-Lynn Tanaka,,Near Eastern Studies,C104,Pass,Babylonian Religion
 1,Terri-Lynn Tanaka,,Near Eastern Studies,C104,Not Pass,Babylonian Religion
 2,Carol Redmount; Muhammad Faruque,4,Near Eastern Studies,146,A+,Islam
 4,Carol Redmount; Muhammad Faruque,4,Near Eastern Studies,146,A,Islam
 2,Carol Redmount; Muhammad Faruque,3.7,Near Eastern Studies,146,A-,Islam
 1,Asad Ahmed,4,Near Eastern Studies,290A,A,Special Studies
-1,Nicolaas Veldhuis,,Near Eastern Studies,290C,Satisfactory,Special Studies
+1,Nicolaas Veldhuis,,Near Eastern Studies,290C,Pass,Special Studies
 2,Shahwali Ahmadi,4,Near Eastern Studies,290F,A,Special Studies
-1,Carol Redmount,,Near Eastern Studies,299,Satisfactory,Diss Res Writ
+1,Carol Redmount,,Near Eastern Studies,299,Pass,Diss Res Writ
 3,Daniel Feldman,4,Neuroscience,292,A,Neuroresearch
-3,Daniel Feldman,,Neuroscience,292,Satisfactory,Neuroresearch
-1,Thomas Griffiths,,Neuroscience,292,Satisfactory,Neuroresearch
+3,Daniel Feldman,,Neuroscience,292,Pass,Neuroresearch
+1,Thomas Griffiths,,Neuroscience,292,Pass,Neuroresearch
 3,Christopher Goetz; Greg Niemeyer,4,New Media,R1B,A,New Media R&C
 1,Christopher Goetz; Greg Niemeyer,3.7,New Media,R1B,A-,New Media R&C
 2,Christopher Goetz; Greg Niemeyer,3.3,New Media,R1B,B+,New Media R&C
@@ -4817,7 +4817,7 @@
 2,Greg Niemeyer; Kyle Booten,3.7,New Media,90,A-,Intro New Media
 1,Greg Niemeyer; Kyle Booten,2.7,New Media,90,B-,Intro New Media
 2,Greg Niemeyer; Kyle Booten,,New Media,90,Pass,Intro New Media
-1,Edward Morse,,Nuclear Engineering,N299,Satisfactory,Individual Research
+1,Edward Morse,,Nuclear Engineering,N299,Pass,Individual Research
 10,Nastaran Faghihnia,4,Nutritional Science & Tox,10,A,Intro Human Nutr
 12,Nastaran Faghihnia,3.7,Nutritional Science & Tox,10,A-,Intro Human Nutr
 5,Nastaran Faghihnia,3.3,Nutritional Science & Tox,10,B+,Intro Human Nutr
@@ -4826,7 +4826,7 @@
 2,Nastaran Faghihnia,2.3,Nutritional Science & Tox,10,C+,Intro Human Nutr
 2,Nastaran Faghihnia,0,Nutritional Science & Tox,10,F,Intro Human Nutr
 7,Nastaran Faghihnia,,Nutritional Science & Tox,10,Pass,Intro Human Nutr
-1,Nastaran Faghihnia,,Nutritional Science & Tox,10,Unsatisfactory,Intro Human Nutr
+1,Nastaran Faghihnia,,Nutritional Science & Tox,10,Not Pass,Intro Human Nutr
 4,Nastaran Faghihnia,4,Nutritional Science & Tox,10,A+,Intro Human Nutr
 35,Nastaran Faghihnia,4,Nutritional Science & Tox,10,A,Intro Human Nutr
 41,Nastaran Faghihnia,3.7,Nutritional Science & Tox,10,A-,Intro Human Nutr
@@ -4888,7 +4888,7 @@
 23,Christina Wilmer,3.7,Optometry,441A,A-,Specialty Clinics
 11,Christina Wilmer,3.3,Optometry,441A,B+,Specialty Clinics
 2,Christina Wilmer,2.7,Optometry,441A,B-,Specialty Clinics
-2,John Corzine,,Optometry,499,Satisfactory,Independent Study
+2,John Corzine,,Optometry,499,Pass,Independent Study
 4,Jerry Sanders,4,Peace & Conflict Studies,119,A,Special Topics
 3,Jerry Sanders,3.7,Peace & Conflict Studies,119,A-,Special Topics
 3,Jerry Sanders,3.3,Peace & Conflict Studies,119,B+,Special Topics
@@ -4913,17 +4913,17 @@
 5,Karenjot Bhangoo Randhawa,3,Peace & Conflict Studies,150,B,Conflict Resolution
 1,Karenjot Bhangoo Randhawa,1,Peace & Conflict Studies,150,D,Conflict Resolution
 1,Karenjot Bhangoo Randhawa,,Peace & Conflict Studies,150,Pass,Conflict Resolution
-1,Karenjot Bhangoo Randhawa,,Peace & Conflict Studies,150,Satisfactory,Conflict Resolution
+1,Karenjot Bhangoo Randhawa,,Peace & Conflict Studies,150,Pass,Conflict Resolution
 23,Beth Roy,4,Peace & Conflict Studies,159,A,Con Res Intes Train
 1,Beth Roy,3,Peace & Conflict Studies,159,B,Con Res Intes Train
 2,Beth Roy,1,Peace & Conflict Studies,159,D,Con Res Intes Train
 2,Beth Roy,0,Peace & Conflict Studies,159,F,Con Res Intes Train
 3,Beth Roy,,Peace & Conflict Studies,159,Pass,Con Res Intes Train
-1,Beth Roy,,Peace & Conflict Studies,159,Satisfactory,Con Res Intes Train
+1,Beth Roy,,Peace & Conflict Studies,159,Pass,Con Res Intes Train
 3,Aria Fani; Carol Redmount,4,Persian,10,A+,Intens Elem Persian
 2,Aria Fani; Carol Redmount,4,Persian,10,A,Intens Elem Persian
 3,Aria Fani; Carol Redmount,3.7,Persian,10,A-,Intens Elem Persian
-1,Aria Fani; Carol Redmount,,Persian,10,Unsatisfactory,Intens Elem Persian
+1,Aria Fani; Carol Redmount,,Persian,10,Not Pass,Intens Elem Persian
 6,Gerardo Vildostegui; John Macfarlane,4,Philosophy,2,A,Ind Moral/Soc Just
 3,Gerardo Vildostegui; John Macfarlane,3.7,Philosophy,2,A-,Ind Moral/Soc Just
 6,Gerardo Vildostegui; John Macfarlane,3.3,Philosophy,2,B+,Ind Moral/Soc Just
@@ -5063,8 +5063,8 @@
 3,Christopher Buckels,2.7,Philosophy,160,B-,Plato
 2,Christopher Buckels,2.3,Philosophy,160,C+,Plato
 1,Christopher Buckels,1.3,Philosophy,160,D+,Plato
-1,Christopher Buckels,,Philosophy,160,Satisfactory,Plato
-8,John Macfarlane,,Philosophy,299,Satisfactory,Independent Study
+1,Christopher Buckels,,Philosophy,160,Pass,Plato
+8,John Macfarlane,,Philosophy,299,Pass,Independent Study
 6,Toni Mar,4,Physical Education,1,A,Pe Activities
 3,Toni Mar,0,Physical Education,1,F,Pe Activities
 8,Toni Mar,,Physical Education,1,Pass,Pe Activities
@@ -5159,19 +5159,19 @@
 1,Michael Deweese,,Physics,199,Pass,Superv Indep Study
 1,Hartmut Haeffner,,Physics,199,Pass,Superv Indep Study
 1,Dan Stamper-Kurn,,Physics,199,Pass,Superv Indep Study
-1,Holger Mueller,,Physics,295,Satisfactory,Special Study
-1,Michael Crommie,,Physics,299,Satisfactory,Research
-1,Hartmut Haeffner,,Physics,299,Satisfactory,Research
-1,Irfan Siddiqi,,Physics,299,Satisfactory,Research
-1,Feng Wang,,Physics,299,Satisfactory,Research
-1,Alex Zettl,,Physics,299,Satisfactory,Research
-1,Yasunori Nomura,,Physics,299,Satisfactory,Research
-1,Marjorie Shapiro,,Physics,299,Satisfactory,Research
-1,Surjeet Rajendran,,Physics,299,Satisfactory,Research
-1,Daniel Kasen,,Physics,299,Satisfactory,Research
-1,Ori Ganor,,Physics,299,Satisfactory,Research
-1,Michael Deweese,,Physics,299,Satisfactory,Research
-1,Beate Heinemann,,Physics,299,Satisfactory,Research
+1,Holger Mueller,,Physics,295,Pass,Special Study
+1,Michael Crommie,,Physics,299,Pass,Research
+1,Hartmut Haeffner,,Physics,299,Pass,Research
+1,Irfan Siddiqi,,Physics,299,Pass,Research
+1,Feng Wang,,Physics,299,Pass,Research
+1,Alex Zettl,,Physics,299,Pass,Research
+1,Yasunori Nomura,,Physics,299,Pass,Research
+1,Marjorie Shapiro,,Physics,299,Pass,Research
+1,Surjeet Rajendran,,Physics,299,Pass,Research
+1,Daniel Kasen,,Physics,299,Pass,Research
+1,Ori Ganor,,Physics,299,Pass,Research
+1,Michael Deweese,,Physics,299,Pass,Research
+1,Beate Heinemann,,Physics,299,Pass,Research
 1,Robert Fischer,,Plant Biology,99,Pass,Superv Indep Study
 2,Kathleen Ryan,4,Plant Biology,C112,A,Gen Microbiology
 1,Kathleen Ryan,3.7,Plant Biology,C112,A-,Gen Microbiology
@@ -5194,7 +5194,7 @@
 1,Jennifer Fletcher,2.7,Plant Biology,299,B-,Graduate Research
 1,Jay Keasling,4,Plant Biology,299,A+,Graduate Research
 1,Kathleen Ryan,4,Plant Biology,299,A,Graduate Research
-1,Kathleen Ryan,,Plant Biology,299,Satisfactory,Graduate Research
+1,Kathleen Ryan,,Plant Biology,299,Pass,Graduate Research
 8,Stephanie Ballenger,3.7,Political Economy,100,A-,Theory Of Pol Econ
 3,Stephanie Ballenger,3.3,Political Economy,100,B+,Theory Of Pol Econ
 13,Stephanie Ballenger,3,Political Economy,100,B,Theory Of Pol Econ
@@ -5202,7 +5202,7 @@
 4,Stephanie Ballenger,2.3,Political Economy,100,C+,Theory Of Pol Econ
 1,Stephanie Ballenger,1.7,Political Economy,100,C-,Theory Of Pol Econ
 3,Stephanie Ballenger,,Political Economy,100,Pass,Theory Of Pol Econ
-1,Stephanie Ballenger,,Political Economy,100,Unsatisfactory,Theory Of Pol Econ
+1,Stephanie Ballenger,,Political Economy,100,Not Pass,Theory Of Pol Econ
 1,Tiffany Page,,Political Economy,197,Pass,Field Study
 1,Beverly Crawford,,Political Economy,197,Pass,Field Study
 6,Eric Schickler; Travis Johnston,4,Political Science,1,A,Intro American Pol
@@ -5216,9 +5216,9 @@
 1,Eric Schickler; Travis Johnston,1,Political Science,1,D,Intro American Pol
 4,Eric Schickler; Travis Johnston,0,Political Science,1,F,Intro American Pol
 6,Eric Schickler; Travis Johnston,,Political Science,1,Pass,Intro American Pol
-1,Eric Schickler; Travis Johnston,,Political Science,1,Satisfactory,Intro American Pol
+1,Eric Schickler; Travis Johnston,,Political Science,1,Pass,Intro American Pol
 3,Eric Schickler; Travis Johnston,,Political Science,1,Not Pass,Intro American Pol
-1,Eric Schickler; Travis Johnston,,Political Science,1,Unsatisfactory,Intro American Pol
+1,Eric Schickler; Travis Johnston,,Political Science,1,Not Pass,Intro American Pol
 1,Michael Fish,4,Political Science,2,A+,Intro Comparat Pol
 11,Michael Fish,4,Political Science,2,A,Intro Comparat Pol
 7,Michael Fish,3.7,Political Science,2,A-,Intro Comparat Pol
@@ -5277,7 +5277,7 @@
 6,Sean Gailmard,0,Political Science,W135,F,Game Theory
 18,Sean Gailmard,,Political Science,W135,Pass,Game Theory
 10,Sean Gailmard,,Political Science,W135,Not Pass,Game Theory
-1,Sean Gailmard,,Political Science,W135,Unsatisfactory,Game Theory
+1,Sean Gailmard,,Political Science,W135,Not Pass,Game Theory
 1,Sandeep Shastri,4,Political Science,140S,A+,Topics In Comp Pol
 6,Sandeep Shastri,4,Political Science,140S,A,Topics In Comp Pol
 11,Sandeep Shastri,3.7,Political Science,140S,A-,Topics In Comp Pol
@@ -5325,8 +5325,8 @@
 1,Sean Gailmard,,Political Science,197,Pass,Field Study
 1,Peter Lorentzen,,Political Science,197,Pass,Field Study
 1,Steven Vogel,,Political Science,197,Pass,Field Study
-21,Eric Schickler,,Political Science,292,Satisfactory,Dir Advanced Study
-1,Eric Schickler,,Political Science,299,Satisfactory,Spec Study Pol Sci
+21,Eric Schickler,,Political Science,292,Pass,Dir Advanced Study
+1,Eric Schickler,,Political Science,299,Pass,Spec Study Pol Sci
 9,Andres Martinez,4,Psychology,N1,A+,General Psychology
 28,Andres Martinez,4,Psychology,N1,A,General Psychology
 15,Andres Martinez,3.7,Psychology,N1,A-,General Psychology
@@ -5349,7 +5349,7 @@
 13,John Kihlstrom,2,Psychology,W1,C,General Psychology
 1,John Kihlstrom,1.7,Psychology,W1,C-,General Psychology
 23,John Kihlstrom,,Psychology,W1,Pass,General Psychology
-1,John Kihlstrom,,Psychology,W1,Satisfactory,General Psychology
+1,John Kihlstrom,,Psychology,W1,Pass,General Psychology
 2,John Kihlstrom,,Psychology,W1,Not Pass,General Psychology
 2,Natalia Caporale,4,Psychology,3,A+,How The Brain Works
 14,Natalia Caporale,4,Psychology,3,A,How The Brain Works
@@ -5366,7 +5366,7 @@
 12,Natalia Caporale,0,Psychology,3,F,How The Brain Works
 39,Natalia Caporale,,Psychology,3,Pass,How The Brain Works
 12,Natalia Caporale,,Psychology,3,Not Pass,How The Brain Works
-3,Natalia Caporale,,Psychology,3,Unsatisfactory,How The Brain Works
+3,Natalia Caporale,,Psychology,3,Not Pass,How The Brain Works
 14,Christopher Gade,4,Psychology,6,A+,Stress And Coping
 30,Christopher Gade,4,Psychology,6,A,Stress And Coping
 19,Christopher Gade,3.7,Psychology,6,A-,Stress And Coping
@@ -5392,7 +5392,7 @@
 3,Arman Catterson,1,Psychology,7,D,Person In Big Data
 10,Arman Catterson,0,Psychology,7,F,Person In Big Data
 17,Arman Catterson,,Psychology,7,Pass,Person In Big Data
-1,Arman Catterson,,Psychology,7,Satisfactory,Person In Big Data
+1,Arman Catterson,,Psychology,7,Pass,Person In Big Data
 3,Arman Catterson,,Psychology,7,Not Pass,Person In Big Data
 8,Elise Piazza,4,Psychology,8,A,Music And The Brain
 14,Elise Piazza,3.7,Psychology,8,A-,Music And The Brain
@@ -5447,7 +5447,7 @@
 2,Davina Chan,3,Psychology,N108,B,Meditation
 1,Davina Chan,2.7,Psychology,N108,B-,Meditation
 1,Davina Chan,2,Psychology,N108,C,Meditation
-1,Davina Chan,,Psychology,N108,Satisfactory,Meditation
+1,Davina Chan,,Psychology,N108,Pass,Meditation
 2,Rachel Shoup,4,Psychology,N110,A+,Introd Biol Psych
 9,Rachel Shoup,4,Psychology,N110,A,Introd Biol Psych
 11,Rachel Shoup,3.7,Psychology,N110,A-,Introd Biol Psych
@@ -5460,7 +5460,7 @@
 1,Rachel Shoup,1.3,Psychology,N110,D+,Introd Biol Psych
 2,Rachel Shoup,0,Psychology,N110,F,Introd Biol Psych
 1,Rachel Shoup,,Psychology,N110,Pass,Introd Biol Psych
-1,Rachel Shoup,,Psychology,N110,Satisfactory,Introd Biol Psych
+1,Rachel Shoup,,Psychology,N110,Pass,Introd Biol Psych
 3,Rachel Shoup,,Psychology,N110,Not Pass,Introd Biol Psych
 17,Michael Vendetti,4,Psychology,N122,A+,Intro Human Learn
 9,Michael Vendetti,4,Psychology,N122,A,Intro Human Learn
@@ -5476,7 +5476,7 @@
 3,Michael Vendetti,0,Psychology,N122,F,Intro Human Learn
 9,Michael Vendetti,,Psychology,N122,Pass,Intro Human Learn
 6,Michael Vendetti,,Psychology,N122,Not Pass,Intro Human Learn
-1,Michael Vendetti,,Psychology,N122,Unsatisfactory,Intro Human Learn
+1,Michael Vendetti,,Psychology,N122,Not Pass,Intro Human Learn
 73,Lewis Lewin,4,Psychology,N133,A+,Psychology Of Sleep
 16,Lewis Lewin,4,Psychology,N133,A,Psychology Of Sleep
 22,Lewis Lewin,3.7,Psychology,N133,A-,Psychology Of Sleep
@@ -5495,7 +5495,7 @@
 12,James Mchale,3,Psychology,136,B,Human Sexuality
 2,James Mchale,2,Psychology,136,C,Human Sexuality
 4,James Mchale,,Psychology,136,Pass,Human Sexuality
-1,James Mchale,,Psychology,136,Satisfactory,Human Sexuality
+1,James Mchale,,Psychology,136,Pass,Human Sexuality
 19,James Mchale,4,Psychology,139,A,Clinical Case Study
 4,James Mchale,3.7,Psychology,139,A-,Clinical Case Study
 3,James Mchale,3,Psychology,139,B,Clinical Case Study
@@ -5560,12 +5560,12 @@
 1,Stephen Hinshaw,,Psychology,199,Pass,Superv Indep Study
 1,Lucia Jacobs,,Psychology,199,Pass,Superv Indep Study
 1,Stephen Hinshaw,4,Psychology,299,A,Research
-1,Rodolfo Mendoza-Denton,,Psychology,299,Satisfactory,Research
+1,Rodolfo Mendoza-Denton,,Psychology,299,Pass,Research
 2,Serena Chen,4,Psychology,299,A,Research
-2,Robert Levenson,,Psychology,299,Satisfactory,Research
+2,Robert Levenson,,Psychology,299,Pass,Research
 1,Thomas Griffiths,4,Psychology,299,A,Research
 1,Richard Ivry,3.7,Psychology,299,A-,Research
-1,Fei Xu,,Psychology,299,Satisfactory,Research
+1,Fei Xu,,Psychology,299,Pass,Research
 6,Brent Fulton; Kevin Feeney,4,Public Health,126,A,Health Economics
 5,Brent Fulton; Kevin Feeney,3.7,Public Health,126,A-,Health Economics
 4,Brent Fulton; Kevin Feeney,3.3,Public Health,126,B+,Health Economics
@@ -5596,7 +5596,7 @@
 3,Peter Dailey,1,Public Health,162A,D,Pub Hlth Microbiol
 2,Peter Dailey,0,Public Health,162A,F,Pub Hlth Microbiol
 2,Peter Dailey,,Public Health,162A,Not Pass,Pub Hlth Microbiol
-1,Peter Dailey,,Public Health,162A,Unsatisfactory,Pub Hlth Microbiol
+1,Peter Dailey,,Public Health,162A,Not Pass,Pub Hlth Microbiol
 1,Kathleen Loretz,4,Public Health,162L,A+,Pub Hlth Microb Lab
 2,Kathleen Loretz,4,Public Health,162L,A,Pub Hlth Microb Lab
 1,Kathleen Loretz,3.7,Public Health,162L,A-,Pub Hlth Microb Lab
@@ -5638,15 +5638,15 @@
 5,Robert Hosang,4,Public Health,W289,A,Interdis Health
 4,Robert Hosang,3.7,Public Health,W289,A-,Interdis Health
 7,Phuoc Le,4,Public Health,292,A,M.P.H. Seminar
-12,Phuoc Le,,Public Health,292,Satisfactory,M.P.H. Seminar
+12,Phuoc Le,,Public Health,292,Pass,M.P.H. Seminar
 2,Robert Hosang,4,Public Health,299,A,Independnt Research
-1,Sandrine Dudoit,,Public Health,299,Satisfactory,Independnt Research
-3,Arthur Reingold,,Public Health,299,Satisfactory,Independnt Research
+1,Sandrine Dudoit,,Public Health,299,Pass,Independnt Research
+3,Arthur Reingold,,Public Health,299,Pass,Independnt Research
 1,John Colford,4,Public Health,299,A,Independnt Research
-11,John Colford,,Public Health,299,Satisfactory,Independnt Research
-1,Brent Fulton,,Public Health,299,Satisfactory,Independnt Research
-1,Maureen Lahiff,,Public Health,299,Satisfactory,Independnt Research
-1,Phuoc Le,,Public Health,299,Satisfactory,Independnt Research
+11,John Colford,,Public Health,299,Pass,Independnt Research
+1,Brent Fulton,,Public Health,299,Pass,Independnt Research
+1,Maureen Lahiff,,Public Health,299,Pass,Independnt Research
+1,Phuoc Le,,Public Health,299,Pass,Independnt Research
 1,John Glaser,4,Public Policy,292,A,Dir Adv Study
 3,Terri-Lynn Tanaka,3.7,Religious Studies,C104,A-,Babylonian Religion
 2,Terri-Lynn Tanaka,3.3,Religious Studies,C104,B+,Babylonian Religion
@@ -5673,7 +5673,7 @@
 4,Felipe Gutterriez,0,Rhetoric,103B,F,Hist Of Rhetoric Ii
 1,Felipe Gutterriez,,Rhetoric,103B,Not Pass,Hist Of Rhetoric Ii
 1,Samera Esmeir,,Rhetoric,197,Pass,Field Study
-15,Michael Mascuch,,Rhetoric,295,Satisfactory,Special Study
+15,Michael Mascuch,,Rhetoric,295,Pass,Special Study
 2,Jenna Coughlin; Mark Sandberg,4,Scandinavian,R5B,A,Reading & Comp
 2,Jenna Coughlin; Mark Sandberg,3.7,Scandinavian,R5B,A-,Reading & Comp
 1,Jenna Coughlin; Mark Sandberg,3.3,Scandinavian,R5B,B+,Reading & Comp
@@ -5692,17 +5692,17 @@
 1,David Frick; Margarita Gordon,3.7,Scandinavian,R5B,A-,Reading & Comp
 2,David Frick; Margarita Gordon,3.3,Scandinavian,R5B,B+,Reading & Comp
 3,David Frick; Margarita Gordon,3,Scandinavian,R5B,B,Reading & Comp
-2,Linda Rugg,,Scandinavian,299,Satisfactory,Diss Writing
-1,John Lindow,,Scandinavian,299,Satisfactory,Diss Writing
+2,Linda Rugg,,Scandinavian,299,Pass,Diss Writing
+1,John Lindow,,Scandinavian,299,Pass,Diss Writing
 3,Ronelle Alexander; Thomas Dyne,4,Slavic Languages & Lit,R5B,A,Reading And Comp
 1,Ronelle Alexander; Thomas Dyne,3.7,Slavic Languages & Lit,R5B,A-,Reading And Comp
 1,Ronelle Alexander; Thomas Dyne,3.3,Slavic Languages & Lit,R5B,B+,Reading And Comp
 1,Ronelle Alexander; Thomas Dyne,3,Slavic Languages & Lit,R5B,B,Reading And Comp
 5,Ronelle Alexander; Zachary Johnson,4,Slavic Languages & Lit,R5B,A,Reading And Comp
 4,Ronelle Alexander; Zachary Johnson,3.7,Slavic Languages & Lit,R5B,A-,Reading And Comp
-1,Lyubov Golburt,,Slavic Languages & Lit,298,Satisfactory,Special Study
-1,Harsha Ram,,Slavic Languages & Lit,298,Satisfactory,Special Study
-1,Harsha Ram,,Slavic Languages & Lit,299,Satisfactory,Directed Research
+1,Lyubov Golburt,,Slavic Languages & Lit,298,Pass,Special Study
+1,Harsha Ram,,Slavic Languages & Lit,298,Pass,Special Study
+1,Harsha Ram,,Slavic Languages & Lit,299,Pass,Directed Research
 6,Jill Berrick; Josue Melendez,4,Social Welfare,20,A+,Confronting
 3,Jill Berrick; Josue Melendez,4,Social Welfare,20,A,Confronting
 3,Jill Berrick; Josue Melendez,3.7,Social Welfare,20,A-,Confronting
@@ -5773,7 +5773,7 @@
 3,Kimberly Klein,4,Social Welfare,155,A+,Hum Svcs Fndraising
 12,Kimberly Klein,4,Social Welfare,155,A,Hum Svcs Fndraising
 2,Kimberly Klein,,Social Welfare,155,Pass,Hum Svcs Fndraising
-1,Kimberly Klein,,Social Welfare,155,Satisfactory,Hum Svcs Fndraising
+1,Kimberly Klein,,Social Welfare,155,Pass,Hum Svcs Fndraising
 13,Jennifer Jackson,4,Social Welfare,186,A+,Domestic Violence
 5,Jennifer Jackson,4,Social Welfare,186,A,Domestic Violence
 3,Jennifer Jackson,3.7,Social Welfare,186,A-,Domestic Violence
@@ -5785,30 +5785,30 @@
 6,Christina Feliciana,4,Social Welfare,232,A,Soc Work And Educ
 1,Christina Feliciana,3.7,Social Welfare,232,A-,Soc Work And Educ
 1,Christina Feliciana,3.3,Social Welfare,232,B+,Soc Work And Educ
-4,Christina Feliciana,,Social Welfare,232,Satisfactory,Soc Work And Educ
+4,Christina Feliciana,,Social Welfare,232,Pass,Soc Work And Educ
 3,Robert Ayasse,4,Social Welfare,250T,A,Sw Practice In Schl
 2,Robert Ayasse,3.7,Social Welfare,250T,A-,Sw Practice In Schl
-3,Robert Ayasse,,Social Welfare,250T,Satisfactory,Sw Practice In Schl
-14,Luna Calderon,,Social Welfare,272,Satisfactory,Human Svcs In Mex
-1,Michael Austin,,Social Welfare,296,Satisfactory,Individual Study
-1,Robert Ayasse,,Social Welfare,296,Satisfactory,Individual Study
-1,Jill Berrick,,Social Welfare,296,Satisfactory,Individual Study
-1,Luna Calderon,,Social Welfare,296,Satisfactory,Individual Study
-1,Julian Chow,,Social Welfare,296,Satisfactory,Individual Study
-2,Christina Feliciana,,Social Welfare,296,Satisfactory,Individual Study
+3,Robert Ayasse,,Social Welfare,250T,Pass,Sw Practice In Schl
+14,Luna Calderon,,Social Welfare,272,Pass,Human Svcs In Mex
+1,Michael Austin,,Social Welfare,296,Pass,Individual Study
+1,Robert Ayasse,,Social Welfare,296,Pass,Individual Study
+1,Jill Berrick,,Social Welfare,296,Pass,Individual Study
+1,Luna Calderon,,Social Welfare,296,Pass,Individual Study
+1,Julian Chow,,Social Welfare,296,Pass,Individual Study
+2,Christina Feliciana,,Social Welfare,296,Pass,Individual Study
 1,Neil Gilbert,4,Social Welfare,296,A,Individual Study
-6,Gregory Merrill,,Social Welfare,296,Satisfactory,Individual Study
-3,James Midgley,,Social Welfare,296,Satisfactory,Individual Study
+6,Gregory Merrill,,Social Welfare,296,Pass,Individual Study
+3,James Midgley,,Social Welfare,296,Pass,Individual Study
 1,Gregory Merrill,4,Social Welfare,296,A,Individual Study
 1,Steven Segal,4,Social Welfare,296,A,Individual Study
 1,Paul Sterzing,4,Social Welfare,296,A,Individual Study
-1,Paul Sterzing,,Social Welfare,296,Satisfactory,Individual Study
-2,Anupama Gomez,,Social Welfare,296,Satisfactory,Individual Study
+1,Paul Sterzing,,Social Welfare,296,Pass,Individual Study
+2,Anupama Gomez,,Social Welfare,296,Pass,Individual Study
 1,Julian Chow,4,Social Welfare,299,A,Individual Research
 1,Neil Gilbert,4,Social Welfare,299,A,Individual Research
-1,Neil Gilbert,,Social Welfare,299,Satisfactory,Individual Research
+1,Neil Gilbert,,Social Welfare,299,Pass,Individual Research
 1,Gregory Merrill,,Social Welfare,401,Pass,Field Practicum
-14,Gregory Merrill,,Social Welfare,401,Satisfactory,Field Practicum
+14,Gregory Merrill,,Social Welfare,401,Pass,Field Practicum
 2,Michael Burawoy; Nora Broege,4,Sociology,3AC,A+,Prin Soc: Am Cultur
 16,Michael Burawoy; Nora Broege,4,Sociology,3AC,A,Prin Soc: Am Cultur
 13,Michael Burawoy; Nora Broege,3.7,Sociology,3AC,A-,Prin Soc: Am Cultur
@@ -5910,7 +5910,7 @@
 2,Michael Burawoy; Michelle Steward,2.7,Sociology,160,B-,Sociol Of Culture
 2,Michael Burawoy; Michelle Steward,2.3,Sociology,160,C+,Sociol Of Culture
 1,Michael Burawoy; Michelle Steward,0,Sociology,160,F,Sociol Of Culture
-1,Michael Burawoy; Michelle Steward,,Sociology,160,Satisfactory,Sociol Of Culture
+1,Michael Burawoy; Michelle Steward,,Sociology,160,Pass,Sociol Of Culture
 18,Edwin Lin,4,Sociology,167,A,Virtual Communities
 6,Edwin Lin,3.7,Sociology,167,A-,Virtual Communities
 2,Edwin Lin,3,Sociology,167,B,Virtual Communities
@@ -5930,18 +5930,18 @@
 1,Trinh Tran,2.7,Sociology,190,B-,Sem & Res In So
 2,Sandra Smith,,Sociology,199,Pass,Superv Indep Study
 2,Linus Huang,,Sociology,199,Pass,Superv Indep Study
-7,Marion Fourcade-Gourinchas,,Sociology,296,Satisfactory,Dir Diss Research
-2,Marion Fourcade-Gourinchas,,Sociology,602,Satisfactory,Indiv Study: Ph.D.
+7,Marion Fourcade-Gourinchas,,Sociology,296,Pass,Dir Diss Research
+2,Marion Fourcade-Gourinchas,,Sociology,602,Pass,Indiv Study: Ph.D.
 5,Maria Barrios-Leblanc,4,South & SE Asian Studies,120,A+,Topics S: Seasn
 8,Maria Barrios-Leblanc,4,South & SE Asian Studies,120,A,Topics S: Seasn
 6,Maria Barrios-Leblanc,4,South & SE Asian Studies,148,A+,Philhistory
 15,Maria Barrios-Leblanc,4,South & SE Asian Studies,148,A,Philhistory
 1,Jeffrey Hadler,4,South & SE Asian Studies,290D,A,Malay/Indonesian
-1,Jeffrey Hadler,,South & SE Asian Studies,290D,Satisfactory,Malay/Indonesian
-1,Alexander Von Rospatt,,South & SE Asian Studies,290F,Satisfactory,Sanskrit
-1,Robert Goldman,,South & SE Asian Studies,290F,Satisfactory,Sanskrit
-1,Lawrence Cohen,,South & SE Asian Studies,299A,Satisfactory,Dis Prep Rel Res
-2,Robert Goldman,,South & SE Asian Studies,299F,Satisfactory,Dis Prep Rel Res
+1,Jeffrey Hadler,,South & SE Asian Studies,290D,Pass,Malay/Indonesian
+1,Alexander Von Rospatt,,South & SE Asian Studies,290F,Pass,Sanskrit
+1,Robert Goldman,,South & SE Asian Studies,290F,Pass,Sanskrit
+1,Lawrence Cohen,,South & SE Asian Studies,299A,Pass,Dis Prep Rel Res
+2,Robert Goldman,,South & SE Asian Studies,299F,Pass,Dis Prep Rel Res
 2,Gregory Goulding; Jeffrey Hadler,3.7,South Asian,R5A,A-,Great Books India
 3,Gregory Goulding; Jeffrey Hadler,3.3,South Asian,R5A,B+,Great Books India
 2,Gregory Goulding; Jeffrey Hadler,3,South Asian,R5A,B,Great Books India
@@ -5969,7 +5969,7 @@
 2,Jacqueline Bialostozky; Miriam Hernandez-Rodriguez,1.7,Spanish,2,C-,Elem Spanish
 1,Jacqueline Bialostozky; Miriam Hernandez-Rodriguez,0,Spanish,2,F,Elem Spanish
 1,Jacqueline Bialostozky; Miriam Hernandez-Rodriguez,,Spanish,2,Pass,Elem Spanish
-2,Jacqueline Bialostozky; Miriam Hernandez-Rodriguez,,Spanish,2,Satisfactory,Elem Spanish
+2,Jacqueline Bialostozky; Miriam Hernandez-Rodriguez,,Spanish,2,Pass,Elem Spanish
 6,Ignacio Navarrete; Victoria Robertson,4,Spanish,N3,A,Intermed Spanish
 2,Ignacio Navarrete; Victoria Robertson,3.7,Spanish,N3,A-,Intermed Spanish
 4,Ignacio Navarrete; Victoria Robertson,,Spanish,N3,Pass,Intermed Spanish
@@ -5981,7 +5981,7 @@
 1,Flor Lopez Malagamba; Miriam Hernandez-Rodriguez,2.7,Spanish,4,B-,Intermed Spanish
 1,Flor Lopez Malagamba; Miriam Hernandez-Rodriguez,2,Spanish,4,C,Intermed Spanish
 1,Flor Lopez Malagamba; Miriam Hernandez-Rodriguez,1.7,Spanish,4,C-,Intermed Spanish
-1,Flor Lopez Malagamba; Miriam Hernandez-Rodriguez,,Spanish,4,Unsatisfactory,Intermed Spanish
+1,Flor Lopez Malagamba; Miriam Hernandez-Rodriguez,,Spanish,4,Not Pass,Intermed Spanish
 7,Ignacio Navarrete; Victoria Robertson,4,Spanish,N4,A,Intermed Spanish
 2,Ignacio Navarrete; Victoria Robertson,3.3,Spanish,N4,B+,Intermed Spanish
 1,Ignacio Navarrete; Victoria Robertson,2.3,Spanish,N4,C+,Intermed Spanish
@@ -6024,7 +6024,7 @@
 3,Pablo Baler,3,Spanish,135,B,Hispanic Literature
 1,Pablo Baler,2.3,Spanish,135,C+,Hispanic Literature
 1,Pablo Baler,,Spanish,135,Pass,Hispanic Literature
-8,Ignacio Navarrete,,Spanish,298,Satisfactory,Spec Study Grad Stu
+8,Ignacio Navarrete,,Spanish,298,Pass,Spec Study Grad Stu
 47,Michael Jordan; Nitin Kohli,,Statistics,0PX,Pass,Preparatory Stat
 3,Michael Jordan; Nitin Kohli,,Statistics,0PX,Not Pass,Preparatory Stat
 16,Ann Kalinowski,4,Statistics,2,A,Intro To Stat
@@ -6049,7 +6049,7 @@
 4,Fletcher Ibser,0,Statistics,20,F,Intro Prob Stat Cal
 1,Fletcher Ibser,,Statistics,20,Pass,Intro Prob Stat Cal
 1,Fletcher Ibser,,Statistics,20,Not Pass,Intro Prob Stat Cal
-1,Fletcher Ibser,,Statistics,20,Unsatisfactory,Intro Prob Stat Cal
+1,Fletcher Ibser,,Statistics,20,Not Pass,Intro Prob Stat Cal
 36,Shobhana Murali Stoyanov,4,Statistics,W21,A+,Intro Prob Stat Bus
 53,Shobhana Murali Stoyanov,4,Statistics,W21,A,Intro Prob Stat Bus
 44,Shobhana Murali Stoyanov,3.7,Statistics,W21,A-,Intro Prob Stat Bus
@@ -6072,7 +6072,7 @@
 6,Gaston Sanchez Trujillo,3.3,Statistics,133,B+,Computing Data
 2,Gaston Sanchez Trujillo,3,Statistics,133,B,Computing Data
 1,Gaston Sanchez Trujillo,,Statistics,133,Pass,Computing Data
-1,Gaston Sanchez Trujillo,,Statistics,133,Satisfactory,Computing Data
+1,Gaston Sanchez Trujillo,,Statistics,133,Pass,Computing Data
 1,Michael Leong,4,Statistics,134,A+,Concepts Of Prob
 10,Michael Leong,4,Statistics,134,A,Concepts Of Prob
 8,Michael Leong,3.7,Statistics,134,A-,Concepts Of Prob
@@ -6105,7 +6105,7 @@
 3,Jeffrey Regier; Michael Jordan,3,Statistics,154,B,Stat Predict Mach/L
 1,Jeffrey Regier; Michael Jordan,2.7,Statistics,154,B-,Stat Predict Mach/L
 2,Jeffrey Regier; Michael Jordan,2.3,Statistics,154,C+,Stat Predict Mach/L
-2,Jeffrey Regier; Michael Jordan,,Statistics,154,Satisfactory,Stat Predict Mach/L
+2,Jeffrey Regier; Michael Jordan,,Statistics,154,Pass,Stat Predict Mach/L
 8,Michael Jordan; Nitin Kohli,4,Statistics,155,A+,Game Theory
 10,Michael Jordan; Nitin Kohli,4,Statistics,155,A,Game Theory
 9,Michael Jordan; Nitin Kohli,3.7,Statistics,155,A-,Game Theory
@@ -6127,14 +6127,14 @@
 4,Fletcher Ibser,,Statistics,197,Pass,Field Study In Stat
 1,Shobhana Murali Stoyanov,,Statistics,197,Pass,Field Study In Stat
 1,Deborah Nolan,,Statistics,198,Pass,Directed Group Stdy
-1,Yun Song,,Statistics,299,Satisfactory,Research
+1,Yun Song,,Statistics,299,Pass,Research
 1,David Aldous,4,Statistics,299,A,Research
-2,Allan Sly,,Statistics,299,Satisfactory,Research
-7,Martin Wainwright,,Statistics,602,Satisfactory,Ind Study Doc Cand
+2,Allan Sly,,Statistics,299,Pass,Research
+7,Martin Wainwright,,Statistics,602,Pass,Ind Study Doc Cand
 12,Samuel Haley-Hill,4,Theater Dance & Perf Stds,5,A,Public Speaking
 3,Samuel Haley-Hill,3.7,Theater Dance & Perf Stds,5,A-,Public Speaking
 1,Samuel Haley-Hill,,Theater Dance & Perf Stds,5,Pass,Public Speaking
-1,Samuel Haley-Hill,,Theater Dance & Perf Stds,5,Satisfactory,Public Speaking
+1,Samuel Haley-Hill,,Theater Dance & Perf Stds,5,Pass,Public Speaking
 1,Samuel Haley-Hill,,Theater Dance & Perf Stds,5,Not Pass,Public Speaking
 5,Lisa Porter,3.7,Theater Dance & Perf Stds,5,A-,Public Speaking
 5,Lisa Porter,3.3,Theater Dance & Perf Stds,5,B+,Public Speaking
@@ -6144,12 +6144,12 @@
 1,Lisa Porter,2,Theater Dance & Perf Stds,5,C,Public Speaking
 1,Lisa Porter,0,Theater Dance & Perf Stds,5,F,Public Speaking
 2,Lisa Porter,,Theater Dance & Perf Stds,5,Pass,Public Speaking
-1,Lisa Porter,,Theater Dance & Perf Stds,5,Satisfactory,Public Speaking
+1,Lisa Porter,,Theater Dance & Perf Stds,5,Pass,Public Speaking
 13,Samuel Haley-Hill,4,Theater Dance & Perf Stds,5,A,Public Speaking
 2,Samuel Haley-Hill,3.7,Theater Dance & Perf Stds,5,A-,Public Speaking
 1,Samuel Haley-Hill,2.3,Theater Dance & Perf Stds,5,C+,Public Speaking
 2,Samuel Haley-Hill,,Theater Dance & Perf Stds,5,Pass,Public Speaking
-1,Samuel Haley-Hill,,Theater Dance & Perf Stds,5,Satisfactory,Public Speaking
+1,Samuel Haley-Hill,,Theater Dance & Perf Stds,5,Pass,Public Speaking
 11,Margo Hall-Callender,4,Theater Dance & Perf Stds,N10,A,Intro To Acting
 4,Margo Hall-Callender,3,Theater Dance & Perf Stds,N10,B,Intro To Acting
 5,John Fisher,4,Theater Dance & Perf Stds,N10,A+,Intro To Acting
@@ -6160,7 +6160,7 @@
 1,Maureen Tang,3.7,Theater Dance & Perf Stds,N10,A-,Intro To Acting
 4,Maureen Tang,3.3,Theater Dance & Perf Stds,N10,B+,Intro To Acting
 1,Maureen Tang,2.7,Theater Dance & Perf Stds,N10,B-,Intro To Acting
-1,Maureen Tang,,Theater Dance & Perf Stds,N10,Satisfactory,Intro To Acting
+1,Maureen Tang,,Theater Dance & Perf Stds,N10,Pass,Intro To Acting
 8,Catherine Cole; Joshua Williams,4,Theater Dance & Perf Stds,25AC,A,Drama Of Am Culture
 5,Catherine Cole; Joshua Williams,3.7,Theater Dance & Perf Stds,25AC,A-,Drama Of Am Culture
 1,Catherine Cole; Joshua Williams,3.3,Theater Dance & Perf Stds,25AC,B+,Drama Of Am Culture
@@ -6195,7 +6195,7 @@
 1,Paula Cole,2.7,Theater Dance & Perf Stds,114,B-,Performance Wrkshop
 1,Paula Cole,2,Theater Dance & Perf Stds,114,C,Performance Wrkshop
 2,Paula Cole,,Theater Dance & Perf Stds,114,Pass,Performance Wrkshop
-1,Paula Cole,,Theater Dance & Perf Stds,114,Satisfactory,Performance Wrkshop
+1,Paula Cole,,Theater Dance & Perf Stds,114,Pass,Performance Wrkshop
 57,Abigail De Kosnik; Kate Mattingly; Martha Herrara-Lasso Gonzalez,4,Theater Dance & Perf Stds,118AC,A+,Perf:  Tv:  Soc Media
 18,Abigail De Kosnik; Kate Mattingly; Martha Herrara-Lasso Gonzalez,4,Theater Dance & Perf Stds,118AC,A,Perf:  Tv:  Soc Media
 3,Abigail De Kosnik; Kate Mattingly; Martha Herrara-Lasso Gonzalez,3.7,Theater Dance & Perf Stds,118AC,A-,Perf:  Tv:  Soc Media
@@ -6209,7 +6209,7 @@
 19,Abigail De Kosnik; Kate Mattingly; Martha Herrara-Lasso Gonzalez,,Theater Dance & Perf Stds,118AC,Pass,Perf:  Tv:  Soc Media
 6,Abigail De Kosnik; Kate Mattingly; Martha Herrara-Lasso Gonzalez,,Theater Dance & Perf Stds,118AC,Not Pass,Perf:  Tv:  Soc Media
 1,Elizabeth Wymore,,Theater Dance & Perf Stds,199,Pass,Superv Indep Study
-8,Catherine Cole,,Theater Dance & Perf Stds,299,Satisfactory,Special Study
+8,Catherine Cole,,Theater Dance & Perf Stds,299,Pass,Special Study
 9,Rebecca Poon,4,UGIS-UG Interdisc Studies,82,A,K-8 Teaching
 2,Rebecca Poon,3.7,UGIS-UG Interdisc Studies,82,A-,K-8 Teaching
 2,Rebecca Poon,,UGIS-UG Interdisc Studies,82,Pass,K-8 Teaching
@@ -6221,9 +6221,9 @@
 4,Elisa Stone,,UGIS-UG Interdisc Studies,190,Pass,Superv Indep Study
 1,Michael Silver,4,Vision Science,299,A,Res Vision Science
 2,Austin Roorda,4,Vision Science,299,A,Res Vision Science
-1,Austin Roorda,,Vision Science,299,Satisfactory,Res Vision Science
+1,Austin Roorda,,Vision Science,299,Pass,Res Vision Science
 1,Stanley Klein,3.7,Vision Science,299,A-,Res Vision Science
-1,Bruno Olshausen,,Vision Science,299,Satisfactory,Res Vision Science
+1,Bruno Olshausen,,Vision Science,299,Pass,Res Vision Science
 6,Kate Hawkinson,4,Visual Studies,185X,A+,Word And Image
 10,Kate Hawkinson,4,Visual Studies,185X,A,Word And Image
 3,Kate Hawkinson,3.7,Visual Studies,185X,A-,Word And Image

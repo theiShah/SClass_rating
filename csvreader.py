@@ -2,7 +2,7 @@ import csv
 import sys
 import os
 import numpy as np
-from parse_data import read_datastruct
+# from parse_data import read_datastruct
 
 def read_datafile(file_name):
     # the skiprows keyword is for heading, but I don't know if trailing lines
