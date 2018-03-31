@@ -9,6 +9,7 @@ cursor = mydb.cursor()
 
 csv_data_classes = csv.reader(file('data/new_files/new_su2015.csv'))
 csv_data = csv.reader(file('data/new_files/new_su2015.csv'))
+csv_data2 = csv.reader(file('data/new_files/new_su2015.csv'))
 
 classes = []
 dict = {'4':'num_A','3.7':'num_Am','3.3':'num_Bp','3':'num_B','2.7':'num_Bm', \
@@ -35,6 +36,8 @@ for row in csv_data:
    		SET total_enrollment = %s , """ + col + """ = %s
   		WHERE course_number=%s
 		""", (num,num,course_num))
+
+for fow in csv_data2:
     
 #close the connection to the database.
 mydb.commit()
