@@ -2,6 +2,7 @@ import csv
 import sys
 import os
 import numpy as np
+from parse_data import read_datastruct
 
 def read_datafile(file_name):
     # the skiprows keyword is for heading, but I don't know if trailing lines
@@ -22,6 +23,13 @@ def editrow(directory, filename):
                   row[14] = row[14].replace(",",": ")
               if "," in row[8]:
                   row[8] = row[8].replace(",","+")
+              row.pop(13)
+              row.pop(11)
+              row.pop(10)
+              row.pop(5)
+              row.pop(4)
+              row.pop(3)
+              row.pop(2)
               writer1.writerow(row)
 
 
@@ -38,8 +46,12 @@ for filename in os.listdir(directory):
     if filename.endswith(".csv"):
         print("Working on " + filename)
         editrow(directory, filename)
-        all_data.append(read_datafile(directory + "/new_files/new_" + filename))
-        all_filenames.append(filename)
+        # read_datastruct(directory + "/new_files/new_" + filename)
+        # all_data.append(read_datafile(directory + "/new_files/new_" + filename))
+        # all_filenames.append(filename)
         continue
     else:
         continue
+
+# for struct in all_data:
+#     read_datastruct(struct)
