@@ -16,6 +16,7 @@ def editrow(directory, filename):
                   row[8] = row[8].replace(",","+")
               writer1.writerow(row)
 
+
 if len(sys.argv) > 1:
     directory = sys.argv[1]
 else:
@@ -24,7 +25,9 @@ else:
 
 for filename in os.listdir(directory):
     if filename.endswith(".csv"):
-        editrow(directory, filename
+        editrow(directory, filename)
         continue
     else:
         continue
+
+death = read_datafile("new_files/new_" + "fa2007.csv")
