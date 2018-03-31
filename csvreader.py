@@ -32,12 +32,14 @@ else:
     sys.exit(0)
 
 all_data = []
+all_filenames = []
 
 for filename in os.listdir(directory):
     if filename.endswith(".csv"):
         print("Working on " + filename)
         editrow(directory, filename)
         all_data.append(read_datafile(directory + "/new_files/new_" + filename))
+        all_filenames.append(filename)
         continue
     else:
         continue
