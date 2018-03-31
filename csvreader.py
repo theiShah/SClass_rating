@@ -1,6 +1,7 @@
 import csv
 import sys
 import os
+from basicProcessing import read_datafile
 
 def editrow(directory, filename):
     with open(directory + filename, "rt") as csvfile:
@@ -22,8 +23,8 @@ else:
     sys.exit(0)
 
 for filename in os.listdir(directory):
-    if filename.endswith(".csv"): 
-        editrow(directory, filename)
+    if filename.endswith(".csv"):
+        editrow(directory, filename
         continue
     else:
         continue
