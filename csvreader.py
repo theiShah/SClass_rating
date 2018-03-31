@@ -1,11 +1,19 @@
 import csv
 import sys
 import os
-from basicProcessing import read_datafile
+import numpy as np
+
+def read_datafile(file_name):
+    # the skiprows keyword is for heading, but I don't know if trailing lines
+    # can be specified
+    data = np.genfromtxt(file_name, delimiter=",", names=True)
+    #print(data.dtype.names)
+    return data
+
 
 def editrow(directory, filename):
     with open(directory + filename, "rt") as csvfile:
-        with open("new_files/new_" + filename, "w+") as csvnew:
+        with open(directory + "new_files/new_" + filename, "w+") as csvnew:
           reader1 = csv.reader(csvfile, delimiter=',')
           writer1 = csv.writer(csvnew, delimiter=",")
           for row in reader1:
@@ -23,11 +31,13 @@ else:
     print("Not enough arguments")
     sys.exit(0)
 
+all_data = []
+
 for filename in os.listdir(directory):
     if filename.endswith(".csv"):
+        print("Working on " + filename)
         editrow(directory, filename)
+        all_data.append(read_datafile(directory + "/new_files/new_" + filename))
         continue
     else:
         continue
-
-death = read_datafile("new_files/new_" + "fa2007.csv")
