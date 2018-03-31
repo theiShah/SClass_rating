@@ -4,7 +4,7 @@ import sys
 def read_datafile(file_name):
     # the skiprows keyword is for heading, but I don't know if trailing lines
     # can be specified
-    data = np.genfromtxt(file_name, delimiter=',', names=True)
+    data = np.genfromtxt(file_name, delimiter=",", names=True)
     #print(data.dtype.names)
     return data
 

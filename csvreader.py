@@ -1,9 +1,10 @@
 import csv
+import sys
+import os
 
-
-def editrow(filename):
-    with open(filename, "rb") as csvfile:
-        with open("new_" + filename, "w") as csvnew:
+def editrow(directory, filename):
+    with open(directory + filename, "rt") as csvfile:
+        with open("new_files/new_" + filename, "w+") as csvnew:
           reader1 = csv.reader(csvfile, delimiter=',')
           writer1 = csv.writer(csvnew, delimiter=",")
           for row in reader1:
@@ -13,3 +14,16 @@ def editrow(filename):
               if "," in row[8]:
                   row[8] = row[8].replace(",","+")
               writer1.writerow(row)
+
+if len(sys.argv) > 1:
+    directory = sys.argv[1]
+else:
+    print("Not enough arguments")
+    sys.exit(0)
+
+for filename in os.listdir(directory):
+    if filename.endswith(".csv"): 
+        editrow(directory, filename)
+        continue
+    else:
+        continue
