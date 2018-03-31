@@ -30,6 +30,7 @@ def editrow(directory, filename):
               row.pop(4)
               row.pop(3)
               row.pop(2)
+              row.pop(1)
               writer1.writerow(row)
 
 
