@@ -35,15 +35,15 @@ def editrow(directory, filename):
                   row[5] = row[5].replace("Satisfactory","Pass")
               if "Unsatisfactory" in row[5]:
                   row[5] = row[5].replace("Unsatisfactory","Not Pass")
-              if "Honors" in row[5]: 
-                  row[5] = row[5].replace("Honors", "Pass")
-              if "High Honors" in row[5]: 
+              if "High Honors" in row[5]:
                   row[5] = row[5].replace("High Honors", "Pass")
-              if "Pass Conditional" in row[5]: 
+              if "Honors" in row[5]:
+                  row[5] = row[5].replace("Honors", "Pass")
+              if "Pass Conditional" in row[5]:
                   row[5] = row[5].replace("Pass Conditional", "Pass")
-              if "Credit" in row[5]: 
+              if "Credit" in row[5]:
                   row[5] = row[5].replace("Credit", "Pass")
-              if "No Credit" in row[5]: 
+              if "No Credit" in row[5]:
                   row[5] = row[5].replace("No Credit", "Not Pass")
               writer1.writerow(row)
 
