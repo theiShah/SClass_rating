@@ -31,6 +31,10 @@ def editrow(directory, filename):
               row.pop(3)
               row.pop(2)
               row.pop(1)
+              if "Satisfactory" in row[5]:
+                  row[5] = row[5].replace("Satisfactory","Pass")
+              if "Unsatisfactory" in row[5]:
+                  row[5] = row[5].replace("Unsatisfactory","Not Pass")
               writer1.writerow(row)
 
 
