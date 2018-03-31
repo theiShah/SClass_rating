@@ -41,10 +41,10 @@ def editrow(directory, filename):
                   row[5] = row[5].replace("Honors", "Pass")
               if "Pass Conditional" in row[5]:
                   row[5] = row[5].replace("Pass Conditional", "Pass")
-              if "Credit" in row[5]:
-                  row[5] = row[5].replace("Credit", "Pass")
               if "No Credit" in row[5]:
                   row[5] = row[5].replace("No Credit", "Not Pass")
+              if "Credit" in row[5]:
+                  row[5] = row[5].replace("Credit", "Pass")
               writer1.writerow(row)
 
 
