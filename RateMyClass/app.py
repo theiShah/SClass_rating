@@ -57,7 +57,33 @@ def course(SECTION):
 
     course = cur.fetchone()
 
-    return render_template('course.html', course=course)
+    result = cur.execute("SELECT * FROM articles WHERE section LIKE %s", [SECTION])
+
+    comments = cur.fetchall()
+
+    return render_template('course.html', course=course, comments=comments)
+
+class ArticleForm(Form):
+    body = TextAreaField('Comment below', [validators.Length(min=1)])
+
+@app.route('/add_article/<string:SECTION>', methods=['GET', 'POST'])
+def add_article(SECTION):
+    form = ArticleForm(request.form)
+    if request.method == 'POST' and form.validate():
+        body = form.body.data
+
+        # Create Cursor
+        cur = mysql.connection.cursor()
+
+        # Execute
+        cur.execute("INSERT INTO articles(body, section) VALUES(%s, %s)",(body, SECTION))
+
+        mysql.connection.commit()
+
+        return redirect(url_for('course',SECTION=SECTION))
+
+    return render_template('add_article.html', form=form)
+
 
 if __name__ == '__main__':
 	app.run(debug=True)
