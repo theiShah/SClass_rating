@@ -33,6 +33,9 @@ def editrow(directory, filename):
                           row.pop(2)
                           row.pop(1)
                           row.pop(0)
+                          row.pop(13)
+                          row.pop(13)
+                          row.pop(14)
 
                           writer1.writerow(row)
     except:
