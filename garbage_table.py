@@ -18,9 +18,12 @@ dict = {'4':'num_A','3.7':'num_Am','3.3':'num_Bp','3':'num_B','2.7':'num_Bm', \
 
 row_header = next(csv_data_classes)
 for row in csv_data_classes:
-	if classes.find(row[3]).count(row[4]) == 0:
+	if row[3] not in classes or classes[row[3]].count(row[4]) == 0:
 		#classes.append(row[4])
-		classes[row[3]].add(row[4])
+		if row[3] in classes: 
+			classes[row[3]].append(row[4])
+		else:
+			classes[row[3]] = [row[4]]
 		cursor.execute('INSERT INTO ratemyclass(course_number,professors,course_subject,course_name)' \
 			'VALUES(%s, %s, %s, %s)', (row[4],row[1],row[3],row[6]))
 
