@@ -32,6 +32,7 @@ for row in csv_data:
 	course_num = row[4]
 	num = row[0]
 	col = ''
+	# How to null in python 
 	if row[2] not in (None, ""):
 		col = dict[row[2]]
 	else:
