@@ -3,11 +3,27 @@
 {% block body %}
 <div class="container">
 <div class="mt-4 jumbotron text-center pt-3">
-	<h1 class="font-weight-bold mb-1">{{course.COURSE}}</h1>
+	<h1 class="font-weight-bold mb-1">{{course.DEPARTMENT}}{{course.COURSE}}</h1>
+	<h2 class="font-weight-bold mb-1">{{course.NAME}}</h2>
 	<small class="font-italic font-weight-bold">{{course.INSTRUCTOR}}</small>
   	<hr>
   	<div>
-    	{{course.body | safe}}
+    	<p1>Enrollment: {{course.TOTAL}}</p1>
+    </div>
+    <div>
+    	<p1>Average GPA: {{course.AVG}}</p1>
+    </div>
+    <div>
+    	<p1>Percent A: {{course.A}}</p1>
+    </div>
+    <div>
+    	<p1>Percent B: {{course.B}}</p1>
+    </div>
+    <div>
+    	<p1>Percent C: {{course.C}}</p1>
+    </div>
+    <div>
+    	<p1>Percent D: {{course.D}}</p1>
 	</div>
 </div>
 </div>
