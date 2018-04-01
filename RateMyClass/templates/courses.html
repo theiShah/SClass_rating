@@ -5,8 +5,8 @@
 <div class="mt-4 jumbotron text-center pt-2">
 	<h1 class="mb-2">Courses</h1>
 	<ul class="list-group">
-	{% for course in courses %}
-		<li class="list-group-item"><a type="button" class="btn btn-sm btn-outline-secondary" href="course/{{course.id}}">{{course.title}}</a></li>
+	{% for course in coursetable %}
+		<li class="list-group-item"><a type="button" class="btn btn-sm btn-outline-secondary" href="course/{{course.SECTION}}">{{course.DEPARTMENT}}{{course.COURSE}}</a></li>
 	{% endfor %}
 	</ul>
 </div>

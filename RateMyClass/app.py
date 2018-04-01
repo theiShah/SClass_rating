@@ -22,11 +22,11 @@ def courses_post():
     cur = mysql.connection.cursor()
 
     # Get courses
-    cur.execute("SELECT * FROM courses WHERE title LIKE '%s'" % request.form['text'])
+    cur.execute("SELECT * FROM coursetable WHERE DEPARTMENT LIKE '%s'" % request.form['text'])
 
-    courses = cur.fetchall()
+    coursetable = cur.fetchall()
 
-    return render_template('courses.html', courses=courses)
+    return render_template('courses.html', coursetable=coursetable)
     # Close connection
 
 @app.route('/courses')
@@ -35,25 +35,25 @@ def courses():
     cur = mysql.connection.cursor()
 
     # Get courses
-    result = cur.execute("SELECT * FROM courses")
+    result = cur.execute("SELECT * FROM coursetable")
 
-    courses = cur.fetchall()
+    coursetable = cur.fetchall()
 
     if result > 0:
-        return render_template('courses.html', courses=courses)
+        return render_template('courses.html', coursetable=coursetable)
     else:
         msg = 'No Courses Found'
         return render_template('courses.html', msg=msg)
     # Close connection
     cur.close()
 
-@app.route('/course/<string:id>/')
+@app.route('/course/<string:SECTION>/')
 def course(id):
     # Create cursor
     cur = mysql.connection.cursor()
 
     # Get course
-    result = cur.execute("SELECT * FROM courses WHERE id = %s", [id])
+    result = cur.execute("SELECT * FROM coursetable WHERE SECTION = %s", [SECTION])
 
     course = cur.fetchone()
 
