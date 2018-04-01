@@ -48,7 +48,7 @@ def courses():
     cur.close()
 
 @app.route('/course/<string:SECTION>/')
-def course(id):
+def course(SECTION):
     # Create cursor
     cur = mysql.connection.cursor()
 
